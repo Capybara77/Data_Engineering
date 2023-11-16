@@ -5,6 +5,7 @@ import os
 from zipfile import ZipFile
 
 all_clothing_data = []
+label_frequency = {}
 
 with ZipFile("zip_var_48.zip", "r") as zip_ref:
     file_list = zip_ref.namelist()
@@ -54,6 +55,11 @@ with ZipFile("zip_var_48.zip", "r") as zip_ref:
             }
 
             clothing_data.append(data)
+            
+            if category in label_frequency:
+                label_frequency[category] += 1
+            else:
+                label_frequency[category] = 1
 
         all_clothing_data.extend(clothing_data)
 
@@ -93,4 +99,8 @@ stats_filepath = os.path.join('results', 'stats_clothing_data.json')
 
 with open(stats_filepath, 'w', encoding='utf-8') as stats_file:
     json.dump(stats_data, stats_file, ensure_ascii=False, indent=2)
+
+label_frequency_filepath = os.path.join('results', 'label_frequency.json')
+with open(label_frequency_filepath, 'w', encoding='utf-8') as label_frequency_file:
+    json.dump(label_frequency, label_frequency_file, ensure_ascii=False, indent=2)
 
