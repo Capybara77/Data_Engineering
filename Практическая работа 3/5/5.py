@@ -4,6 +4,7 @@ import os
 from bs4 import BeautifulSoup
 import json
 from statistics import mean, stdev
+import re
 
 folder_path = 'pages'
 
@@ -25,11 +26,22 @@ for filename in os.listdir(folder_path):
             image_src = product.select_one('img.thumbnail')['src']
             price_text = product.select_one('.price').find(string=True, recursive=False).strip()
             price = int(''.join(c for c in price_text if c.isdigit()))
+            product_id = product.select_one('.img-wrap img')['id']
+            product_link = product.select_one('.name a')['href']
+
+            economy = None
+            div_hover = product.select_one('.hover-show')
+            if div_hover:
+                span_with_number = div_hover.select_one('span')
+                economy = re.sub(r'\D', '', span_with_number.text)
 
             product_data = {
                 'name': name,
+                'product_link': product_link,
+                'product_id': product_id,
                 'image_src': image_src,
-                'price': price
+                'price': price,
+                'economy': "0" if economy == '' else economy
             }
 
             products_data.append(product_data)
@@ -39,12 +51,42 @@ result_filepath = 'products_data.json'
 with open(result_filepath, 'w', encoding='utf-8') as result_file:
     json.dump(products_data, result_file, ensure_ascii=False, indent=2)
 
-
-
-
 folder_path = 'phones'
 
 phones_data = []
+
+translation_dict = {
+    "*Причина уценки": "condition",
+    "Бренд": "brand",
+    "Диагональ экрана": "screen_size",
+    "Разрешение экрана": "screen_resolution",
+    "Тип экрана": "screen_type",
+    "Смартфон с \"Монобровью\"": "notch",
+    "Встроенная память": "internal_storage",
+    "Поддержка карт памяти": "memory_card_support",
+    "Оперативная память": "ram",
+    "Платформа": "platform",
+    "Количество ядер": "number_of_cores",
+    "Процессор": "processor",
+    "Ёмкость аккумулятора": "battery_capacity",
+    "Количество SIM-карт": "number_of_sim_cards",
+    "Тип SIM-карты": "sim_card_type",
+    "Интернет": "internet",
+    "Навигация": "navigation",
+    "Модуль NFC": "nfc",
+    "Двойная камера": "dual_camera",
+    "Основная камера": "main_camera",
+    "Фронтальная камера": "front_camera",
+    "Разблокировка по лицу": "face_unlock",
+    "Защита от влаги": "water_resistance",
+    "Модель года": "model_year",
+    "Материал корпуса": "body_material",
+    "Вес, г": "weight",
+    "Длина, мм": "length",
+    "Ширина, мм": "width",
+    "Толщина, мм": "thickness",
+    "Цвет": "color"
+}
 
 for filename in os.listdir(folder_path):
     if filename.endswith('.html'):
@@ -63,7 +105,11 @@ for filename in os.listdir(folder_path):
             if len(columns) == 2:
                 key = columns[0].text.strip()
                 value = columns[1].text.strip()
-                phone_data[key] = value
+
+                # Используем словарь для соответствия русских и английских названий
+                english_key = translation_dict.get(key)
+                if english_key:
+                    phone_data[english_key] = value
 
         phones_data.append(phone_data)
         

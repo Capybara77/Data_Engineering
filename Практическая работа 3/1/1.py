@@ -16,8 +16,8 @@ with ZipFile("zip_var_48.zip", "r") as zip_ref:
         soup = BeautifulSoup(html_content, "html.parser")
 
         city = soup.select_one('.build-wrapper > div:nth-child(1) > span').text.strip()
-        structure_title = soup.select_one('.title').text.strip()
-        address = soup.select_one('.address-p').text.strip()
+        structure_title = soup.select_one('.title').text.strip().replace('\n', ' ').replace('\t', ' ').replace('  ', ' ').replace('   ', ' ').replace('\r', '')
+        address = soup.select_one('.address-p').text.strip().replace('\n', ' ').replace('\t', ' ').replace('  ', ' ').replace('   ', ' ').replace('\r', '')
         floors = int(soup.select_one('.floors').text.split(':')[-1].strip())
         year_built = int(soup.select_one('.year').text.split()[-1].strip())
         parking = soup.select('div:nth-child(3) > span')[2].text.strip().split(':')[-1].strip()

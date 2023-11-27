@@ -3,6 +3,7 @@ from bs4 import BeautifulSoup
 import os
 from zipfile import ZipFile
 from statistics import mean, stdev
+import re
 
 all_product_data = []
 label_frequency = {}
@@ -28,6 +29,7 @@ with ZipFile("zip_var_48.zip", "r") as zip_ref:
             description = product_item.select_one('span').get_text(strip=True)
             price = product_item.select_one('price').get_text(strip=True)
             bonus = product_item.select_one('strong').get_text(strip=True)
+            bonus = re.sub(r'\D', '', bonus)
 
             characteristics = {}
             for li_elem in product_item.select('ul li'):

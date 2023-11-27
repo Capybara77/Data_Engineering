@@ -5,7 +5,7 @@
     "image_src": "/upload/263688.webp",
     "description": "6.7\" LG 96GB",
     "price": "223 784 ₽",
-    "bonus": "+ начислим 2237 бонусов",
+    "bonus": "2237",
     "characteristics": {
       "processor": "8x4.9 ГГц",
       "ram": "7 GB",
@@ -21,7 +21,7 @@
     "image_src": "/upload/721487.png",
     "description": "6.2\" Marvell 96GB",
     "price": "343 010 ₽",
-    "bonus": "+ начислим 3430 бонусов",
+    "bonus": "3430",
     "characteristics": {
       "processor": "4x2.3 ГГц",
       "ram": "5 GB",
@@ -38,7 +38,7 @@
     "image_src": "/upload/509430.webp",
     "description": "6.7\" Samsung Note 32GB",
     "price": "31 882 ₽",
-    "bonus": "+ начислим 318 бонусов",
+    "bonus": "318",
     "characteristics": {
       "processor": "4x2.3 ГГц",
       "ram": "8 GB",
@@ -54,7 +54,7 @@
     "image_src": "/upload/928560.svg",
     "description": "6.3\" Toshiba 64GB",
     "price": "26 960 ₽",
-    "bonus": "+ начислим 269 бонусов",
+    "bonus": "269",
     "characteristics": {
       "processor": "6x4.1 ГГц",
       "ram": "6 GB",
@@ -71,7 +71,7 @@
     "image_src": "/upload/811181.svg",
     "description": "6.8\" Apple 112GB",
     "price": "279 954 ₽",
-    "bonus": "+ начислим 2799 бонусов",
+    "bonus": "2799",
     "characteristics": {
       "ram": "2 GB",
       "sim": "4 SIM",
@@ -85,7 +85,7 @@
     "image_src": "/upload/871538.webp",
     "description": "7.0\" PNY 96GB",
     "price": "111 569 ₽",
-    "bonus": "+ начислим 1115 бонусов",
+    "bonus": "1115",
     "characteristics": {
       "processor": "2x1.6 ГГц",
       "ram": "15 GB",
@@ -101,7 +101,7 @@
     "image_src": "/upload/513857.svg",
     "description": "7.4\" Broadcom 32GB",
     "price": "29 607 ₽",
-    "bonus": "+ начислим 296 бонусов",
+    "bonus": "296",
     "characteristics": {
       "ram": "14 GB",
       "sim": "4 SIM",
@@ -116,7 +116,7 @@
     "image_src": "/upload/655587.webp",
     "description": "5.6\" Transcend 192GB",
     "price": "148 842 ₽",
-    "bonus": "+ начислим 1488 бонусов",
+    "bonus": "1488",
     "characteristics": {
       "processor": "8x3.3 ГГц",
       "ram": "2 GB",
@@ -132,7 +132,7 @@
     "image_src": "/upload/496835.jpeg",
     "description": "7.4\" Marvell 176GB",
     "price": "350 790 ₽",
-    "bonus": "+ начислим 3507 бонусов",
+    "bonus": "3507",
     "characteristics": {
       "ram": "15 GB",
       "sim": "4 SIM",
@@ -145,7 +145,7 @@
     "image_src": "/upload/598012.jpeg",
     "description": "7.5\" Lenovo 96GB",
     "price": "477 951 ₽",
-    "bonus": "+ начислим 4779 бонусов",
+    "bonus": "4779",
     "characteristics": {
       "ram": "12 GB",
       "sim": "4 SIM",
@@ -159,7 +159,7 @@
     "image_src": "/upload/530121.svg",
     "description": "5.3\" Lenovo 176GB",
     "price": "183 260 ₽",
-    "bonus": "+ начислим 1832 бонусов",
+    "bonus": "1832",
     "characteristics": {
       "processor": "6x1.9 ГГц",
       "sim": "4 SIM",
@@ -174,7 +174,7 @@
     "image_src": "/upload/366020.webp",
     "description": "5.8\" Nokia 144GB",
     "price": "272 731 ₽",
-    "bonus": "+ начислим 2727 бонусов",
+    "bonus": "2727",
     "characteristics": {
       "ram": "16 GB",
       "sim": "4 SIM",
@@ -187,7 +187,7 @@
     "image_src": "/upload/611320.webp",
     "description": "7.2\" iPhone X 224GB",
     "price": "422 177 ₽",
-    "bonus": "+ начислим 4221 бонусов",
+    "bonus": "4221",
     "characteristics": {
       "processor": "6x4.6 ГГц",
       "ram": "10 GB",
@@ -202,7 +202,7 @@
     "image_src": "/upload/588945.png",
     "description": "6.9\" ARM 64GB",
     "price": "385 185 ₽",
-    "bonus": "+ начислим 3851 бонусов",
+    "bonus": "3851",
     "characteristics": {
       "processor": "8x3.6 ГГц",
       "ram": "16 GB",
@@ -217,7 +217,7 @@
     "image_src": "/upload/487748.webp",
     "description": "7.2\" OCZ 144GB",
     "price": "150 275 ₽",
-    "bonus": "+ начислим 1502 бонусов",
+    "bonus": "1502",
     "characteristics": {
       "processor": "4x2.7 ГГц",
       "ram": "15 GB",
@@ -234,7 +234,7 @@
     "image_src": "/upload/780534.jpg",
     "description": "5.2\" Apple 32GB",
     "price": "288 857 ₽",
-    "bonus": "+ начислим 2888 бонусов",
+    "bonus": "2888",
     "characteristics": {
       "processor": "8x1.7 ГГц",
       "ram": "8 GB",
@@ -250,7 +250,7 @@
     "image_src": "/upload/19458.svg",
     "description": "6.1\" ASUS 208GB",
     "price": "340 934 ₽",
-    "bonus": "+ начислим 3409 бонусов",
+    "bonus": "3409",
     "characteristics": {
       "ram": "12 GB",
       "sim": "4 SIM",
@@ -264,7 +264,7 @@
     "image_src": "/upload/86414.webp",
     "description": "7.4\" ZTE 160GB",
     "price": "63 116 ₽",
-    "bonus": "+ начислим 631 бонусов",
+    "bonus": "631",
     "characteristics": {
       "processor": "8x3.6 ГГц",
       "ram": "8 GB",
@@ -280,7 +280,7 @@
     "image_src": "/upload/665597.svg",
     "description": "6.9\" Lenovo 192GB",
     "price": "67 505 ₽",
-    "bonus": "+ начислим 675 бонусов",
+    "bonus": "675",
     "characteristics": {
       "sim": "4 SIM",
       "resolution": "1366x768",
@@ -294,7 +294,7 @@
     "image_src": "/upload/280774.jpg",
     "description": "6.2\" Acer 208GB",
     "price": "294 141 ₽",
-    "bonus": "+ начислим 2941 бонусов",
+    "bonus": "2941",
     "characteristics": {
       "processor": "2x4.0 ГГц",
       "ram": "9 GB",
@@ -310,7 +310,7 @@
     "image_src": "/upload/631272.jpeg",
     "description": "6.6\" Intel 32GB",
     "price": "10 090 ₽",
-    "bonus": "+ начислим 100 бонусов",
+    "bonus": "100",
     "characteristics": {
       "ram": "3 GB",
       "sim": "4 SIM",
@@ -324,7 +324,7 @@
     "image_src": "/upload/112842.png",
     "description": "7.0\" Western Digital 16GB",
     "price": "152 996 ₽",
-    "bonus": "+ начислим 1529 бонусов",
+    "bonus": "1529",
     "characteristics": {
       "processor": "4x3.8 ГГц",
       "ram": "14 GB",
@@ -338,7 +338,7 @@
     "image_src": "/upload/746157.svg",
     "description": "5.4\" AMD 48GB",
     "price": "396 744 ₽",
-    "bonus": "+ начислим 3967 бонусов",
+    "bonus": "3967",
     "characteristics": {
       "ram": "14 GB",
       "sim": "4 SIM",
@@ -354,7 +354,7 @@
     "image_src": "/upload/34267.jpg",
     "description": "5.9\" PNY 256GB",
     "price": "19 465 ₽",
-    "bonus": "+ начислим 194 бонусов",
+    "bonus": "194",
     "characteristics": {
       "ram": "2 GB",
       "sim": "4 SIM",
@@ -369,7 +369,7 @@
     "image_src": "/upload/748484.png",
     "description": "5.7\" HGST 160GB",
     "price": "234 113 ₽",
-    "bonus": "+ начислим 2341 бонусов",
+    "bonus": "2341",
     "characteristics": {
       "sim": "4 SIM",
       "acc": "3642 мА * ч"
@@ -381,7 +381,7 @@
     "image_src": "/upload/63046.jpeg",
     "description": "5.8\" Seagate 32GB",
     "price": "135 325 ₽",
-    "bonus": "+ начислим 1353 бонусов",
+    "bonus": "1353",
     "characteristics": {
       "sim": "4 SIM",
       "matrix": "OLED",
@@ -395,7 +395,7 @@
     "image_src": "/upload/323816.jpg",
     "description": "5.9\" Asus 240GB",
     "price": "42 179 ₽",
-    "bonus": "+ начислим 421 бонусов",
+    "bonus": "421",
     "characteristics": {
       "sim": "4 SIM",
       "resolution": "1024x1366",
@@ -409,7 +409,7 @@
     "image_src": "/upload/695249.jpeg",
     "description": "6.5\" Acer 176GB",
     "price": "123 544 ₽",
-    "bonus": "+ начислим 1235 бонусов",
+    "bonus": "1235",
     "characteristics": {
       "ram": "7 GB",
       "sim": "4 SIM",
@@ -424,7 +424,7 @@
     "image_src": "/upload/826724.jpg",
     "description": "6.2\" Dell 176GB",
     "price": "228 329 ₽",
-    "bonus": "+ начислим 2283 бонусов",
+    "bonus": "2283",
     "characteristics": {
       "ram": "12 GB",
       "sim": "4 SIM",
@@ -437,7 +437,7 @@
     "image_src": "/upload/265057.jpeg",
     "description": "5.8\" Seagate 256GB",
     "price": "493 435 ₽",
-    "bonus": "+ начислим 4934 бонусов",
+    "bonus": "4934",
     "characteristics": {
       "processor": "8x2.1 ГГц",
       "sim": "4 SIM",
@@ -450,7 +450,7 @@
     "image_src": "/upload/708571.jpeg",
     "description": "6.2\" Seagate 96GB",
     "price": "22 348 ₽",
-    "bonus": "+ начислим 223 бонусов",
+    "bonus": "223",
     "characteristics": {
       "sim": "4 SIM",
       "matrix": "AMOLED",
@@ -464,7 +464,7 @@
     "image_src": "/upload/63944.jpg",
     "description": "7.5\" Dell 112GB",
     "price": "406 124 ₽",
-    "bonus": "+ начислим 4061 бонусов",
+    "bonus": "4061",
     "characteristics": {
       "processor": "2x2.4 ГГц",
       "sim": "4 SIM",
@@ -480,7 +480,7 @@
     "image_src": "/upload/410937.jpg",
     "description": "6.1\" Apple 240GB",
     "price": "376 421 ₽",
-    "bonus": "+ начислим 3764 бонусов",
+    "bonus": "3764",
     "characteristics": {
       "ram": "10 GB",
       "sim": "4 SIM",
@@ -494,7 +494,7 @@
     "image_src": "/upload/419448.jpg",
     "description": "6.4\" Plextor 144GB",
     "price": "478 429 ₽",
-    "bonus": "+ начислим 4784 бонусов",
+    "bonus": "4784",
     "characteristics": {
       "processor": "6x3.2 ГГц",
       "ram": "9 GB",
@@ -509,7 +509,7 @@
     "image_src": "/upload/154149.jpeg",
     "description": "5.0\" MSI 208GB",
     "price": "202 433 ₽",
-    "bonus": "+ начислим 2024 бонусов",
+    "bonus": "2024",
     "characteristics": {
       "ram": "6 GB",
       "sim": "4 SIM",
@@ -523,7 +523,7 @@
     "image_src": "/upload/18345.jpeg",
     "description": "6.3\" OCZ 48GB",
     "price": "456 223 ₽",
-    "bonus": "+ начислим 4562 бонусов",
+    "bonus": "4562",
     "characteristics": {
       "processor": "4x2.3 ГГц",
       "ram": "15 GB",
@@ -537,7 +537,7 @@
     "image_src": "/upload/68854.svg",
     "description": "5.5\" Toshiba 48GB",
     "price": "253 338 ₽",
-    "bonus": "+ начислим 2533 бонусов",
+    "bonus": "2533",
     "characteristics": {
       "processor": "2x1.6 ГГц",
       "sim": "4 SIM",
@@ -552,7 +552,7 @@
     "image_src": "/upload/781633.jpeg",
     "description": "5.7\" Qualcomm 192GB",
     "price": "109 875 ₽",
-    "bonus": "+ начислим 1098 бонусов",
+    "bonus": "1098",
     "characteristics": {
       "processor": "6x4.4 ГГц",
       "ram": "6 GB",
@@ -566,7 +566,7 @@
     "image_src": "/upload/546892.png",
     "description": "6.6\" VIVO 128GB",
     "price": "136 678 ₽",
-    "bonus": "+ начислим 1366 бонусов",
+    "bonus": "1366",
     "characteristics": {
       "processor": "6x3.4 ГГц",
       "ram": "2 GB",
@@ -582,7 +582,7 @@
     "image_src": "/upload/859071.jpg",
     "description": "5.9\" Nokia 96GB",
     "price": "282 075 ₽",
-    "bonus": "+ начислим 2820 бонусов",
+    "bonus": "2820",
     "characteristics": {
       "sim": "4 SIM",
       "matrix": "OLED",
@@ -596,7 +596,7 @@
     "image_src": "/upload/327442.svg",
     "description": "6.4\" HGST 192GB",
     "price": "494 586 ₽",
-    "bonus": "+ начислим 4945 бонусов",
+    "bonus": "4945",
     "characteristics": {
       "sim": "4 SIM",
       "matrix": "IPS",
@@ -610,7 +610,7 @@
     "image_src": "/upload/415232.jpg",
     "description": "6.9\" Micron 192GB",
     "price": "101 407 ₽",
-    "bonus": "+ начислим 1014 бонусов",
+    "bonus": "1014",
     "characteristics": {
       "processor": "4x4.8 ГГц",
       "sim": "4 SIM",
@@ -625,7 +625,7 @@
     "image_src": "/upload/58177.png",
     "description": "5.9\" Samsung S21 112GB",
     "price": "391 023 ₽",
-    "bonus": "+ начислим 3910 бонусов",
+    "bonus": "3910",
     "characteristics": {
       "ram": "8 GB",
       "sim": "4 SIM",
@@ -639,7 +639,7 @@
     "image_src": "/upload/129341.jpg",
     "description": "5.7\" Acer 16GB",
     "price": "291 702 ₽",
-    "bonus": "+ начислим 2917 бонусов",
+    "bonus": "2917",
     "characteristics": {
       "processor": "8x2.4 ГГц",
       "ram": "7 GB",
@@ -655,7 +655,7 @@
     "image_src": "/upload/154957.webp",
     "description": "6.2\" Silicon Power 256GB",
     "price": "216 947 ₽",
-    "bonus": "+ начислим 2169 бонусов",
+    "bonus": "2169",
     "characteristics": {
       "ram": "8 GB",
       "sim": "4 SIM",
@@ -671,7 +671,7 @@
     "image_src": "/upload/804857.png",
     "description": "6.2\" Samsung Note 240GB",
     "price": "350 216 ₽",
-    "bonus": "+ начислим 3502 бонусов",
+    "bonus": "3502",
     "characteristics": {
       "sim": "4 SIM",
       "matrix": "OLED",
@@ -685,7 +685,7 @@
     "image_src": "/upload/711406.svg",
     "description": "5.5\" Transcend 16GB",
     "price": "194 665 ₽",
-    "bonus": "+ начислим 1946 бонусов",
+    "bonus": "1946",
     "characteristics": {
       "ram": "7 GB",
       "sim": "4 SIM",
@@ -698,7 +698,7 @@
     "image_src": "/upload/734684.jpeg",
     "description": "7.5\" LG 256GB",
     "price": "294 138 ₽",
-    "bonus": "+ начислим 2941 бонусов",
+    "bonus": "2941",
     "characteristics": {
       "sim": "4 SIM",
       "camera": "93 MP",
@@ -711,7 +711,7 @@
     "image_src": "/upload/381526.jpeg",
     "description": "6.7\" Alcatel 224GB",
     "price": "463 107 ₽",
-    "bonus": "+ начислим 4631 бонусов",
+    "bonus": "4631",
     "characteristics": {
       "processor": "2x2.6 ГГц",
       "sim": "4 SIM",
@@ -726,7 +726,7 @@
     "image_src": "/upload/922248.jpeg",
     "description": "6.0\" Huawei P 112GB",
     "price": "156 944 ₽",
-    "bonus": "+ начислим 1569 бонусов",
+    "bonus": "1569",
     "characteristics": {
       "processor": "6x5.0 ГГц",
       "ram": "11 GB",
@@ -742,7 +742,7 @@
     "image_src": "/upload/50422.webp",
     "description": "6.6\" HGST 224GB",
     "price": "341 953 ₽",
-    "bonus": "+ начислим 3419 бонусов",
+    "bonus": "3419",
     "characteristics": {
       "processor": "2x3.3 ГГц",
       "ram": "3 GB",
@@ -757,7 +757,7 @@
     "image_src": "/upload/163451.svg",
     "description": "5.6\" Blackberry 32GB",
     "price": "390 648 ₽",
-    "bonus": "+ начислим 3906 бонусов",
+    "bonus": "3906",
     "characteristics": {
       "ram": "9 GB",
       "sim": "4 SIM",
@@ -772,7 +772,7 @@
     "image_src": "/upload/919476.jpg",
     "description": "6.7\" Nokia 112GB",
     "price": "421 758 ₽",
-    "bonus": "+ начислим 4217 бонусов",
+    "bonus": "4217",
     "characteristics": {
       "sim": "4 SIM",
       "resolution": "1280x1080",
@@ -785,7 +785,7 @@
     "image_src": "/upload/437690.svg",
     "description": "7.4\" Seagate 32GB",
     "price": "35 471 ₽",
-    "bonus": "+ начислим 354 бонусов",
+    "bonus": "354",
     "characteristics": {
       "ram": "5 GB",
       "sim": "4 SIM",
@@ -799,7 +799,7 @@
     "image_src": "/upload/337927.webp",
     "description": "6.9\" iPhone 13 64GB",
     "price": "383 661 ₽",
-    "bonus": "+ начислим 3836 бонусов",
+    "bonus": "3836",
     "characteristics": {
       "processor": "6x2.2 ГГц",
       "sim": "4 SIM",
@@ -814,7 +814,7 @@
     "image_src": "/upload/399522.webp",
     "description": "7.5\" Xiaomi Mi 144GB",
     "price": "389 999 ₽",
-    "bonus": "+ начислим 3899 бонусов",
+    "bonus": "3899",
     "characteristics": {
       "sim": "4 SIM",
       "resolution": "1600x1080",
@@ -828,7 +828,7 @@
     "image_src": "/upload/638369.svg",
     "description": "5.5\" Acer 80GB",
     "price": "131 238 ₽",
-    "bonus": "+ начислим 1312 бонусов",
+    "bonus": "1312",
     "characteristics": {
       "processor": "6x3.3 ГГц",
       "ram": "15 GB",
@@ -842,7 +842,7 @@
     "image_src": "/upload/253091.svg",
     "description": "5.9\" Intel 112GB",
     "price": "162 016 ₽",
-    "bonus": "+ начислим 1620 бонусов",
+    "bonus": "1620",
     "characteristics": {
       "processor": "4x2.2 ГГц",
       "ram": "12 GB",
@@ -859,7 +859,7 @@
     "image_src": "/upload/566665.jpeg",
     "description": "7.3\" Samsung Note 32GB",
     "price": "131 659 ₽",
-    "bonus": "+ начислим 1316 бонусов",
+    "bonus": "1316",
     "characteristics": {
       "ram": "8 GB",
       "sim": "4 SIM",
@@ -872,7 +872,7 @@
     "image_src": "/upload/2008.svg",
     "description": "7.2\" Silicon Power 144GB",
     "price": "35 788 ₽",
-    "bonus": "+ начислим 357 бонусов",
+    "bonus": "357",
     "characteristics": {
       "processor": "6x3.7 ГГц",
       "sim": "4 SIM",
@@ -888,7 +888,7 @@
     "image_src": "/upload/39493.jpeg",
     "description": "6.1\" LG 32GB",
     "price": "490 562 ₽",
-    "bonus": "+ начислим 4905 бонусов",
+    "bonus": "4905",
     "characteristics": {
       "processor": "4x3.8 ГГц",
       "ram": "3 GB",
@@ -903,7 +903,7 @@
     "image_src": "/upload/494642.jpeg",
     "description": "6.7\" Corsair 112GB",
     "price": "199 954 ₽",
-    "bonus": "+ начислим 1999 бонусов",
+    "bonus": "1999",
     "characteristics": {
       "ram": "4 GB",
       "sim": "4 SIM",
@@ -917,7 +917,7 @@
     "image_src": "/upload/324793.png",
     "description": "5.2\" Plextor 144GB",
     "price": "408 920 ₽",
-    "bonus": "+ начислим 4089 бонусов",
+    "bonus": "4089",
     "characteristics": {
       "sim": "4 SIM",
       "camera": "96 MP"
@@ -929,7 +929,7 @@
     "image_src": "/upload/475164.png",
     "description": "5.2\" iPhone 13 240GB",
     "price": "109 241 ₽",
-    "bonus": "+ начислим 1092 бонусов",
+    "bonus": "1092",
     "characteristics": {
       "processor": "8x4.8 ГГц",
       "sim": "4 SIM",
@@ -945,7 +945,7 @@
     "image_src": "/upload/991486.svg",
     "description": "7.3\" SanDisk 176GB",
     "price": "455 669 ₽",
-    "bonus": "+ начислим 4556 бонусов",
+    "bonus": "4556",
     "characteristics": {
       "processor": "2x2.4 ГГц",
       "ram": "8 GB",
@@ -960,7 +960,7 @@
     "image_src": "/upload/964267.png",
     "description": "6.7\" Samsung Note 144GB",
     "price": "403 519 ₽",
-    "bonus": "+ начислим 4035 бонусов",
+    "bonus": "4035",
     "characteristics": {
       "ram": "13 GB",
       "sim": "4 SIM",
@@ -976,7 +976,7 @@
     "image_src": "/upload/52752.jpeg",
     "description": "6.0\" LaCie 224GB",
     "price": "383 089 ₽",
-    "bonus": "+ начислим 3830 бонусов",
+    "bonus": "3830",
     "characteristics": {
       "processor": "4x1.4 ГГц",
       "ram": "12 GB",
@@ -992,7 +992,7 @@
     "image_src": "/upload/267455.webp",
     "description": "7.4\" ASUS 112GB",
     "price": "159 217 ₽",
-    "bonus": "+ начислим 1592 бонусов",
+    "bonus": "1592",
     "characteristics": {
       "processor": "8x2.1 ГГц",
       "ram": "2 GB",
@@ -1008,7 +1008,7 @@
     "image_src": "/upload/604814.jpg",
     "description": "6.5\" iPhone 13 224GB",
     "price": "112 867 ₽",
-    "bonus": "+ начислим 1128 бонусов",
+    "bonus": "1128",
     "characteristics": {
       "sim": "4 SIM",
       "matrix": "AMOLED"
@@ -1020,7 +1020,7 @@
     "image_src": "/upload/145876.webp",
     "description": "5.9\" Blackberry 256GB",
     "price": "36 322 ₽",
-    "bonus": "+ начислим 363 бонусов",
+    "bonus": "363",
     "characteristics": {
       "processor": "6x1.1 ГГц",
       "sim": "4 SIM",
@@ -1034,7 +1034,7 @@
     "image_src": "/upload/567000.jpeg",
     "description": "7.3\" SanDisk 144GB",
     "price": "114 313 ₽",
-    "bonus": "+ начислим 1143 бонусов",
+    "bonus": "1143",
     "characteristics": {
       "processor": "8x2.8 ГГц",
       "ram": "13 GB",
@@ -1050,7 +1050,7 @@
     "image_src": "/upload/346937.png",
     "description": "5.3\" Seagate 256GB",
     "price": "48 147 ₽",
-    "bonus": "+ начислим 481 бонусов",
+    "bonus": "481",
     "characteristics": {
       "processor": "6x2.2 ГГц",
       "sim": "4 SIM",
@@ -1066,7 +1066,7 @@
     "image_src": "/upload/932405.png",
     "description": "7.1\" Gigabyte 16GB",
     "price": "293 007 ₽",
-    "bonus": "+ начислим 2930 бонусов",
+    "bonus": "2930",
     "characteristics": {
       "processor": "2x4.5 ГГц",
       "ram": "9 GB",
@@ -1081,7 +1081,7 @@
     "image_src": "/upload/457529.webp",
     "description": "6.0\" Kingston 224GB",
     "price": "28 382 ₽",
-    "bonus": "+ начислим 283 бонусов",
+    "bonus": "283",
     "characteristics": {
       "processor": "6x1.0 ГГц",
       "ram": "15 GB",
@@ -1098,7 +1098,7 @@
     "image_src": "/upload/135666.webp",
     "description": "7.5\" iPhone X 240GB",
     "price": "435 691 ₽",
-    "bonus": "+ начислим 4356 бонусов",
+    "bonus": "4356",
     "characteristics": {
       "ram": "5 GB",
       "sim": "4 SIM",
@@ -1114,7 +1114,7 @@
     "image_src": "/upload/230396.jpeg",
     "description": "5.8\" ADATA 224GB",
     "price": "20 597 ₽",
-    "bonus": "+ начислим 205 бонусов",
+    "bonus": "205",
     "characteristics": {
       "processor": "4x2.4 ГГц",
       "ram": "14 GB",
@@ -1129,7 +1129,7 @@
     "image_src": "/upload/937520.jpg",
     "description": "7.3\" OCZ 112GB",
     "price": "194 318 ₽",
-    "bonus": "+ начислим 1943 бонусов",
+    "bonus": "1943",
     "characteristics": {
       "processor": "4x2.2 ГГц",
       "ram": "12 GB",
@@ -1144,7 +1144,7 @@
     "image_src": "/upload/181467.png",
     "description": "5.8\" Seagate 208GB",
     "price": "466 655 ₽",
-    "bonus": "+ начислим 4666 бонусов",
+    "bonus": "4666",
     "characteristics": {
       "ram": "16 GB",
       "sim": "4 SIM",
@@ -1158,7 +1158,7 @@
     "image_src": "/upload/760469.jpg",
     "description": "5.9\" ASUS 240GB",
     "price": "192 441 ₽",
-    "bonus": "+ начислим 1924 бонусов",
+    "bonus": "1924",
     "characteristics": {
       "processor": "6x3.0 ГГц",
       "ram": "7 GB",
@@ -1173,7 +1173,7 @@
     "image_src": "/upload/977514.svg",
     "description": "5.1\" Dell 128GB",
     "price": "114 493 ₽",
-    "bonus": "+ начислим 1144 бонусов",
+    "bonus": "1144",
     "characteristics": {
       "processor": "4x4.5 ГГц",
       "ram": "2 GB",
@@ -1187,7 +1187,7 @@
     "image_src": "/upload/197965.jpeg",
     "description": "7.5\" Hewlett-Packard 80GB",
     "price": "109 632 ₽",
-    "bonus": "+ начислим 1096 бонусов",
+    "bonus": "1096",
     "characteristics": {
       "sim": "4 SIM",
       "matrix": "OLED",
@@ -1202,7 +1202,7 @@
     "image_src": "/upload/10758.png",
     "description": "6.8\" Blackberry 176GB",
     "price": "367 092 ₽",
-    "bonus": "+ начислим 3670 бонусов",
+    "bonus": "3670",
     "characteristics": {
       "processor": "6x2.1 ГГц",
       "sim": "4 SIM",
@@ -1216,7 +1216,7 @@
     "image_src": "/upload/795088.webp",
     "description": "6.7\" Seagate 160GB",
     "price": "99 275 ₽",
-    "bonus": "+ начислим 992 бонусов",
+    "bonus": "992",
     "characteristics": {
       "ram": "12 GB",
       "sim": "4 SIM",
@@ -1230,7 +1230,7 @@
     "image_src": "/upload/620504.png",
     "description": "6.6\" Huawei P 240GB",
     "price": "300 886 ₽",
-    "bonus": "+ начислим 3008 бонусов",
+    "bonus": "3008",
     "characteristics": {
       "processor": "4x4.2 ГГц",
       "ram": "14 GB",
@@ -1244,7 +1244,7 @@
     "image_src": "/upload/815080.jpeg",
     "description": "6.4\" Lenovo 160GB",
     "price": "424 458 ₽",
-    "bonus": "+ начислим 4244 бонусов",
+    "bonus": "4244",
     "characteristics": {
       "processor": "2x4.8 ГГц",
       "ram": "14 GB",
@@ -1259,7 +1259,7 @@
     "image_src": "/upload/154198.jpeg",
     "description": "5.2\" Marvell 176GB",
     "price": "277 067 ₽",
-    "bonus": "+ начислим 2770 бонусов",
+    "bonus": "2770",
     "characteristics": {
       "processor": "4x4.4 ГГц",
       "sim": "4 SIM",
@@ -1274,7 +1274,7 @@
     "image_src": "/upload/266669.jpeg",
     "description": "5.0\" Xiaomi Mi 224GB",
     "price": "405 360 ₽",
-    "bonus": "+ начислим 4053 бонусов",
+    "bonus": "4053",
     "characteristics": {
       "processor": "4x2.7 ГГц",
       "sim": "4 SIM",
@@ -1287,7 +1287,7 @@
     "image_src": "/upload/973358.webp",
     "description": "5.5\" Silicon Power 208GB",
     "price": "75 929 ₽",
-    "bonus": "+ начислим 759 бонусов",
+    "bonus": "759",
     "characteristics": {
       "processor": "4x4.6 ГГц",
       "sim": "4 SIM"
@@ -1299,7 +1299,7 @@
     "image_src": "/upload/888674.jpeg",
     "description": "5.8\" Broadcom 16GB",
     "price": "367 108 ₽",
-    "bonus": "+ начислим 3671 бонусов",
+    "bonus": "3671",
     "characteristics": {
       "ram": "5 GB",
       "sim": "4 SIM"
@@ -1311,7 +1311,7 @@
     "image_src": "/upload/399699.svg",
     "description": "6.3\" Seagate 112GB",
     "price": "343 501 ₽",
-    "bonus": "+ начислим 3435 бонусов",
+    "bonus": "3435",
     "characteristics": {
       "ram": "2 GB",
       "sim": "4 SIM",
@@ -1326,7 +1326,7 @@
     "image_src": "/upload/531740.jpg",
     "description": "6.4\" Silicon Power 64GB",
     "price": "327 437 ₽",
-    "bonus": "+ начислим 3274 бонусов",
+    "bonus": "3274",
     "characteristics": {
       "ram": "11 GB",
       "sim": "4 SIM",
@@ -1340,7 +1340,7 @@
     "image_src": "/upload/174347.jpeg",
     "description": "6.6\" SanDisk 192GB",
     "price": "70 298 ₽",
-    "bonus": "+ начислим 702 бонусов",
+    "bonus": "702",
     "characteristics": {
       "ram": "12 GB",
       "sim": "4 SIM",
@@ -1355,7 +1355,7 @@
     "image_src": "/upload/584838.jpg",
     "description": "6.4\" iPhone 12 48GB",
     "price": "137 851 ₽",
-    "bonus": "+ начислим 1378 бонусов",
+    "bonus": "1378",
     "characteristics": {
       "processor": "4x2.6 ГГц",
       "sim": "4 SIM",
@@ -1369,7 +1369,7 @@
     "image_src": "/upload/469117.png",
     "description": "5.9\" HTC 256GB",
     "price": "215 616 ₽",
-    "bonus": "+ начислим 2156 бонусов",
+    "bonus": "2156",
     "characteristics": {
       "ram": "13 GB",
       "sim": "4 SIM",
@@ -1383,7 +1383,7 @@
     "image_src": "/upload/601705.jpeg",
     "description": "7.4\" iPhone X 240GB",
     "price": "83 186 ₽",
-    "bonus": "+ начислим 831 бонусов",
+    "bonus": "831",
     "characteristics": {
       "ram": "4 GB",
       "sim": "4 SIM",
@@ -1398,7 +1398,7 @@
     "image_src": "/upload/241359.svg",
     "description": "5.8\" Motorola 224GB",
     "price": "260 881 ₽",
-    "bonus": "+ начислим 2608 бонусов",
+    "bonus": "2608",
     "characteristics": {
       "processor": "6x2.8 ГГц",
       "sim": "4 SIM",
@@ -1412,7 +1412,7 @@
     "image_src": "/upload/411260.jpeg",
     "description": "7.2\" Broadcom 176GB",
     "price": "472 355 ₽",
-    "bonus": "+ начислим 4723 бонусов",
+    "bonus": "4723",
     "characteristics": {
       "sim": "4 SIM",
       "matrix": "OLED",
@@ -1426,7 +1426,7 @@
     "image_src": "/upload/223372.jpeg",
     "description": "6.9\" Gigabyte 48GB",
     "price": "169 318 ₽",
-    "bonus": "+ начислим 1693 бонусов",
+    "bonus": "1693",
     "characteristics": {
       "ram": "8 GB",
       "sim": "4 SIM",
@@ -1440,7 +1440,7 @@
     "image_src": "/upload/230707.webp",
     "description": "6.4\" Samsung S21 96GB",
     "price": "331 532 ₽",
-    "bonus": "+ начислим 3315 бонусов",
+    "bonus": "3315",
     "characteristics": {
       "ram": "4 GB",
       "sim": "4 SIM",
@@ -1455,7 +1455,7 @@
     "image_src": "/upload/604335.webp",
     "description": "6.8\" Fujitsu 48GB",
     "price": "171 312 ₽",
-    "bonus": "+ начислим 1713 бонусов",
+    "bonus": "1713",
     "characteristics": {
       "processor": "8x3.1 ГГц",
       "sim": "4 SIM",
@@ -1469,7 +1469,7 @@
     "image_src": "/upload/915648.png",
     "description": "5.9\" Qualcomm 144GB",
     "price": "25 248 ₽",
-    "bonus": "+ начислим 252 бонусов",
+    "bonus": "252",
     "characteristics": {
       "processor": "4x3.8 ГГц",
       "ram": "6 GB",
@@ -1483,7 +1483,7 @@
     "image_src": "/upload/525554.jpeg",
     "description": "5.7\" Samsung S21 208GB",
     "price": "444 268 ₽",
-    "bonus": "+ начислим 4442 бонусов",
+    "bonus": "4442",
     "characteristics": {
       "processor": "6x4.9 ГГц",
       "ram": "8 GB",
@@ -1498,7 +1498,7 @@
     "image_src": "/upload/790482.jpeg",
     "description": "6.1\" Apple 16GB",
     "price": "251 345 ₽",
-    "bonus": "+ начислим 2513 бонусов",
+    "bonus": "2513",
     "characteristics": {
       "sim": "4 SIM",
       "matrix": "OLED",
@@ -1513,7 +1513,7 @@
     "image_src": "/upload/33079.jpeg",
     "description": "5.7\" Samsung 80GB",
     "price": "303 007 ₽",
-    "bonus": "+ начислим 3030 бонусов",
+    "bonus": "3030",
     "characteristics": {
       "processor": "6x3.7 ГГц",
       "sim": "4 SIM",
@@ -1527,7 +1527,7 @@
     "image_src": "/upload/704899.png",
     "description": "6.5\" iPhone X 208GB",
     "price": "27 670 ₽",
-    "bonus": "+ начислим 276 бонусов",
+    "bonus": "276",
     "characteristics": {
       "processor": "2x4.4 ГГц",
       "sim": "4 SIM",
@@ -1543,7 +1543,7 @@
     "image_src": "/upload/996742.png",
     "description": "5.4\" Samsung 176GB",
     "price": "288 519 ₽",
-    "bonus": "+ начислим 2885 бонусов",
+    "bonus": "2885",
     "characteristics": {
       "processor": "4x2.8 ГГц",
       "sim": "4 SIM",
@@ -1556,7 +1556,7 @@
     "image_src": "/upload/840167.png",
     "description": "7.2\" Corsair 224GB",
     "price": "488 813 ₽",
-    "bonus": "+ начислим 4888 бонусов",
+    "bonus": "4888",
     "characteristics": {
       "sim": "4 SIM",
       "matrix": "IPS",
@@ -1570,7 +1570,7 @@
     "image_src": "/upload/321271.jpeg",
     "description": "5.9\" Nokia 128GB",
     "price": "262 594 ₽",
-    "bonus": "+ начислим 2625 бонусов",
+    "bonus": "2625",
     "characteristics": {
       "processor": "4x2.1 ГГц",
       "sim": "4 SIM",
@@ -1586,7 +1586,7 @@
     "image_src": "/upload/956121.webp",
     "description": "5.2\" LG 160GB",
     "price": "319 055 ₽",
-    "bonus": "+ начислим 3190 бонусов",
+    "bonus": "3190",
     "characteristics": {
       "processor": "6x3.4 ГГц",
       "sim": "4 SIM",
@@ -1601,7 +1601,7 @@
     "image_src": "/upload/739019.jpg",
     "description": "6.9\" Acer 48GB",
     "price": "27 319 ₽",
-    "bonus": "+ начислим 273 бонусов",
+    "bonus": "273",
     "characteristics": {
       "processor": "6x4.8 ГГц",
       "ram": "9 GB",
@@ -1618,7 +1618,7 @@
     "image_src": "/upload/293478.jpeg",
     "description": "6.6\" IBM 16GB",
     "price": "92 601 ₽",
-    "bonus": "+ начислим 926 бонусов",
+    "bonus": "926",
     "characteristics": {
       "sim": "4 SIM",
       "resolution": "1024x768",
@@ -1631,7 +1631,7 @@
     "image_src": "/upload/449511.png",
     "description": "7.4\" Seagate 128GB",
     "price": "127 187 ₽",
-    "bonus": "+ начислим 1271 бонусов",
+    "bonus": "1271",
     "characteristics": {
       "processor": "2x4.8 ГГц",
       "ram": "11 GB",
@@ -1647,7 +1647,7 @@
     "image_src": "/upload/645238.webp",
     "description": "5.1\" Seagate 64GB",
     "price": "252 557 ₽",
-    "bonus": "+ начислим 2525 бонусов",
+    "bonus": "2525",
     "characteristics": {
       "processor": "2x4.9 ГГц",
       "ram": "3 GB",
@@ -1662,7 +1662,7 @@
     "image_src": "/upload/961088.jpg",
     "description": "6.6\" PNY 16GB",
     "price": "99 634 ₽",
-    "bonus": "+ начислим 996 бонусов",
+    "bonus": "996",
     "characteristics": {
       "processor": "6x2.4 ГГц",
       "ram": "8 GB",
@@ -1677,7 +1677,7 @@
     "image_src": "/upload/818401.svg",
     "description": "5.1\" Samsung Note 224GB",
     "price": "445 234 ₽",
-    "bonus": "+ начислим 4452 бонусов",
+    "bonus": "4452",
     "characteristics": {
       "processor": "8x2.1 ГГц",
       "ram": "7 GB",
@@ -1694,7 +1694,7 @@
     "image_src": "/upload/413490.svg",
     "description": "6.0\" Kingston 64GB",
     "price": "494 066 ₽",
-    "bonus": "+ начислим 4940 бонусов",
+    "bonus": "4940",
     "characteristics": {
       "ram": "9 GB",
       "sim": "4 SIM",
@@ -1707,7 +1707,7 @@
     "image_src": "/upload/163414.png",
     "description": "6.6\" ZTE 112GB",
     "price": "69 479 ₽",
-    "bonus": "+ начислим 694 бонусов",
+    "bonus": "694",
     "characteristics": {
       "sim": "4 SIM",
       "resolution": "1024x768"
@@ -1719,7 +1719,7 @@
     "image_src": "/upload/134949.jpeg",
     "description": "5.7\" HGST 112GB",
     "price": "225 568 ₽",
-    "bonus": "+ начислим 2255 бонусов",
+    "bonus": "2255",
     "characteristics": {
       "processor": "6x4.0 ГГц",
       "sim": "4 SIM",
@@ -1734,7 +1734,7 @@
     "image_src": "/upload/99439.svg",
     "description": "6.4\" Xiaomi Mi 112GB",
     "price": "197 410 ₽",
-    "bonus": "+ начислим 1974 бонусов",
+    "bonus": "1974",
     "characteristics": {
       "sim": "4 SIM",
       "matrix": "AMOLED",
@@ -1749,7 +1749,7 @@
     "image_src": "/upload/567324.webp",
     "description": "6.1\" SanDisk 192GB",
     "price": "495 672 ₽",
-    "bonus": "+ начислим 4956 бонусов",
+    "bonus": "4956",
     "characteristics": {
       "processor": "6x1.3 ГГц",
       "ram": "13 GB",
@@ -1765,7 +1765,7 @@
     "image_src": "/upload/273940.svg",
     "description": "6.3\" Huawei P 144GB",
     "price": "353 160 ₽",
-    "bonus": "+ начислим 3531 бонусов",
+    "bonus": "3531",
     "characteristics": {
       "processor": "6x4.3 ГГц",
       "ram": "12 GB",
@@ -1780,7 +1780,7 @@
     "image_src": "/upload/297433.png",
     "description": "5.0\" Intel 144GB",
     "price": "106 031 ₽",
-    "bonus": "+ начислим 1060 бонусов",
+    "bonus": "1060",
     "characteristics": {
       "processor": "4x4.6 ГГц",
       "ram": "4 GB",
@@ -1797,7 +1797,7 @@
     "image_src": "/upload/896955.png",
     "description": "7.5\" Seagate 64GB",
     "price": "97 987 ₽",
-    "bonus": "+ начислим 979 бонусов",
+    "bonus": "979",
     "characteristics": {
       "ram": "4 GB",
       "sim": "4 SIM",
@@ -1812,7 +1812,7 @@
     "image_src": "/upload/209948.jpeg",
     "description": "5.6\" LG 192GB",
     "price": "100 673 ₽",
-    "bonus": "+ начислим 1006 бонусов",
+    "bonus": "1006",
     "characteristics": {
       "processor": "8x2.9 ГГц",
       "sim": "4 SIM",
@@ -1827,7 +1827,7 @@
     "image_src": "/upload/667502.jpg",
     "description": "6.4\" iPhone X 16GB",
     "price": "111 371 ₽",
-    "bonus": "+ начислим 1113 бонусов",
+    "bonus": "1113",
     "characteristics": {
       "processor": "4x3.0 ГГц",
       "ram": "8 GB",
@@ -1842,7 +1842,7 @@
     "image_src": "/upload/575492.jpeg",
     "description": "5.7\" Silicon Power 16GB",
     "price": "239 809 ₽",
-    "bonus": "+ начислим 2398 бонусов",
+    "bonus": "2398",
     "characteristics": {
       "processor": "4x4.1 ГГц",
       "sim": "4 SIM",
@@ -1856,7 +1856,7 @@
     "image_src": "/upload/794873.svg",
     "description": "7.1\" Samsung S21 192GB",
     "price": "166 765 ₽",
-    "bonus": "+ начислим 1667 бонусов",
+    "bonus": "1667",
     "characteristics": {
       "processor": "2x3.5 ГГц",
       "ram": "8 GB",
@@ -1871,7 +1871,7 @@
     "image_src": "/upload/225173.jpg",
     "description": "6.6\" Google Pixel 144GB",
     "price": "440 552 ₽",
-    "bonus": "+ начислим 4405 бонусов",
+    "bonus": "4405",
     "characteristics": {
       "processor": "4x2.1 ГГц",
       "ram": "14 GB",
@@ -1885,7 +1885,7 @@
     "image_src": "/upload/534568.jpg",
     "description": "5.9\" Seagate 16GB",
     "price": "114 335 ₽",
-    "bonus": "+ начислим 1143 бонусов",
+    "bonus": "1143",
     "characteristics": {
       "processor": "6x3.2 ГГц",
       "ram": "6 GB",
@@ -1900,7 +1900,7 @@
     "image_src": "/upload/485133.webp",
     "description": "7.0\" HGST 16GB",
     "price": "205 383 ₽",
-    "bonus": "+ начислим 2053 бонусов",
+    "bonus": "2053",
     "characteristics": {
       "processor": "2x2.1 ГГц",
       "ram": "14 GB",
@@ -1916,7 +1916,7 @@
     "image_src": "/upload/976492.svg",
     "description": "7.3\" Dell 48GB",
     "price": "43 211 ₽",
-    "bonus": "+ начислим 432 бонусов",
+    "bonus": "432",
     "characteristics": {
       "processor": "6x2.0 ГГц",
       "ram": "12 GB",
@@ -1931,7 +1931,7 @@
     "image_src": "/upload/195232.svg",
     "description": "7.0\" Samsung 176GB",
     "price": "354 292 ₽",
-    "bonus": "+ начислим 3542 бонусов",
+    "bonus": "3542",
     "characteristics": {
       "ram": "12 GB",
       "sim": "4 SIM",
@@ -1945,7 +1945,7 @@
     "image_src": "/upload/766135.png",
     "description": "6.3\" Acer 224GB",
     "price": "415 956 ₽",
-    "bonus": "+ начислим 4159 бонусов",
+    "bonus": "4159",
     "characteristics": {
       "processor": "4x3.0 ГГц",
       "ram": "16 GB",
@@ -1961,7 +1961,7 @@
     "image_src": "/upload/89516.svg",
     "description": "5.0\" Google Pixel 224GB",
     "price": "335 138 ₽",
-    "bonus": "+ начислим 3351 бонусов",
+    "bonus": "3351",
     "characteristics": {
       "ram": "11 GB",
       "sim": "4 SIM",
@@ -1975,7 +1975,7 @@
     "image_src": "/upload/512953.png",
     "description": "7.4\" Corsair 96GB",
     "price": "242 676 ₽",
-    "bonus": "+ начислим 2426 бонусов",
+    "bonus": "2426",
     "characteristics": {
       "processor": "8x1.4 ГГц",
       "ram": "10 GB",
@@ -1992,7 +1992,7 @@
     "image_src": "/upload/653526.png",
     "description": "5.4\" Microsoft 64GB",
     "price": "450 395 ₽",
-    "bonus": "+ начислим 4503 бонусов",
+    "bonus": "4503",
     "characteristics": {
       "processor": "6x2.2 ГГц",
       "ram": "3 GB",
@@ -2007,7 +2007,7 @@
     "image_src": "/upload/112722.jpg",
     "description": "5.9\" HGST 192GB",
     "price": "325 790 ₽",
-    "bonus": "+ начислим 3257 бонусов",
+    "bonus": "3257",
     "characteristics": {
       "processor": "8x3.6 ГГц",
       "sim": "4 SIM",
@@ -2022,7 +2022,7 @@
     "image_src": "/upload/23158.png",
     "description": "5.2\" Qualcomm 240GB",
     "price": "496 520 ₽",
-    "bonus": "+ начислим 4965 бонусов",
+    "bonus": "4965",
     "characteristics": {
       "sim": "4 SIM",
       "camera": "64 MP"
@@ -2034,7 +2034,7 @@
     "image_src": "/upload/899072.jpg",
     "description": "5.8\" Acer 48GB",
     "price": "461 890 ₽",
-    "bonus": "+ начислим 4618 бонусов",
+    "bonus": "4618",
     "characteristics": {
       "ram": "11 GB",
       "sim": "4 SIM",
@@ -2049,7 +2049,7 @@
     "image_src": "/upload/969724.jpeg",
     "description": "5.5\" Toshiba 96GB",
     "price": "47 021 ₽",
-    "bonus": "+ начислим 470 бонусов",
+    "bonus": "470",
     "characteristics": {
       "sim": "4 SIM",
       "acc": "7373 мА * ч"
@@ -2061,7 +2061,7 @@
     "image_src": "/upload/197051.jpeg",
     "description": "5.7\" iPhone 12 96GB",
     "price": "101 547 ₽",
-    "bonus": "+ начислим 1015 бонусов",
+    "bonus": "1015",
     "characteristics": {
       "processor": "6x1.7 ГГц",
       "ram": "6 GB",
@@ -2076,7 +2076,7 @@
     "image_src": "/upload/756545.svg",
     "description": "6.9\" Lenovo 208GB",
     "price": "395 265 ₽",
-    "bonus": "+ начислим 3952 бонусов",
+    "bonus": "3952",
     "characteristics": {
       "processor": "6x2.1 ГГц",
       "sim": "4 SIM",
@@ -2091,7 +2091,7 @@
     "image_src": "/upload/885829.png",
     "description": "6.7\" SanDisk 240GB",
     "price": "335 193 ₽",
-    "bonus": "+ начислим 3351 бонусов",
+    "bonus": "3351",
     "characteristics": {
       "sim": "4 SIM",
       "resolution": "1024x1440",
@@ -2104,7 +2104,7 @@
     "image_src": "/upload/182510.svg",
     "description": "6.2\" Dell 192GB",
     "price": "141 955 ₽",
-    "bonus": "+ начислим 1419 бонусов",
+    "bonus": "1419",
     "characteristics": {
       "ram": "8 GB",
       "sim": "4 SIM",
@@ -2118,7 +2118,7 @@
     "image_src": "/upload/513012.jpg",
     "description": "5.1\" Motorola 96GB",
     "price": "63 410 ₽",
-    "bonus": "+ начислим 634 бонусов",
+    "bonus": "634",
     "characteristics": {
       "processor": "4x4.0 ГГц",
       "ram": "11 GB",
@@ -2133,7 +2133,7 @@
     "image_src": "/upload/771091.png",
     "description": "6.7\" Kingston 32GB",
     "price": "19 253 ₽",
-    "bonus": "+ начислим 192 бонусов",
+    "bonus": "192",
     "characteristics": {
       "processor": "2x4.5 ГГц",
       "ram": "13 GB",
@@ -2147,7 +2147,7 @@
     "image_src": "/upload/865630.jpg",
     "description": "5.1\" Gigabyte 128GB",
     "price": "167 279 ₽",
-    "bonus": "+ начислим 1672 бонусов",
+    "bonus": "1672",
     "characteristics": {
       "ram": "14 GB",
       "sim": "4 SIM",
@@ -2161,7 +2161,7 @@
     "image_src": "/upload/421155.svg",
     "description": "7.2\" iPhone 13 256GB",
     "price": "356 583 ₽",
-    "bonus": "+ начислим 3565 бонусов",
+    "bonus": "3565",
     "characteristics": {
       "ram": "8 GB",
       "sim": "4 SIM",
@@ -2177,7 +2177,7 @@
     "image_src": "/upload/960995.svg",
     "description": "7.0\" Seagate 160GB",
     "price": "14 537 ₽",
-    "bonus": "+ начислим 145 бонусов",
+    "bonus": "145",
     "characteristics": {
       "processor": "4x2.8 ГГц",
       "sim": "4 SIM",
@@ -2193,7 +2193,7 @@
     "image_src": "/upload/329839.webp",
     "description": "6.5\" Seagate 160GB",
     "price": "430 568 ₽",
-    "bonus": "+ начислим 4305 бонусов",
+    "bonus": "4305",
     "characteristics": {
       "processor": "2x2.3 ГГц",
       "ram": "8 GB",
@@ -2209,7 +2209,7 @@
     "image_src": "/upload/610649.jpeg",
     "description": "7.0\" Qualcomm 208GB",
     "price": "304 007 ₽",
-    "bonus": "+ начислим 3040 бонусов",
+    "bonus": "3040",
     "characteristics": {
       "processor": "4x4.4 ГГц",
       "ram": "5 GB",
@@ -2224,7 +2224,7 @@
     "image_src": "/upload/234061.svg",
     "description": "7.1\" HGST 32GB",
     "price": "462 178 ₽",
-    "bonus": "+ начислим 4621 бонусов",
+    "bonus": "4621",
     "characteristics": {
       "sim": "4 SIM",
       "camera": "97 MP",
@@ -2237,7 +2237,7 @@
     "image_src": "/upload/541717.webp",
     "description": "6.8\" PNY 176GB",
     "price": "425 811 ₽",
-    "bonus": "+ начислим 4258 бонусов",
+    "bonus": "4258",
     "characteristics": {
       "ram": "7 GB",
       "sim": "4 SIM",
@@ -2251,7 +2251,7 @@
     "image_src": "/upload/564010.jpg",
     "description": "6.1\" Acer 144GB",
     "price": "262 409 ₽",
-    "bonus": "+ начислим 2624 бонусов",
+    "bonus": "2624",
     "characteristics": {
       "ram": "11 GB",
       "sim": "4 SIM",
@@ -2265,7 +2265,7 @@
     "image_src": "/upload/152270.png",
     "description": "6.4\" Acer 240GB",
     "price": "249 628 ₽",
-    "bonus": "+ начислим 2496 бонусов",
+    "bonus": "2496",
     "characteristics": {
       "processor": "6x1.3 ГГц",
       "ram": "15 GB",
@@ -2280,7 +2280,7 @@
     "image_src": "/upload/419385.jpeg",
     "description": "5.8\" Dell 112GB",
     "price": "19 837 ₽",
-    "bonus": "+ начислим 198 бонусов",
+    "bonus": "198",
     "characteristics": {
       "ram": "8 GB",
       "sim": "4 SIM",
@@ -2295,7 +2295,7 @@
     "image_src": "/upload/235459.webp",
     "description": "7.2\" AMD 144GB",
     "price": "166 920 ₽",
-    "bonus": "+ начислим 1669 бонусов",
+    "bonus": "1669",
     "characteristics": {
       "ram": "7 GB",
       "sim": "4 SIM"
@@ -2307,7 +2307,7 @@
     "image_src": "/upload/78818.png",
     "description": "5.2\" Lenovo 64GB",
     "price": "113 642 ₽",
-    "bonus": "+ начислим 1136 бонусов",
+    "bonus": "1136",
     "characteristics": {
       "processor": "2x4.0 ГГц",
       "ram": "5 GB",
@@ -2322,7 +2322,7 @@
     "image_src": "/upload/993116.svg",
     "description": "7.1\" Samsung 96GB",
     "price": "66 081 ₽",
-    "bonus": "+ начислим 660 бонусов",
+    "bonus": "660",
     "characteristics": {
       "ram": "9 GB",
       "sim": "4 SIM",
@@ -2336,7 +2336,7 @@
     "image_src": "/upload/897188.jpeg",
     "description": "6.7\" Micron 192GB",
     "price": "434 558 ₽",
-    "bonus": "+ начислим 4345 бонусов",
+    "bonus": "4345",
     "characteristics": {
       "sim": "4 SIM",
       "camera": "102 MP",
@@ -2349,7 +2349,7 @@
     "image_src": "/upload/936110.svg",
     "description": "6.3\" Microsoft 144GB",
     "price": "375 816 ₽",
-    "bonus": "+ начислим 3758 бонусов",
+    "bonus": "3758",
     "characteristics": {
       "sim": "4 SIM",
       "matrix": "OLED",
@@ -2362,7 +2362,7 @@
     "image_src": "/upload/252614.jpg",
     "description": "6.4\" iPhone 13 176GB",
     "price": "485 786 ₽",
-    "bonus": "+ начислим 4857 бонусов",
+    "bonus": "4857",
     "characteristics": {
       "processor": "8x2.8 ГГц",
       "sim": "4 SIM",
@@ -2377,7 +2377,7 @@
     "image_src": "/upload/768563.png",
     "description": "6.2\" AMD 64GB",
     "price": "387 040 ₽",
-    "bonus": "+ начислим 3870 бонусов",
+    "bonus": "3870",
     "characteristics": {
       "processor": "2x2.1 ГГц",
       "sim": "4 SIM",
@@ -2391,7 +2391,7 @@
     "image_src": "/upload/65886.png",
     "description": "6.2\" Seagate 80GB",
     "price": "295 827 ₽",
-    "bonus": "+ начислим 2958 бонусов",
+    "bonus": "2958",
     "characteristics": {
       "ram": "9 GB",
       "sim": "4 SIM",
@@ -2407,7 +2407,7 @@
     "image_src": "/upload/748463.webp",
     "description": "5.5\" Dell 96GB",
     "price": "174 979 ₽",
-    "bonus": "+ начислим 1749 бонусов",
+    "bonus": "1749",
     "characteristics": {
       "ram": "5 GB",
       "sim": "4 SIM",
@@ -2423,7 +2423,7 @@
     "image_src": "/upload/711312.png",
     "description": "5.0\" Broadcom 112GB",
     "price": "273 265 ₽",
-    "bonus": "+ начислим 2732 бонусов",
+    "bonus": "2732",
     "characteristics": {
       "processor": "6x3.5 ГГц",
       "ram": "11 GB",
@@ -2439,7 +2439,7 @@
     "image_src": "/upload/575988.jpeg",
     "description": "5.2\" Blackberry 64GB",
     "price": "263 657 ₽",
-    "bonus": "+ начислим 2636 бонусов",
+    "bonus": "2636",
     "characteristics": {
       "ram": "2 GB",
       "sim": "4 SIM",
@@ -2452,7 +2452,7 @@
     "image_src": "/upload/630518.png",
     "description": "7.4\" Dell 224GB",
     "price": "126 724 ₽",
-    "bonus": "+ начислим 1267 бонусов",
+    "bonus": "1267",
     "characteristics": {
       "processor": "6x4.8 ГГц",
       "ram": "2 GB",
@@ -2467,7 +2467,7 @@
     "image_src": "/upload/46264.webp",
     "description": "7.2\" Samsung 256GB",
     "price": "350 551 ₽",
-    "bonus": "+ начислим 3505 бонусов",
+    "bonus": "3505",
     "characteristics": {
       "sim": "4 SIM",
       "matrix": "AMOLED",
@@ -2481,7 +2481,7 @@
     "image_src": "/upload/224045.jpeg",
     "description": "6.5\" Hewlett-Packard 32GB",
     "price": "132 428 ₽",
-    "bonus": "+ начислим 1324 бонусов",
+    "bonus": "1324",
     "characteristics": {
       "ram": "5 GB",
       "sim": "4 SIM",
@@ -2497,7 +2497,7 @@
     "image_src": "/upload/491882.png",
     "description": "5.0\" MSI 80GB",
     "price": "26 443 ₽",
-    "bonus": "+ начислим 264 бонусов",
+    "bonus": "264",
     "characteristics": {
       "sim": "4 SIM",
       "matrix": "OLED",
@@ -2512,7 +2512,7 @@
     "image_src": "/upload/134180.jpeg",
     "description": "6.2\" Plextor 256GB",
     "price": "101 376 ₽",
-    "bonus": "+ начислим 1013 бонусов",
+    "bonus": "1013",
     "characteristics": {
       "ram": "13 GB",
       "sim": "4 SIM",
@@ -2525,7 +2525,7 @@
     "image_src": "/upload/107821.svg",
     "description": "5.6\" ADATA 96GB",
     "price": "491 359 ₽",
-    "bonus": "+ начислим 4913 бонусов",
+    "bonus": "4913",
     "characteristics": {
       "sim": "4 SIM",
       "resolution": "1366x768",
@@ -2538,7 +2538,7 @@
     "image_src": "/upload/323534.jpeg",
     "description": "6.9\" iPhone X 48GB",
     "price": "211 892 ₽",
-    "bonus": "+ начислим 2118 бонусов",
+    "bonus": "2118",
     "characteristics": {
       "processor": "8x1.0 ГГц",
       "sim": "4 SIM"
@@ -2550,7 +2550,7 @@
     "image_src": "/upload/262902.jpeg",
     "description": "5.3\" PNY 240GB",
     "price": "104 302 ₽",
-    "bonus": "+ начислим 1043 бонусов",
+    "bonus": "1043",
     "characteristics": {
       "processor": "8x3.7 ГГц",
       "sim": "4 SIM",
@@ -2563,7 +2563,7 @@
     "image_src": "/upload/174605.jpg",
     "description": "6.6\" Samsung S21 16GB",
     "price": "480 333 ₽",
-    "bonus": "+ начислим 4803 бонусов",
+    "bonus": "4803",
     "characteristics": {
       "processor": "4x1.5 ГГц",
       "ram": "12 GB",
@@ -2577,7 +2577,7 @@
     "image_src": "/upload/464972.svg",
     "description": "7.2\" Texas Instruments 112GB",
     "price": "63 766 ₽",
-    "bonus": "+ начислим 637 бонусов",
+    "bonus": "637",
     "characteristics": {
       "processor": "4x2.9 ГГц",
       "ram": "10 GB",
@@ -2594,7 +2594,7 @@
     "image_src": "/upload/931462.png",
     "description": "7.2\" OCZ 32GB",
     "price": "195 505 ₽",
-    "bonus": "+ начислим 1955 бонусов",
+    "bonus": "1955",
     "characteristics": {
       "processor": "8x3.7 ГГц",
       "ram": "4 GB",
@@ -2610,7 +2610,7 @@
     "image_src": "/upload/14356.webp",
     "description": "5.3\" Seagate 240GB",
     "price": "436 954 ₽",
-    "bonus": "+ начислим 4369 бонусов",
+    "bonus": "4369",
     "characteristics": {
       "ram": "15 GB",
       "sim": "4 SIM",
@@ -2624,7 +2624,7 @@
     "image_src": "/upload/993474.jpeg",
     "description": "6.9\" Corsair 16GB",
     "price": "148 992 ₽",
-    "bonus": "+ начислим 1489 бонусов",
+    "bonus": "1489",
     "characteristics": {
       "sim": "4 SIM",
       "matrix": "IPS",
@@ -2638,7 +2638,7 @@
     "image_src": "/upload/217257.jpg",
     "description": "6.1\" Acer 256GB",
     "price": "267 586 ₽",
-    "bonus": "+ начислим 2675 бонусов",
+    "bonus": "2675",
     "characteristics": {
       "sim": "4 SIM",
       "matrix": "OLED",
@@ -2652,7 +2652,7 @@
     "image_src": "/upload/281465.jpg",
     "description": "5.8\" Intel 208GB",
     "price": "61 428 ₽",
-    "bonus": "+ начислим 614 бонусов",
+    "bonus": "614",
     "characteristics": {
       "ram": "4 GB",
       "sim": "4 SIM",
@@ -2667,7 +2667,7 @@
     "image_src": "/upload/995845.png",
     "description": "6.5\" ZTE 192GB",
     "price": "351 908 ₽",
-    "bonus": "+ начислим 3519 бонусов",
+    "bonus": "3519",
     "characteristics": {
       "processor": "8x1.0 ГГц",
       "ram": "16 GB",
@@ -2683,7 +2683,7 @@
     "image_src": "/upload/841755.svg",
     "description": "6.8\" Toshiba 48GB",
     "price": "59 549 ₽",
-    "bonus": "+ начислим 595 бонусов",
+    "bonus": "595",
     "characteristics": {
       "processor": "8x2.2 ГГц",
       "ram": "4 GB",
@@ -2700,7 +2700,7 @@
     "image_src": "/upload/584814.jpg",
     "description": "5.2\" Intel 160GB",
     "price": "395 825 ₽",
-    "bonus": "+ начислим 3958 бонусов",
+    "bonus": "3958",
     "characteristics": {
       "ram": "5 GB",
       "sim": "4 SIM",
@@ -2714,7 +2714,7 @@
     "image_src": "/upload/619396.png",
     "description": "6.2\" Acer 48GB",
     "price": "128 822 ₽",
-    "bonus": "+ начислим 1288 бонусов",
+    "bonus": "1288",
     "characteristics": {
       "sim": "4 SIM",
       "matrix": "IPS",
@@ -2728,7 +2728,7 @@
     "image_src": "/upload/26479.png",
     "description": "7.1\" iPhone 12 48GB",
     "price": "60 979 ₽",
-    "bonus": "+ начислим 609 бонусов",
+    "bonus": "609",
     "characteristics": {
       "processor": "4x2.0 ГГц",
       "sim": "4 SIM",
@@ -2744,7 +2744,7 @@
     "image_src": "/upload/219303.jpg",
     "description": "7.3\" MSI 128GB",
     "price": "60 401 ₽",
-    "bonus": "+ начислим 604 бонусов",
+    "bonus": "604",
     "characteristics": {
       "processor": "8x3.1 ГГц",
       "ram": "5 GB",
@@ -2758,7 +2758,7 @@
     "image_src": "/upload/900224.jpeg",
     "description": "5.8\" ASUS 240GB",
     "price": "351 174 ₽",
-    "bonus": "+ начислим 3511 бонусов",
+    "bonus": "3511",
     "characteristics": {
       "ram": "8 GB",
       "sim": "4 SIM",
@@ -2774,7 +2774,7 @@
     "image_src": "/upload/354295.jpg",
     "description": "5.4\" Apple 112GB",
     "price": "298 668 ₽",
-    "bonus": "+ начислим 2986 бонусов",
+    "bonus": "2986",
     "characteristics": {
       "ram": "5 GB",
       "sim": "4 SIM",
@@ -2789,7 +2789,7 @@
     "image_src": "/upload/679401.svg",
     "description": "5.7\" Asus 80GB",
     "price": "283 168 ₽",
-    "bonus": "+ начислим 2831 бонусов",
+    "bonus": "2831",
     "characteristics": {
       "ram": "8 GB",
       "sim": "4 SIM",
@@ -2803,7 +2803,7 @@
     "image_src": "/upload/279423.jpeg",
     "description": "7.5\" Huawei P 240GB",
     "price": "146 498 ₽",
-    "bonus": "+ начислим 1464 бонусов",
+    "bonus": "1464",
     "characteristics": {
       "processor": "8x4.1 ГГц",
       "sim": "4 SIM",
@@ -2818,7 +2818,7 @@
     "image_src": "/upload/611664.svg",
     "description": "6.8\" Dell 256GB",
     "price": "104 593 ₽",
-    "bonus": "+ начислим 1045 бонусов",
+    "bonus": "1045",
     "characteristics": {
       "ram": "9 GB",
       "sim": "4 SIM",
@@ -2834,7 +2834,7 @@
     "image_src": "/upload/777775.webp",
     "description": "6.0\" HTC 192GB",
     "price": "372 570 ₽",
-    "bonus": "+ начислим 3725 бонусов",
+    "bonus": "3725",
     "characteristics": {
       "processor": "2x4.3 ГГц",
       "ram": "4 GB",
@@ -2848,7 +2848,7 @@
     "image_src": "/upload/522752.png",
     "description": "5.2\" OPPO 128GB",
     "price": "269 428 ₽",
-    "bonus": "+ начислим 2694 бонусов",
+    "bonus": "2694",
     "characteristics": {
       "ram": "10 GB",
       "sim": "4 SIM",
@@ -2863,7 +2863,7 @@
     "image_src": "/upload/57292.jpg",
     "description": "5.7\" SanDisk 96GB",
     "price": "89 377 ₽",
-    "bonus": "+ начислим 893 бонусов",
+    "bonus": "893",
     "characteristics": {
       "processor": "6x4.1 ГГц",
       "ram": "3 GB",
@@ -2879,7 +2879,7 @@
     "image_src": "/upload/535690.webp",
     "description": "6.2\" iPhone X 192GB",
     "price": "336 545 ₽",
-    "bonus": "+ начислим 3365 бонусов",
+    "bonus": "3365",
     "characteristics": {
       "processor": "6x5.0 ГГц",
       "ram": "14 GB",
@@ -2896,7 +2896,7 @@
     "image_src": "/upload/651915.svg",
     "description": "5.2\" VIVO 16GB",
     "price": "394 148 ₽",
-    "bonus": "+ начислим 3941 бонусов",
+    "bonus": "3941",
     "characteristics": {
       "processor": "6x4.4 ГГц",
       "ram": "8 GB",
@@ -2913,7 +2913,7 @@
     "image_src": "/upload/512328.png",
     "description": "7.4\" iPhone 13 48GB",
     "price": "429 720 ₽",
-    "bonus": "+ начислим 4297 бонусов",
+    "bonus": "4297",
     "characteristics": {
       "ram": "2 GB",
       "sim": "4 SIM",
@@ -2927,7 +2927,7 @@
     "image_src": "/upload/650837.jpg",
     "description": "7.1\" iPhone X 96GB",
     "price": "267 173 ₽",
-    "bonus": "+ начислим 2671 бонусов",
+    "bonus": "2671",
     "characteristics": {
       "processor": "4x2.6 ГГц",
       "ram": "7 GB",
@@ -2941,7 +2941,7 @@
     "image_src": "/upload/576352.webp",
     "description": "6.4\" Lenovo 160GB",
     "price": "229 491 ₽",
-    "bonus": "+ начислим 2294 бонусов",
+    "bonus": "2294",
     "characteristics": {
       "processor": "2x4.8 ГГц",
       "sim": "4 SIM",
@@ -2955,7 +2955,7 @@
     "image_src": "/upload/732702.jpg",
     "description": "5.3\" PNY 176GB",
     "price": "70 782 ₽",
-    "bonus": "+ начислим 707 бонусов",
+    "bonus": "707",
     "characteristics": {
       "ram": "8 GB",
       "sim": "4 SIM",
@@ -2969,7 +2969,7 @@
     "image_src": "/upload/286981.jpg",
     "description": "7.2\" ARM 176GB",
     "price": "391 425 ₽",
-    "bonus": "+ начислим 3914 бонусов",
+    "bonus": "3914",
     "characteristics": {
       "processor": "2x2.0 ГГц",
       "ram": "10 GB",
@@ -2984,7 +2984,7 @@
     "image_src": "/upload/687872.png",
     "description": "5.2\" Microsoft 96GB",
     "price": "95 924 ₽",
-    "bonus": "+ начислим 959 бонусов",
+    "bonus": "959",
     "characteristics": {
       "sim": "4 SIM",
       "matrix": "OLED",
@@ -2998,7 +2998,7 @@
     "image_src": "/upload/399816.webp",
     "description": "5.5\" Transcend 16GB",
     "price": "351 143 ₽",
-    "bonus": "+ начислим 3511 бонусов",
+    "bonus": "3511",
     "characteristics": {
       "ram": "12 GB",
       "sim": "4 SIM",
@@ -3012,7 +3012,7 @@
     "image_src": "/upload/600705.png",
     "description": "6.0\" HGST 144GB",
     "price": "81 773 ₽",
-    "bonus": "+ начислим 817 бонусов",
+    "bonus": "817",
     "characteristics": {
       "sim": "4 SIM",
       "matrix": "OLED",
@@ -3027,7 +3027,7 @@
     "image_src": "/upload/348927.jpeg",
     "description": "5.5\" iPhone 12 64GB",
     "price": "297 369 ₽",
-    "bonus": "+ начислим 2973 бонусов",
+    "bonus": "2973",
     "characteristics": {
       "ram": "10 GB",
       "sim": "4 SIM",
@@ -3043,7 +3043,7 @@
     "image_src": "/upload/391586.webp",
     "description": "7.1\" IBM 112GB",
     "price": "187 173 ₽",
-    "bonus": "+ начислим 1871 бонусов",
+    "bonus": "1871",
     "characteristics": {
       "ram": "6 GB",
       "sim": "4 SIM"
@@ -3055,7 +3055,7 @@
     "image_src": "/upload/555297.svg",
     "description": "5.7\" NVIDIA 128GB",
     "price": "405 337 ₽",
-    "bonus": "+ начислим 4053 бонусов",
+    "bonus": "4053",
     "characteristics": {
       "ram": "13 GB",
       "sim": "4 SIM"
@@ -3067,7 +3067,7 @@
     "image_src": "/upload/212636.png",
     "description": "5.8\" Acer 208GB",
     "price": "238 073 ₽",
-    "bonus": "+ начислим 2380 бонусов",
+    "bonus": "2380",
     "characteristics": {
       "processor": "4x3.0 ГГц",
       "ram": "12 GB",
@@ -3082,7 +3082,7 @@
     "image_src": "/upload/459438.png",
     "description": "7.5\" iPhone 12 80GB",
     "price": "277 964 ₽",
-    "bonus": "+ начислим 2779 бонусов",
+    "bonus": "2779",
     "characteristics": {
       "processor": "8x2.6 ГГц",
       "ram": "15 GB",
@@ -3099,7 +3099,7 @@
     "image_src": "/upload/325104.png",
     "description": "5.5\" HTC 144GB",
     "price": "45 102 ₽",
-    "bonus": "+ начислим 451 бонусов",
+    "bonus": "451",
     "characteristics": {
       "processor": "4x3.5 ГГц",
       "sim": "4 SIM",
@@ -3115,7 +3115,7 @@
     "image_src": "/upload/443877.jpg",
     "description": "5.7\" Broadcom 48GB",
     "price": "94 431 ₽",
-    "bonus": "+ начислим 944 бонусов",
+    "bonus": "944",
     "characteristics": {
       "sim": "4 SIM",
       "matrix": "OLED",
@@ -3129,7 +3129,7 @@
     "image_src": "/upload/278931.jpg",
     "description": "7.1\" AMD 208GB",
     "price": "286 821 ₽",
-    "bonus": "+ начислим 2868 бонусов",
+    "bonus": "2868",
     "characteristics": {
       "sim": "4 SIM",
       "resolution": "1600x1366",
@@ -3143,7 +3143,7 @@
     "image_src": "/upload/251800.svg",
     "description": "7.5\" VIVO 48GB",
     "price": "209 224 ₽",
-    "bonus": "+ начислим 2092 бонусов",
+    "bonus": "2092",
     "characteristics": {
       "processor": "8x3.6 ГГц",
       "sim": "4 SIM",
@@ -3156,7 +3156,7 @@
     "image_src": "/upload/991450.jpeg",
     "description": "6.2\" Samsung 64GB",
     "price": "289 839 ₽",
-    "bonus": "+ начислим 2898 бонусов",
+    "bonus": "2898",
     "characteristics": {
       "processor": "2x4.8 ГГц",
       "ram": "5 GB",
@@ -3173,7 +3173,7 @@
     "image_src": "/upload/320634.svg",
     "description": "7.0\" PNY 112GB",
     "price": "166 559 ₽",
-    "bonus": "+ начислим 1665 бонусов",
+    "bonus": "1665",
     "characteristics": {
       "processor": "6x1.1 ГГц",
       "ram": "16 GB",
@@ -3189,7 +3189,7 @@
     "image_src": "/upload/413273.svg",
     "description": "6.1\" Gigabyte 32GB",
     "price": "195 646 ₽",
-    "bonus": "+ начислим 1956 бонусов",
+    "bonus": "1956",
     "characteristics": {
       "processor": "8x2.0 ГГц",
       "ram": "5 GB",
@@ -3204,7 +3204,7 @@
     "image_src": "/upload/593378.jpg",
     "description": "7.2\" Transcend 96GB",
     "price": "369 924 ₽",
-    "bonus": "+ начислим 3699 бонусов",
+    "bonus": "3699",
     "characteristics": {
       "ram": "9 GB",
       "sim": "4 SIM",
@@ -3219,7 +3219,7 @@
     "image_src": "/upload/601325.webp",
     "description": "5.7\" Samsung 176GB",
     "price": "257 458 ₽",
-    "bonus": "+ начислим 2574 бонусов",
+    "bonus": "2574",
     "characteristics": {
       "sim": "4 SIM",
       "matrix": "IPS",
@@ -3233,7 +3233,7 @@
     "image_src": "/upload/994146.jpeg",
     "description": "7.1\" Huawei P 176GB",
     "price": "82 985 ₽",
-    "bonus": "+ начислим 829 бонусов",
+    "bonus": "829",
     "characteristics": {
       "processor": "2x4.0 ГГц",
       "ram": "7 GB",
@@ -3249,7 +3249,7 @@
     "image_src": "/upload/863982.jpeg",
     "description": "5.3\" Acer 32GB",
     "price": "88 444 ₽",
-    "bonus": "+ начислим 884 бонусов",
+    "bonus": "884",
     "characteristics": {
       "processor": "4x3.9 ГГц",
       "ram": "5 GB",
@@ -3265,7 +3265,7 @@
     "image_src": "/upload/695202.jpg",
     "description": "7.0\" Xilinx 160GB",
     "price": "162 261 ₽",
-    "bonus": "+ начислим 1622 бонусов",
+    "bonus": "1622",
     "characteristics": {
       "processor": "2x3.0 ГГц",
       "sim": "4 SIM",
@@ -3279,7 +3279,7 @@
     "image_src": "/upload/950768.jpg",
     "description": "6.0\" Western Digital 128GB",
     "price": "472 882 ₽",
-    "bonus": "+ начислим 4728 бонусов",
+    "bonus": "4728",
     "characteristics": {
       "processor": "4x2.3 ГГц",
       "ram": "9 GB",
@@ -3294,7 +3294,7 @@
     "image_src": "/upload/725272.jpg",
     "description": "7.1\" IBM 192GB",
     "price": "359 373 ₽",
-    "bonus": "+ начислим 3593 бонусов",
+    "bonus": "3593",
     "characteristics": {
       "sim": "4 SIM",
       "matrix": "AMOLED",
@@ -3308,7 +3308,7 @@
     "image_src": "/upload/656746.webp",
     "description": "6.6\" Broadcom 144GB",
     "price": "421 696 ₽",
-    "bonus": "+ начислим 4216 бонусов",
+    "bonus": "4216",
     "characteristics": {
       "processor": "8x2.2 ГГц",
       "ram": "2 GB",
@@ -3323,7 +3323,7 @@
     "image_src": "/upload/356639.png",
     "description": "5.0\" HGST 256GB",
     "price": "157 277 ₽",
-    "bonus": "+ начислим 1572 бонусов",
+    "bonus": "1572",
     "characteristics": {
       "ram": "8 GB",
       "sim": "4 SIM",
@@ -3338,7 +3338,7 @@
     "image_src": "/upload/983559.jpg",
     "description": "5.3\" Alcatel 112GB",
     "price": "57 521 ₽",
-    "bonus": "+ начислим 575 бонусов",
+    "bonus": "575",
     "characteristics": {
       "sim": "4 SIM",
       "resolution": "1024x1366"
@@ -3350,7 +3350,7 @@
     "image_src": "/upload/933539.webp",
     "description": "7.5\" Fujitsu 224GB",
     "price": "227 609 ₽",
-    "bonus": "+ начислим 2276 бонусов",
+    "bonus": "2276",
     "characteristics": {
       "processor": "4x4.5 ГГц",
       "sim": "4 SIM",
@@ -3364,7 +3364,7 @@
     "image_src": "/upload/526482.webp",
     "description": "5.4\" Huawei P 96GB",
     "price": "371 991 ₽",
-    "bonus": "+ начислим 3719 бонусов",
+    "bonus": "3719",
     "characteristics": {
       "ram": "11 GB",
       "sim": "4 SIM",
@@ -3377,7 +3377,7 @@
     "image_src": "/upload/493413.webp",
     "description": "6.2\" iPhone 12 256GB",
     "price": "115 959 ₽",
-    "bonus": "+ начислим 1159 бонусов",
+    "bonus": "1159",
     "characteristics": {
       "processor": "4x2.1 ГГц",
       "ram": "5 GB",
@@ -3391,7 +3391,7 @@
     "image_src": "/upload/608141.svg",
     "description": "6.4\" Acer 16GB",
     "price": "428 690 ₽",
-    "bonus": "+ начислим 4286 бонусов",
+    "bonus": "4286",
     "characteristics": {
       "processor": "4x3.8 ГГц",
       "ram": "4 GB",
@@ -3406,7 +3406,7 @@
     "image_src": "/upload/919716.png",
     "description": "6.5\" Nokia 80GB",
     "price": "472 626 ₽",
-    "bonus": "+ начислим 4726 бонусов",
+    "bonus": "4726",
     "characteristics": {
       "sim": "4 SIM",
       "matrix": "AMOLED",
@@ -3420,7 +3420,7 @@
     "image_src": "/upload/689651.webp",
     "description": "6.9\" Toshiba 192GB",
     "price": "452 630 ₽",
-    "bonus": "+ начислим 4526 бонусов",
+    "bonus": "4526",
     "characteristics": {
       "ram": "2 GB",
       "sim": "4 SIM",
@@ -3436,7 +3436,7 @@
     "image_src": "/upload/434960.jpg",
     "description": "5.9\" Hewlett-Packard 32GB",
     "price": "111 637 ₽",
-    "bonus": "+ начислим 1116 бонусов",
+    "bonus": "1116",
     "characteristics": {
       "processor": "4x5.0 ГГц",
       "ram": "8 GB",
@@ -3452,7 +3452,7 @@
     "image_src": "/upload/77013.png",
     "description": "6.3\" OPPO 256GB",
     "price": "111 568 ₽",
-    "bonus": "+ начислим 1115 бонусов",
+    "bonus": "1115",
     "characteristics": {
       "processor": "4x3.2 ГГц",
       "ram": "10 GB",
@@ -3468,7 +3468,7 @@
     "image_src": "/upload/956122.svg",
     "description": "5.9\" Xilinx 128GB",
     "price": "142 911 ₽",
-    "bonus": "+ начислим 1429 бонусов",
+    "bonus": "1429",
     "characteristics": {
       "sim": "4 SIM",
       "resolution": "1280x1440",
@@ -3482,7 +3482,7 @@
     "image_src": "/upload/653525.webp",
     "description": "6.8\" Seagate 32GB",
     "price": "418 200 ₽",
-    "bonus": "+ начислим 4182 бонусов",
+    "bonus": "4182",
     "characteristics": {
       "processor": "8x2.3 ГГц",
       "ram": "15 GB",
@@ -3496,7 +3496,7 @@
     "image_src": "/upload/490665.png",
     "description": "7.0\" Corsair 144GB",
     "price": "334 851 ₽",
-    "bonus": "+ начислим 3348 бонусов",
+    "bonus": "3348",
     "characteristics": {
       "processor": "8x2.0 ГГц",
       "sim": "4 SIM",
@@ -3512,7 +3512,7 @@
     "image_src": "/upload/982839.webp",
     "description": "6.2\" Motorola 208GB",
     "price": "170 630 ₽",
-    "bonus": "+ начислим 1706 бонусов",
+    "bonus": "1706",
     "characteristics": {
       "ram": "12 GB",
       "sim": "4 SIM",
@@ -3526,7 +3526,7 @@
     "image_src": "/upload/429430.svg",
     "description": "5.9\" AMD 224GB",
     "price": "339 761 ₽",
-    "bonus": "+ начислим 3397 бонусов",
+    "bonus": "3397",
     "characteristics": {
       "processor": "4x1.2 ГГц",
       "sim": "4 SIM",
@@ -3539,7 +3539,7 @@
     "image_src": "/upload/200884.png",
     "description": "5.4\" Motorola 96GB",
     "price": "162 135 ₽",
-    "bonus": "+ начислим 1621 бонусов",
+    "bonus": "1621",
     "characteristics": {
       "sim": "4 SIM",
       "matrix": "AMOLED",
@@ -3553,7 +3553,7 @@
     "image_src": "/upload/294226.png",
     "description": "6.9\" Plextor 176GB",
     "price": "162 210 ₽",
-    "bonus": "+ начислим 1622 бонусов",
+    "bonus": "1622",
     "characteristics": {
       "processor": "6x2.4 ГГц",
       "sim": "4 SIM"
@@ -3565,7 +3565,7 @@
     "image_src": "/upload/591523.png",
     "description": "5.1\" Micron 112GB",
     "price": "445 815 ₽",
-    "bonus": "+ начислим 4458 бонусов",
+    "bonus": "4458",
     "characteristics": {
       "processor": "4x1.5 ГГц",
       "ram": "16 GB",
@@ -3580,7 +3580,7 @@
     "image_src": "/upload/709762.jpeg",
     "description": "6.2\" Kingston 160GB",
     "price": "249 725 ₽",
-    "bonus": "+ начислим 2497 бонусов",
+    "bonus": "2497",
     "characteristics": {
       "ram": "8 GB",
       "sim": "4 SIM",
@@ -3594,7 +3594,7 @@
     "image_src": "/upload/138974.webp",
     "description": "7.1\" SanDisk 112GB",
     "price": "228 616 ₽",
-    "bonus": "+ начислим 2286 бонусов",
+    "bonus": "2286",
     "characteristics": {
       "ram": "4 GB",
       "sim": "4 SIM",
@@ -3609,7 +3609,7 @@
     "image_src": "/upload/726857.png",
     "description": "5.8\" Seagate 128GB",
     "price": "108 285 ₽",
-    "bonus": "+ начислим 1082 бонусов",
+    "bonus": "1082",
     "characteristics": {
       "processor": "6x3.2 ГГц",
       "ram": "11 GB",
@@ -3624,7 +3624,7 @@
     "image_src": "/upload/585663.svg",
     "description": "7.5\" Toshiba 192GB",
     "price": "323 637 ₽",
-    "bonus": "+ начислим 3236 бонусов",
+    "bonus": "3236",
     "characteristics": {
       "ram": "3 GB",
       "sim": "4 SIM",
@@ -3638,7 +3638,7 @@
     "image_src": "/upload/742931.webp",
     "description": "6.9\" Plextor 240GB",
     "price": "358 563 ₽",
-    "bonus": "+ начислим 3585 бонусов",
+    "bonus": "3585",
     "characteristics": {
       "processor": "8x2.7 ГГц",
       "ram": "2 GB",
@@ -3654,7 +3654,7 @@
     "image_src": "/upload/280775.jpg",
     "description": "6.6\" Lenovo 240GB",
     "price": "57 278 ₽",
-    "bonus": "+ начислим 572 бонусов",
+    "bonus": "572",
     "characteristics": {
       "processor": "4x4.7 ГГц",
       "sim": "4 SIM",
@@ -3669,7 +3669,7 @@
     "image_src": "/upload/467710.svg",
     "description": "5.1\" Huawei P 16GB",
     "price": "311 157 ₽",
-    "bonus": "+ начислим 3111 бонусов",
+    "bonus": "3111",
     "characteristics": {
       "processor": "4x5.0 ГГц",
       "ram": "13 GB",
@@ -3686,7 +3686,7 @@
     "image_src": "/upload/947580.webp",
     "description": "5.6\" Acer 160GB",
     "price": "332 553 ₽",
-    "bonus": "+ начислим 3325 бонусов",
+    "bonus": "3325",
     "characteristics": {
       "processor": "2x2.3 ГГц",
       "sim": "4 SIM",
@@ -3700,7 +3700,7 @@
     "image_src": "/upload/111721.jpeg",
     "description": "5.5\" Samsung Note 240GB",
     "price": "403 981 ₽",
-    "bonus": "+ начислим 4039 бонусов",
+    "bonus": "4039",
     "characteristics": {
       "processor": "2x2.3 ГГц",
       "sim": "4 SIM",
@@ -3714,7 +3714,7 @@
     "image_src": "/upload/730388.svg",
     "description": "7.1\" Lenovo 192GB",
     "price": "456 069 ₽",
-    "bonus": "+ начислим 4560 бонусов",
+    "bonus": "4560",
     "characteristics": {
       "processor": "2x2.3 ГГц",
       "sim": "4 SIM",
@@ -3728,7 +3728,7 @@
     "image_src": "/upload/250877.jpg",
     "description": "6.9\" Blackberry 80GB",
     "price": "164 280 ₽",
-    "bonus": "+ начислим 1642 бонусов",
+    "bonus": "1642",
     "characteristics": {
       "ram": "15 GB",
       "sim": "4 SIM",
@@ -3741,7 +3741,7 @@
     "image_src": "/upload/30770.webp",
     "description": "5.5\" Samsung S21 224GB",
     "price": "126 926 ₽",
-    "bonus": "+ начислим 1269 бонусов",
+    "bonus": "1269",
     "characteristics": {
       "ram": "2 GB",
       "sim": "4 SIM",
@@ -3756,7 +3756,7 @@
     "image_src": "/upload/22844.webp",
     "description": "7.2\" Micron 224GB",
     "price": "420 351 ₽",
-    "bonus": "+ начислим 4203 бонусов",
+    "bonus": "4203",
     "characteristics": {
       "processor": "6x2.6 ГГц",
       "sim": "4 SIM",
@@ -3772,7 +3772,7 @@
     "image_src": "/upload/160904.png",
     "description": "5.3\" Corsair 112GB",
     "price": "271 926 ₽",
-    "bonus": "+ начислим 2719 бонусов",
+    "bonus": "2719",
     "characteristics": {
       "processor": "2x2.8 ГГц",
       "ram": "10 GB",
@@ -3787,7 +3787,7 @@
     "image_src": "/upload/148485.svg",
     "description": "6.3\" Asus 240GB",
     "price": "250 396 ₽",
-    "bonus": "+ начислим 2503 бонусов",
+    "bonus": "2503",
     "characteristics": {
       "ram": "14 GB",
       "sim": "4 SIM",
@@ -3801,7 +3801,7 @@
     "image_src": "/upload/822021.png",
     "description": "5.8\" iPhone 12 144GB",
     "price": "152 102 ₽",
-    "bonus": "+ начислим 1521 бонусов",
+    "bonus": "1521",
     "characteristics": {
       "sim": "4 SIM",
       "matrix": "IPS",
@@ -3814,7 +3814,7 @@
     "image_src": "/upload/664098.png",
     "description": "6.9\" NVIDIA 16GB",
     "price": "136 674 ₽",
-    "bonus": "+ начислим 1366 бонусов",
+    "bonus": "1366",
     "characteristics": {
       "sim": "4 SIM",
       "camera": "28 MP",
@@ -3827,7 +3827,7 @@
     "image_src": "/upload/830460.jpeg",
     "description": "6.4\" Xiaomi Mi 96GB",
     "price": "340 862 ₽",
-    "bonus": "+ начислим 3408 бонусов",
+    "bonus": "3408",
     "characteristics": {
       "processor": "6x3.3 ГГц",
       "ram": "10 GB",
@@ -3842,7 +3842,7 @@
     "image_src": "/upload/710999.jpg",
     "description": "7.2\" Dell 128GB",
     "price": "208 167 ₽",
-    "bonus": "+ начислим 2081 бонусов",
+    "bonus": "2081",
     "characteristics": {
       "sim": "4 SIM",
       "acc": "2511 мА * ч"
@@ -3854,7 +3854,7 @@
     "image_src": "/upload/750246.jpg",
     "description": "5.5\" Hewlett-Packard 112GB",
     "price": "166 117 ₽",
-    "bonus": "+ начислим 1661 бонусов",
+    "bonus": "1661",
     "characteristics": {
       "processor": "6x4.3 ГГц",
       "sim": "4 SIM",
@@ -3869,7 +3869,7 @@
     "image_src": "/upload/3677.webp",
     "description": "5.0\" Dell 224GB",
     "price": "96 208 ₽",
-    "bonus": "+ начислим 962 бонусов",
+    "bonus": "962",
     "characteristics": {
       "ram": "16 GB",
       "sim": "4 SIM",
@@ -3883,7 +3883,7 @@
     "image_src": "/upload/491783.png",
     "description": "5.0\" MSI 80GB",
     "price": "450 653 ₽",
-    "bonus": "+ начислим 4506 бонусов",
+    "bonus": "4506",
     "characteristics": {
       "processor": "8x3.3 ГГц",
       "ram": "7 GB",
@@ -3899,7 +3899,7 @@
     "image_src": "/upload/161964.png",
     "description": "6.8\" Toshiba 256GB",
     "price": "427 901 ₽",
-    "bonus": "+ начислим 4279 бонусов",
+    "bonus": "4279",
     "characteristics": {
       "processor": "8x3.1 ГГц",
       "sim": "4 SIM",
@@ -3913,7 +3913,7 @@
     "image_src": "/upload/445458.png",
     "description": "5.2\" HTC 112GB",
     "price": "491 095 ₽",
-    "bonus": "+ начислим 4910 бонусов",
+    "bonus": "4910",
     "characteristics": {
       "processor": "2x3.7 ГГц",
       "ram": "16 GB",
@@ -3928,7 +3928,7 @@
     "image_src": "/upload/263684.png",
     "description": "7.2\" HTC 112GB",
     "price": "69 170 ₽",
-    "bonus": "+ начислим 691 бонусов",
+    "bonus": "691",
     "characteristics": {
       "sim": "4 SIM",
       "resolution": "1280x2160"
@@ -3940,7 +3940,7 @@
     "image_src": "/upload/506911.webp",
     "description": "6.8\" Lenovo 192GB",
     "price": "154 329 ₽",
-    "bonus": "+ начислим 1543 бонусов",
+    "bonus": "1543",
     "characteristics": {
       "processor": "2x3.5 ГГц",
       "sim": "4 SIM",
@@ -3954,7 +3954,7 @@
     "image_src": "/upload/228551.jpg",
     "description": "5.5\" iPhone 12 256GB",
     "price": "248 757 ₽",
-    "bonus": "+ начислим 2487 бонусов",
+    "bonus": "2487",
     "characteristics": {
       "sim": "4 SIM",
       "matrix": "OLED",
@@ -3968,7 +3968,7 @@
     "image_src": "/upload/703654.webp",
     "description": "5.2\" Corsair 192GB",
     "price": "314 430 ₽",
-    "bonus": "+ начислим 3144 бонусов",
+    "bonus": "3144",
     "characteristics": {
       "ram": "8 GB",
       "sim": "4 SIM",
@@ -3983,7 +3983,7 @@
     "image_src": "/upload/883259.jpg",
     "description": "6.8\" Corsair 112GB",
     "price": "64 854 ₽",
-    "bonus": "+ начислим 648 бонусов",
+    "bonus": "648",
     "characteristics": {
       "processor": "8x2.3 ГГц",
       "sim": "4 SIM",
@@ -3996,7 +3996,7 @@
     "image_src": "/upload/231194.webp",
     "description": "6.6\" Xilinx 224GB",
     "price": "121 935 ₽",
-    "bonus": "+ начислим 1219 бонусов",
+    "bonus": "1219",
     "characteristics": {
       "ram": "10 GB",
       "sim": "4 SIM",
@@ -4011,7 +4011,7 @@
     "image_src": "/upload/626676.jpg",
     "description": "5.3\" OPPO 176GB",
     "price": "330 368 ₽",
-    "bonus": "+ начислим 3303 бонусов",
+    "bonus": "3303",
     "characteristics": {
       "sim": "4 SIM",
       "matrix": "IPS",
@@ -4026,7 +4026,7 @@
     "image_src": "/upload/70026.jpeg",
     "description": "6.8\" Hewlett-Packard 80GB",
     "price": "87 335 ₽",
-    "bonus": "+ начислим 873 бонусов",
+    "bonus": "873",
     "characteristics": {
       "processor": "6x1.9 ГГц",
       "sim": "4 SIM",
@@ -4039,7 +4039,7 @@
     "image_src": "/upload/410065.jpg",
     "description": "5.4\" iPhone X 32GB",
     "price": "406 812 ₽",
-    "bonus": "+ начислим 4068 бонусов",
+    "bonus": "4068",
     "characteristics": {
       "sim": "4 SIM",
       "matrix": "AMOLED",
@@ -4054,7 +4054,7 @@
     "image_src": "/upload/705458.svg",
     "description": "7.0\" Fujitsu 112GB",
     "price": "199 736 ₽",
-    "bonus": "+ начислим 1997 бонусов",
+    "bonus": "1997",
     "characteristics": {
       "processor": "2x1.6 ГГц",
       "ram": "10 GB",
@@ -4069,7 +4069,7 @@
     "image_src": "/upload/451987.webp",
     "description": "7.5\" Micron 144GB",
     "price": "32 328 ₽",
-    "bonus": "+ начислим 323 бонусов",
+    "bonus": "323",
     "characteristics": {
       "sim": "4 SIM",
       "matrix": "AMOLED"
@@ -4081,7 +4081,7 @@
     "image_src": "/upload/777345.svg",
     "description": "6.6\" Samsung Note 128GB",
     "price": "51 216 ₽",
-    "bonus": "+ начислим 512 бонусов",
+    "bonus": "512",
     "characteristics": {
       "processor": "6x3.2 ГГц",
       "sim": "4 SIM",
@@ -4096,7 +4096,7 @@
     "image_src": "/upload/742308.png",
     "description": "5.4\" Intel 128GB",
     "price": "257 901 ₽",
-    "bonus": "+ начислим 2579 бонусов",
+    "bonus": "2579",
     "characteristics": {
       "processor": "4x2.7 ГГц",
       "sim": "4 SIM",
@@ -4112,7 +4112,7 @@
     "image_src": "/upload/635316.webp",
     "description": "6.0\" NVIDIA 224GB",
     "price": "307 497 ₽",
-    "bonus": "+ начислим 3074 бонусов",
+    "bonus": "3074",
     "characteristics": {
       "ram": "6 GB",
       "sim": "4 SIM",
@@ -4127,7 +4127,7 @@
     "image_src": "/upload/650513.png",
     "description": "6.7\" Gigabyte 256GB",
     "price": "432 767 ₽",
-    "bonus": "+ начислим 4327 бонусов",
+    "bonus": "4327",
     "characteristics": {
       "ram": "4 GB",
       "sim": "4 SIM",
@@ -4141,7 +4141,7 @@
     "image_src": "/upload/342581.jpeg",
     "description": "7.4\" iPhone 12 48GB",
     "price": "384 272 ₽",
-    "bonus": "+ начислим 3842 бонусов",
+    "bonus": "3842",
     "characteristics": {
       "sim": "4 SIM",
       "matrix": "IPS",
@@ -4154,7 +4154,7 @@
     "image_src": "/upload/73936.png",
     "description": "6.2\" Intel 48GB",
     "price": "399 057 ₽",
-    "bonus": "+ начислим 3990 бонусов",
+    "bonus": "3990",
     "characteristics": {
       "sim": "4 SIM",
       "matrix": "IPS"
@@ -4166,7 +4166,7 @@
     "image_src": "/upload/194079.svg",
     "description": "7.4\" ASUS 176GB",
     "price": "398 579 ₽",
-    "bonus": "+ начислим 3985 бонусов",
+    "bonus": "3985",
     "characteristics": {
       "sim": "4 SIM",
       "acc": "6945 мА * ч"
@@ -4178,7 +4178,7 @@
     "image_src": "/upload/311796.png",
     "description": "5.4\" Apple 112GB",
     "price": "470 370 ₽",
-    "bonus": "+ начислим 4703 бонусов",
+    "bonus": "4703",
     "characteristics": {
       "processor": "4x1.2 ГГц",
       "ram": "2 GB",
@@ -4193,7 +4193,7 @@
     "image_src": "/upload/661297.png",
     "description": "7.2\" Asus 16GB",
     "price": "128 431 ₽",
-    "bonus": "+ начислим 1284 бонусов",
+    "bonus": "1284",
     "characteristics": {
       "processor": "2x1.2 ГГц",
       "ram": "9 GB",
@@ -4210,7 +4210,7 @@
     "image_src": "/upload/240242.jpg",
     "description": "7.0\" AMD 16GB",
     "price": "77 773 ₽",
-    "bonus": "+ начислим 777 бонусов",
+    "bonus": "777",
     "characteristics": {
       "sim": "4 SIM",
       "matrix": "OLED",
@@ -4224,7 +4224,7 @@
     "image_src": "/upload/201585.jpg",
     "description": "7.4\" Corsair 192GB",
     "price": "288 015 ₽",
-    "bonus": "+ начислим 2880 бонусов",
+    "bonus": "2880",
     "characteristics": {
       "processor": "8x1.9 ГГц",
       "ram": "7 GB",
@@ -4238,7 +4238,7 @@
     "image_src": "/upload/988432.svg",
     "description": "5.2\" Nokia 208GB",
     "price": "295 880 ₽",
-    "bonus": "+ начислим 2958 бонусов",
+    "bonus": "2958",
     "characteristics": {
       "sim": "4 SIM",
       "camera": "104 MP"
@@ -4250,7 +4250,7 @@
     "image_src": "/upload/362978.webp",
     "description": "7.5\" Dell 224GB",
     "price": "101 488 ₽",
-    "bonus": "+ начислим 1014 бонусов",
+    "bonus": "1014",
     "characteristics": {
       "ram": "14 GB",
       "sim": "4 SIM",
@@ -4266,7 +4266,7 @@
     "image_src": "/upload/407014.svg",
     "description": "5.8\" iPhone 12 144GB",
     "price": "277 015 ₽",
-    "bonus": "+ начислим 2770 бонусов",
+    "bonus": "2770",
     "characteristics": {
       "processor": "4x3.4 ГГц",
       "sim": "4 SIM",
@@ -4280,7 +4280,7 @@
     "image_src": "/upload/532153.svg",
     "description": "6.4\" VIVO 96GB",
     "price": "431 710 ₽",
-    "bonus": "+ начислим 4317 бонусов",
+    "bonus": "4317",
     "characteristics": {
       "processor": "8x2.4 ГГц",
       "ram": "8 GB",
@@ -4294,7 +4294,7 @@
     "image_src": "/upload/632338.jpeg",
     "description": "6.5\" Xiaomi Mi 176GB",
     "price": "386 147 ₽",
-    "bonus": "+ начислим 3861 бонусов",
+    "bonus": "3861",
     "characteristics": {
       "processor": "2x4.6 ГГц",
       "ram": "12 GB",
@@ -4310,7 +4310,7 @@
     "image_src": "/upload/493345.png",
     "description": "6.7\" Xilinx 48GB",
     "price": "335 374 ₽",
-    "bonus": "+ начислим 3353 бонусов",
+    "bonus": "3353",
     "characteristics": {
       "sim": "4 SIM",
       "matrix": "AMOLED",
@@ -4324,7 +4324,7 @@
     "image_src": "/upload/521845.webp",
     "description": "5.1\" Western Digital 256GB",
     "price": "50 795 ₽",
-    "bonus": "+ начислим 507 бонусов",
+    "bonus": "507",
     "characteristics": {
       "processor": "2x3.1 ГГц",
       "ram": "13 GB",
@@ -4339,7 +4339,7 @@
     "image_src": "/upload/183796.svg",
     "description": "6.3\" NVIDIA 96GB",
     "price": "434 199 ₽",
-    "bonus": "+ начислим 4341 бонусов",
+    "bonus": "4341",
     "characteristics": {
       "processor": "6x4.4 ГГц",
       "sim": "4 SIM",
@@ -4352,7 +4352,7 @@
     "image_src": "/upload/704214.jpeg",
     "description": "5.5\" LaCie 16GB",
     "price": "123 514 ₽",
-    "bonus": "+ начислим 1235 бонусов",
+    "bonus": "1235",
     "characteristics": {
       "processor": "2x3.0 ГГц",
       "ram": "8 GB",
@@ -4367,7 +4367,7 @@
     "image_src": "/upload/545419.png",
     "description": "5.1\" ZTE 112GB",
     "price": "185 636 ₽",
-    "bonus": "+ начислим 1856 бонусов",
+    "bonus": "1856",
     "characteristics": {
       "ram": "13 GB",
       "sim": "4 SIM",
@@ -4382,7 +4382,7 @@
     "image_src": "/upload/178029.webp",
     "description": "5.9\" Qualcomm 16GB",
     "price": "479 264 ₽",
-    "bonus": "+ начислим 4792 бонусов",
+    "bonus": "4792",
     "characteristics": {
       "ram": "16 GB",
       "sim": "4 SIM",
@@ -4395,7 +4395,7 @@
     "image_src": "/upload/702622.png",
     "description": "5.9\" Dell 112GB",
     "price": "200 711 ₽",
-    "bonus": "+ начислим 2007 бонусов",
+    "bonus": "2007",
     "characteristics": {
       "processor": "6x4.6 ГГц",
       "sim": "4 SIM",
