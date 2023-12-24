@@ -3,6 +3,10 @@ from pymongo import MongoClient
 from bson import json_util
 import json
 
+def write_to_file(filename, data):
+    with open(filename, 'w', encoding='utf-8') as json_file:
+        json.dump(data, json_file, default=json_util.default, ensure_ascii=False)
+
 client = MongoClient('localhost', 27017)
 
 db = client['mydatabase']
@@ -18,23 +22,21 @@ collection.insert_many(data_task_2)
 
 result_salary_stats = collection.aggregate([
     {"$group": {
-        "_id": None,
+        "_id": "$job",
         "min_salary": {"$min": "$salary"},
         "avg_salary": {"$avg": "$salary"},
         "max_salary": {"$max": "$salary"}
     }}
 ])
-with open('result_salary_stats.json', 'w', encoding='utf-8') as json_file:
-    json.dump(list(result_salary_stats), json_file, default=json_util.default, ensure_ascii=False)
+write_to_file('result_salary_stats.json', list(result_salary_stats))
 
 result_profession_count = collection.aggregate([
     {"$group": {
-        "_id": "$profession",
+        "_id": "$job",
         "count": {"$sum": 1}
     }}
 ])
-with open('result_profession_count.json', 'w', encoding='utf-8') as json_file:
-    json.dump(list(result_profession_count), json_file, default=json_util.default, ensure_ascii=False)
+write_to_file('result_profession_count.json', list(result_profession_count))
 
 result_salary_stats_by_city = collection.aggregate([
     {"$group": {
@@ -44,19 +46,17 @@ result_salary_stats_by_city = collection.aggregate([
         "max_salary": {"$max": "$salary"}
     }}
 ])
-with open('result_salary_stats_by_city.json', 'w', encoding='utf-8') as json_file:
-    json.dump(list(result_salary_stats_by_city), json_file, default=json_util.default, ensure_ascii=False)
+write_to_file('result_salary_stats_by_city.json', list(result_salary_stats_by_city))
 
 result_salary_stats_by_profession = collection.aggregate([
     {"$group": {
-        "_id": "$profession",
+        "_id": "$job",
         "min_salary": {"$min": "$salary"},
         "avg_salary": {"$avg": "$salary"},
         "max_salary": {"$max": "$salary"}
     }}
 ])
-with open('result_salary_stats_by_profession.json', 'w', encoding='utf-8') as json_file:
-    json.dump(list(result_salary_stats_by_profession), json_file, default=json_util.default, ensure_ascii=False)
+write_to_file('result_salary_stats_by_profession.json', list(result_salary_stats_by_profession))
 
 result_age_stats_by_city = collection.aggregate([
     {"$group": {
@@ -66,27 +66,23 @@ result_age_stats_by_city = collection.aggregate([
         "max_age": {"$max": "$age"}
     }}
 ])
-with open('result_age_stats_by_city.json', 'w', encoding='utf-8') as json_file:
-    json.dump(list(result_age_stats_by_city), json_file, default=json_util.default, ensure_ascii=False)
+write_to_file('result_age_stats_by_city.json', list(result_age_stats_by_city))
 
 result_age_stats_by_profession = collection.aggregate([
     {"$group": {
-        "_id": "$profession",
+        "_id": "$job",
         "min_age": {"$min": "$age"},
         "avg_age": {"$avg": "$age"},
         "max_age": {"$max": "$age"}
     }}
 ])
-with open('result_age_stats_by_profession.json', 'w', encoding='utf-8') as json_file:
-    json.dump(list(result_age_stats_by_profession), json_file, default=json_util.default, ensure_ascii=False)
+write_to_file('result_age_stats_by_profession.json', list(result_age_stats_by_profession))
 
 result_max_salary_at_min_age = list(collection.find().sort([("age", 1), ("salary", -1)]).limit(1))
-with open('result_max_salary_at_min_age.json', 'w', encoding='utf-8') as json_file:
-    json.dump(result_max_salary_at_min_age, json_file, default=json_util.default, ensure_ascii=False)
+write_to_file('result_max_salary_at_min_age.json', result_max_salary_at_min_age)
 
 result_min_salary_at_max_age = list(collection.find().sort([("age", -1), ("salary", 1)]).limit(1))
-with open('result_min_salary_at_max_age.json', 'w', encoding='utf-8') as json_file:
-    json.dump(result_min_salary_at_max_age, json_file, default=json_util.default, ensure_ascii=False)
+write_to_file('result_min_salary_at_max_age.json', result_min_salary_at_max_age)
 
 result_age_stats_by_city_with_salary_filter = collection.aggregate([
     {"$match": {"salary": {"$gt": 50000}}},
@@ -98,27 +94,25 @@ result_age_stats_by_city_with_salary_filter = collection.aggregate([
     }},
     {"$sort": {"_id": -1}}
 ])
-with open('result_age_stats_by_city_with_salary_filter.json', 'w', encoding='utf-8') as json_file:
-    json.dump(list(result_age_stats_by_city_with_salary_filter), json_file, default=json_util.default, ensure_ascii=False)
+write_to_file('result_age_stats_by_city_with_salary_filter.json', list(result_age_stats_by_city_with_salary_filter))
 
 result_salary_stats_custom_filter = collection.aggregate([
-    {"$match": {"$and": [
+    {"$match":
         {"$or": [
             {"age": {"$gt": 18, "$lt": 25}},
             {"age": {"$gt": 50, "$lt": 65}}
-        ]},
-        {"city": "Барселона"},
-        {"job": {"$in": ["Учитель", "Строитель", "Программист"]}}
-    ]}},
+        ],
+        "city": "Барселона",
+        "job": {"$in": ["Учитель", "Строитель", "Программист"]}}
+    },
     {"$group": {
-        "_id": None,
+        "_id": {"city": "$city", "job": "$job"},
         "min_salary": {"$min": "$salary"},
         "avg_salary": {"$avg": "$salary"},
         "max_salary": {"$max": "$salary"}
     }}
 ])
-with open('result_salary_stats_custom_filter.json', 'w', encoding='utf-8') as json_file:
-    json.dump(list(result_salary_stats_custom_filter), json_file, default=json_util.default, ensure_ascii=False)
+write_to_file('result_salary_stats_custom_filter.json', list(result_salary_stats_custom_filter))
 
 result_custom_aggregation = collection.aggregate([
     {"$match": {"job": {"$in": ["Учитель", "Строитель"]}}},
@@ -128,7 +122,6 @@ result_custom_aggregation = collection.aggregate([
     }},
     {"$sort": {"avg_salary": -1}}
 ])
-with open('result_custom_aggregation.json', 'w', encoding='utf-8') as json_file:
-    json.dump(list(result_custom_aggregation), json_file, default=json_util.default, ensure_ascii=False)
+write_to_file('result_custom_aggregation.json', list(result_custom_aggregation))
 
 client.close()

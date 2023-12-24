@@ -1,0 +1,6048 @@
+{
+  "Query 1 Heart": [
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae805f6"
+      },
+      "age": 75.0,
+      "anaemia": 0,
+      "creatinine_phosphokinase": 582,
+      "diabetes": 0,
+      "ejection_fraction": 20,
+      "high_blood_pressure": 1,
+      "platelets": 265000.0,
+      "serum_creatinine": 1.9,
+      "serum_sodium": 130,
+      "sex": 1,
+      "smoking": 0,
+      "time": 4,
+      "DEATH_EVENT": 1
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae805f8"
+      },
+      "age": 65.0,
+      "anaemia": 0,
+      "creatinine_phosphokinase": 146,
+      "diabetes": 0,
+      "ejection_fraction": 20,
+      "high_blood_pressure": 0,
+      "platelets": 162000.0,
+      "serum_creatinine": 1.3,
+      "serum_sodium": 129,
+      "sex": 1,
+      "smoking": 1,
+      "time": 7,
+      "DEATH_EVENT": 1
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae805fa"
+      },
+      "age": 65.0,
+      "anaemia": 1,
+      "creatinine_phosphokinase": 160,
+      "diabetes": 1,
+      "ejection_fraction": 20,
+      "high_blood_pressure": 0,
+      "platelets": 327000.0,
+      "serum_creatinine": 2.7,
+      "serum_sodium": 116,
+      "sex": 0,
+      "smoking": 0,
+      "time": 8,
+      "DEATH_EVENT": 1
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae805fb"
+      },
+      "age": 90.0,
+      "anaemia": 1,
+      "creatinine_phosphokinase": 47,
+      "diabetes": 0,
+      "ejection_fraction": 40,
+      "high_blood_pressure": 1,
+      "platelets": 204000.0,
+      "serum_creatinine": 2.1,
+      "serum_sodium": 132,
+      "sex": 1,
+      "smoking": 1,
+      "time": 8,
+      "DEATH_EVENT": 1
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae805fc"
+      },
+      "age": 75.0,
+      "anaemia": 1,
+      "creatinine_phosphokinase": 246,
+      "diabetes": 0,
+      "ejection_fraction": 15,
+      "high_blood_pressure": 0,
+      "platelets": 127000.0,
+      "serum_creatinine": 1.2,
+      "serum_sodium": 137,
+      "sex": 1,
+      "smoking": 0,
+      "time": 10,
+      "DEATH_EVENT": 1
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae805fe"
+      },
+      "age": 65.0,
+      "anaemia": 0,
+      "creatinine_phosphokinase": 157,
+      "diabetes": 0,
+      "ejection_fraction": 65,
+      "high_blood_pressure": 0,
+      "platelets": 263358.03,
+      "serum_creatinine": 1.5,
+      "serum_sodium": 138,
+      "sex": 0,
+      "smoking": 0,
+      "time": 10,
+      "DEATH_EVENT": 1
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae805ff"
+      },
+      "age": 80.0,
+      "anaemia": 1,
+      "creatinine_phosphokinase": 123,
+      "diabetes": 0,
+      "ejection_fraction": 35,
+      "high_blood_pressure": 1,
+      "platelets": 388000.0,
+      "serum_creatinine": 9.4,
+      "serum_sodium": 133,
+      "sex": 1,
+      "smoking": 1,
+      "time": 10,
+      "DEATH_EVENT": 1
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae80600"
+      },
+      "age": 75.0,
+      "anaemia": 1,
+      "creatinine_phosphokinase": 81,
+      "diabetes": 0,
+      "ejection_fraction": 38,
+      "high_blood_pressure": 1,
+      "platelets": 368000.0,
+      "serum_creatinine": 4.0,
+      "serum_sodium": 131,
+      "sex": 1,
+      "smoking": 1,
+      "time": 10,
+      "DEATH_EVENT": 1
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae80601"
+      },
+      "age": 62.0,
+      "anaemia": 0,
+      "creatinine_phosphokinase": 231,
+      "diabetes": 0,
+      "ejection_fraction": 25,
+      "high_blood_pressure": 1,
+      "platelets": 253000.0,
+      "serum_creatinine": 0.9,
+      "serum_sodium": 140,
+      "sex": 1,
+      "smoking": 1,
+      "time": 10,
+      "DEATH_EVENT": 1
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae80605"
+      },
+      "age": 82.0,
+      "anaemia": 1,
+      "creatinine_phosphokinase": 379,
+      "diabetes": 0,
+      "ejection_fraction": 50,
+      "high_blood_pressure": 0,
+      "platelets": 47000.0,
+      "serum_creatinine": 1.3,
+      "serum_sodium": 136,
+      "sex": 1,
+      "smoking": 0,
+      "time": 13,
+      "DEATH_EVENT": 1
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae80606"
+      },
+      "age": 87.0,
+      "anaemia": 1,
+      "creatinine_phosphokinase": 149,
+      "diabetes": 0,
+      "ejection_fraction": 38,
+      "high_blood_pressure": 0,
+      "platelets": 262000.0,
+      "serum_creatinine": 0.9,
+      "serum_sodium": 140,
+      "sex": 1,
+      "smoking": 0,
+      "time": 14,
+      "DEATH_EVENT": 1
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae80608"
+      },
+      "age": 70.0,
+      "anaemia": 1,
+      "creatinine_phosphokinase": 125,
+      "diabetes": 0,
+      "ejection_fraction": 25,
+      "high_blood_pressure": 1,
+      "platelets": 237000.0,
+      "serum_creatinine": 1.0,
+      "serum_sodium": 140,
+      "sex": 0,
+      "smoking": 0,
+      "time": 15,
+      "DEATH_EVENT": 1
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae8060a"
+      },
+      "age": 65.0,
+      "anaemia": 1,
+      "creatinine_phosphokinase": 52,
+      "diabetes": 0,
+      "ejection_fraction": 25,
+      "high_blood_pressure": 1,
+      "platelets": 276000.0,
+      "serum_creatinine": 1.3,
+      "serum_sodium": 137,
+      "sex": 0,
+      "smoking": 0,
+      "time": 16,
+      "DEATH_EVENT": 0
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae8060b"
+      },
+      "age": 65.0,
+      "anaemia": 1,
+      "creatinine_phosphokinase": 128,
+      "diabetes": 1,
+      "ejection_fraction": 30,
+      "high_blood_pressure": 1,
+      "platelets": 297000.0,
+      "serum_creatinine": 1.6,
+      "serum_sodium": 136,
+      "sex": 0,
+      "smoking": 0,
+      "time": 20,
+      "DEATH_EVENT": 1
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae8060c"
+      },
+      "age": 68.0,
+      "anaemia": 1,
+      "creatinine_phosphokinase": 220,
+      "diabetes": 0,
+      "ejection_fraction": 35,
+      "high_blood_pressure": 1,
+      "platelets": 289000.0,
+      "serum_creatinine": 0.9,
+      "serum_sodium": 140,
+      "sex": 1,
+      "smoking": 1,
+      "time": 20,
+      "DEATH_EVENT": 1
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae8060e"
+      },
+      "age": 75.0,
+      "anaemia": 0,
+      "creatinine_phosphokinase": 582,
+      "diabetes": 1,
+      "ejection_fraction": 30,
+      "high_blood_pressure": 1,
+      "platelets": 263358.03,
+      "serum_creatinine": 1.83,
+      "serum_sodium": 134,
+      "sex": 0,
+      "smoking": 0,
+      "time": 23,
+      "DEATH_EVENT": 1
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae8060f"
+      },
+      "age": 80.0,
+      "anaemia": 0,
+      "creatinine_phosphokinase": 148,
+      "diabetes": 1,
+      "ejection_fraction": 38,
+      "high_blood_pressure": 0,
+      "platelets": 149000.0,
+      "serum_creatinine": 1.9,
+      "serum_sodium": 144,
+      "sex": 1,
+      "smoking": 1,
+      "time": 23,
+      "DEATH_EVENT": 1
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae80610"
+      },
+      "age": 95.0,
+      "anaemia": 1,
+      "creatinine_phosphokinase": 112,
+      "diabetes": 0,
+      "ejection_fraction": 40,
+      "high_blood_pressure": 1,
+      "platelets": 196000.0,
+      "serum_creatinine": 1.0,
+      "serum_sodium": 138,
+      "sex": 0,
+      "smoking": 0,
+      "time": 24,
+      "DEATH_EVENT": 1
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae80611"
+      },
+      "age": 70.0,
+      "anaemia": 0,
+      "creatinine_phosphokinase": 122,
+      "diabetes": 1,
+      "ejection_fraction": 45,
+      "high_blood_pressure": 1,
+      "platelets": 284000.0,
+      "serum_creatinine": 1.3,
+      "serum_sodium": 136,
+      "sex": 1,
+      "smoking": 1,
+      "time": 26,
+      "DEATH_EVENT": 1
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae80613"
+      },
+      "age": 82.0,
+      "anaemia": 0,
+      "creatinine_phosphokinase": 70,
+      "diabetes": 1,
+      "ejection_fraction": 30,
+      "high_blood_pressure": 0,
+      "platelets": 200000.0,
+      "serum_creatinine": 1.2,
+      "serum_sodium": 132,
+      "sex": 1,
+      "smoking": 1,
+      "time": 26,
+      "DEATH_EVENT": 1
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae80614"
+      },
+      "age": 94.0,
+      "anaemia": 0,
+      "creatinine_phosphokinase": 582,
+      "diabetes": 1,
+      "ejection_fraction": 38,
+      "high_blood_pressure": 1,
+      "platelets": 263358.03,
+      "serum_creatinine": 1.83,
+      "serum_sodium": 134,
+      "sex": 1,
+      "smoking": 0,
+      "time": 27,
+      "DEATH_EVENT": 1
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae80615"
+      },
+      "age": 85.0,
+      "anaemia": 0,
+      "creatinine_phosphokinase": 23,
+      "diabetes": 0,
+      "ejection_fraction": 45,
+      "high_blood_pressure": 0,
+      "platelets": 360000.0,
+      "serum_creatinine": 3.0,
+      "serum_sodium": 132,
+      "sex": 1,
+      "smoking": 0,
+      "time": 28,
+      "DEATH_EVENT": 1
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae80618"
+      },
+      "age": 65.0,
+      "anaemia": 0,
+      "creatinine_phosphokinase": 94,
+      "diabetes": 1,
+      "ejection_fraction": 50,
+      "high_blood_pressure": 1,
+      "platelets": 188000.0,
+      "serum_creatinine": 1.0,
+      "serum_sodium": 140,
+      "sex": 1,
+      "smoking": 0,
+      "time": 29,
+      "DEATH_EVENT": 1
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae80619"
+      },
+      "age": 69.0,
+      "anaemia": 0,
+      "creatinine_phosphokinase": 582,
+      "diabetes": 1,
+      "ejection_fraction": 35,
+      "high_blood_pressure": 0,
+      "platelets": 228000.0,
+      "serum_creatinine": 3.5,
+      "serum_sodium": 134,
+      "sex": 1,
+      "smoking": 0,
+      "time": 30,
+      "DEATH_EVENT": 1
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae8061a"
+      },
+      "age": 90.0,
+      "anaemia": 1,
+      "creatinine_phosphokinase": 60,
+      "diabetes": 1,
+      "ejection_fraction": 50,
+      "high_blood_pressure": 0,
+      "platelets": 226000.0,
+      "serum_creatinine": 1.0,
+      "serum_sodium": 134,
+      "sex": 1,
+      "smoking": 0,
+      "time": 30,
+      "DEATH_EVENT": 1
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae8061b"
+      },
+      "age": 82.0,
+      "anaemia": 1,
+      "creatinine_phosphokinase": 855,
+      "diabetes": 1,
+      "ejection_fraction": 50,
+      "high_blood_pressure": 1,
+      "platelets": 321000.0,
+      "serum_creatinine": 1.0,
+      "serum_sodium": 145,
+      "sex": 0,
+      "smoking": 0,
+      "time": 30,
+      "DEATH_EVENT": 1
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae8061e"
+      },
+      "age": 70.0,
+      "anaemia": 0,
+      "creatinine_phosphokinase": 582,
+      "diabetes": 0,
+      "ejection_fraction": 20,
+      "high_blood_pressure": 1,
+      "platelets": 263358.03,
+      "serum_creatinine": 1.83,
+      "serum_sodium": 134,
+      "sex": 1,
+      "smoking": 1,
+      "time": 31,
+      "DEATH_EVENT": 1
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae80620"
+      },
+      "age": 70.0,
+      "anaemia": 0,
+      "creatinine_phosphokinase": 571,
+      "diabetes": 1,
+      "ejection_fraction": 45,
+      "high_blood_pressure": 1,
+      "platelets": 185000.0,
+      "serum_creatinine": 1.2,
+      "serum_sodium": 139,
+      "sex": 1,
+      "smoking": 1,
+      "time": 33,
+      "DEATH_EVENT": 1
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae80621"
+      },
+      "age": 72.0,
+      "anaemia": 0,
+      "creatinine_phosphokinase": 127,
+      "diabetes": 1,
+      "ejection_fraction": 50,
+      "high_blood_pressure": 1,
+      "platelets": 218000.0,
+      "serum_creatinine": 1.0,
+      "serum_sodium": 134,
+      "sex": 1,
+      "smoking": 0,
+      "time": 33,
+      "DEATH_EVENT": 0
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae80626"
+      },
+      "age": 80.0,
+      "anaemia": 1,
+      "creatinine_phosphokinase": 553,
+      "diabetes": 0,
+      "ejection_fraction": 20,
+      "high_blood_pressure": 1,
+      "platelets": 140000.0,
+      "serum_creatinine": 4.4,
+      "serum_sodium": 133,
+      "sex": 1,
+      "smoking": 0,
+      "time": 41,
+      "DEATH_EVENT": 1
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae80628"
+      },
+      "age": 68.0,
+      "anaemia": 1,
+      "creatinine_phosphokinase": 577,
+      "diabetes": 0,
+      "ejection_fraction": 25,
+      "high_blood_pressure": 1,
+      "platelets": 166000.0,
+      "serum_creatinine": 1.0,
+      "serum_sodium": 138,
+      "sex": 1,
+      "smoking": 0,
+      "time": 43,
+      "DEATH_EVENT": 1
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae8062b"
+      },
+      "age": 70.0,
+      "anaemia": 1,
+      "creatinine_phosphokinase": 69,
+      "diabetes": 1,
+      "ejection_fraction": 50,
+      "high_blood_pressure": 1,
+      "platelets": 351000.0,
+      "serum_creatinine": 1.0,
+      "serum_sodium": 134,
+      "sex": 0,
+      "smoking": 0,
+      "time": 44,
+      "DEATH_EVENT": 1
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae8062d"
+      },
+      "age": 95.0,
+      "anaemia": 1,
+      "creatinine_phosphokinase": 371,
+      "diabetes": 0,
+      "ejection_fraction": 30,
+      "high_blood_pressure": 0,
+      "platelets": 461000.0,
+      "serum_creatinine": 2.0,
+      "serum_sodium": 132,
+      "sex": 1,
+      "smoking": 0,
+      "time": 50,
+      "DEATH_EVENT": 1
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae8062e"
+      },
+      "age": 70.0,
+      "anaemia": 1,
+      "creatinine_phosphokinase": 75,
+      "diabetes": 0,
+      "ejection_fraction": 35,
+      "high_blood_pressure": 0,
+      "platelets": 223000.0,
+      "serum_creatinine": 2.7,
+      "serum_sodium": 138,
+      "sex": 1,
+      "smoking": 1,
+      "time": 54,
+      "DEATH_EVENT": 0
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae80631"
+      },
+      "age": 72.0,
+      "anaemia": 0,
+      "creatinine_phosphokinase": 364,
+      "diabetes": 1,
+      "ejection_fraction": 20,
+      "high_blood_pressure": 1,
+      "platelets": 254000.0,
+      "serum_creatinine": 1.3,
+      "serum_sodium": 136,
+      "sex": 1,
+      "smoking": 1,
+      "time": 59,
+      "DEATH_EVENT": 1
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae80639"
+      },
+      "age": 72.0,
+      "anaemia": 1,
+      "creatinine_phosphokinase": 110,
+      "diabetes": 0,
+      "ejection_fraction": 25,
+      "high_blood_pressure": 0,
+      "platelets": 274000.0,
+      "serum_creatinine": 1.0,
+      "serum_sodium": 140,
+      "sex": 1,
+      "smoking": 1,
+      "time": 65,
+      "DEATH_EVENT": 1
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae8063a"
+      },
+      "age": 70.0,
+      "anaemia": 0,
+      "creatinine_phosphokinase": 161,
+      "diabetes": 0,
+      "ejection_fraction": 25,
+      "high_blood_pressure": 0,
+      "platelets": 244000.0,
+      "serum_creatinine": 1.2,
+      "serum_sodium": 142,
+      "sex": 0,
+      "smoking": 0,
+      "time": 66,
+      "DEATH_EVENT": 1
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae8063b"
+      },
+      "age": 65.0,
+      "anaemia": 0,
+      "creatinine_phosphokinase": 113,
+      "diabetes": 1,
+      "ejection_fraction": 25,
+      "high_blood_pressure": 0,
+      "platelets": 497000.0,
+      "serum_creatinine": 1.83,
+      "serum_sodium": 135,
+      "sex": 1,
+      "smoking": 0,
+      "time": 67,
+      "DEATH_EVENT": 1
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae8063e"
+      },
+      "age": 85.0,
+      "anaemia": 0,
+      "creatinine_phosphokinase": 5882,
+      "diabetes": 0,
+      "ejection_fraction": 35,
+      "high_blood_pressure": 0,
+      "platelets": 243000.0,
+      "serum_creatinine": 1.0,
+      "serum_sodium": 132,
+      "sex": 1,
+      "smoking": 1,
+      "time": 72,
+      "DEATH_EVENT": 1
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae8063f"
+      },
+      "age": 65.0,
+      "anaemia": 0,
+      "creatinine_phosphokinase": 224,
+      "diabetes": 1,
+      "ejection_fraction": 50,
+      "high_blood_pressure": 0,
+      "platelets": 149000.0,
+      "serum_creatinine": 1.3,
+      "serum_sodium": 137,
+      "sex": 1,
+      "smoking": 1,
+      "time": 72,
+      "DEATH_EVENT": 0
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae80640"
+      },
+      "age": 69.0,
+      "anaemia": 0,
+      "creatinine_phosphokinase": 582,
+      "diabetes": 0,
+      "ejection_fraction": 20,
+      "high_blood_pressure": 0,
+      "platelets": 266000.0,
+      "serum_creatinine": 1.2,
+      "serum_sodium": 134,
+      "sex": 1,
+      "smoking": 1,
+      "time": 73,
+      "DEATH_EVENT": 1
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae80642"
+      },
+      "age": 70.0,
+      "anaemia": 0,
+      "creatinine_phosphokinase": 92,
+      "diabetes": 0,
+      "ejection_fraction": 60,
+      "high_blood_pressure": 1,
+      "platelets": 317000.0,
+      "serum_creatinine": 0.8,
+      "serum_sodium": 140,
+      "sex": 0,
+      "smoking": 1,
+      "time": 74,
+      "DEATH_EVENT": 0
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae80644"
+      },
+      "age": 75.0,
+      "anaemia": 1,
+      "creatinine_phosphokinase": 203,
+      "diabetes": 1,
+      "ejection_fraction": 38,
+      "high_blood_pressure": 1,
+      "platelets": 283000.0,
+      "serum_creatinine": 0.6,
+      "serum_sodium": 131,
+      "sex": 1,
+      "smoking": 1,
+      "time": 74,
+      "DEATH_EVENT": 0
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae80646"
+      },
+      "age": 70.0,
+      "anaemia": 0,
+      "creatinine_phosphokinase": 69,
+      "diabetes": 0,
+      "ejection_fraction": 40,
+      "high_blood_pressure": 0,
+      "platelets": 293000.0,
+      "serum_creatinine": 1.7,
+      "serum_sodium": 136,
+      "sex": 0,
+      "smoking": 0,
+      "time": 75,
+      "DEATH_EVENT": 0
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae80647"
+      },
+      "age": 67.0,
+      "anaemia": 0,
+      "creatinine_phosphokinase": 582,
+      "diabetes": 0,
+      "ejection_fraction": 50,
+      "high_blood_pressure": 0,
+      "platelets": 263358.03,
+      "serum_creatinine": 1.18,
+      "serum_sodium": 137,
+      "sex": 1,
+      "smoking": 1,
+      "time": 76,
+      "DEATH_EVENT": 0
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae80649"
+      },
+      "age": 79.0,
+      "anaemia": 1,
+      "creatinine_phosphokinase": 55,
+      "diabetes": 0,
+      "ejection_fraction": 50,
+      "high_blood_pressure": 1,
+      "platelets": 172000.0,
+      "serum_creatinine": 1.8,
+      "serum_sodium": 133,
+      "sex": 1,
+      "smoking": 0,
+      "time": 78,
+      "DEATH_EVENT": 0
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae8064d"
+      },
+      "age": 65.0,
+      "anaemia": 1,
+      "creatinine_phosphokinase": 68,
+      "diabetes": 1,
+      "ejection_fraction": 60,
+      "high_blood_pressure": 1,
+      "platelets": 304000.0,
+      "serum_creatinine": 0.8,
+      "serum_sodium": 140,
+      "sex": 1,
+      "smoking": 0,
+      "time": 79,
+      "DEATH_EVENT": 0
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae80650"
+      },
+      "age": 70.0,
+      "anaemia": 0,
+      "creatinine_phosphokinase": 66,
+      "diabetes": 1,
+      "ejection_fraction": 45,
+      "high_blood_pressure": 0,
+      "platelets": 249000.0,
+      "serum_creatinine": 0.8,
+      "serum_sodium": 136,
+      "sex": 1,
+      "smoking": 1,
+      "time": 80,
+      "DEATH_EVENT": 0
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae80656"
+      },
+      "age": 63.0,
+      "anaemia": 1,
+      "creatinine_phosphokinase": 514,
+      "diabetes": 1,
+      "ejection_fraction": 25,
+      "high_blood_pressure": 1,
+      "platelets": 254000.0,
+      "serum_creatinine": 1.3,
+      "serum_sodium": 134,
+      "sex": 1,
+      "smoking": 0,
+      "time": 83,
+      "DEATH_EVENT": 0
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae80657"
+      },
+      "age": 70.0,
+      "anaemia": 1,
+      "creatinine_phosphokinase": 59,
+      "diabetes": 0,
+      "ejection_fraction": 60,
+      "high_blood_pressure": 0,
+      "platelets": 255000.0,
+      "serum_creatinine": 1.1,
+      "serum_sodium": 136,
+      "sex": 0,
+      "smoking": 0,
+      "time": 85,
+      "DEATH_EVENT": 0
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae80659"
+      },
+      "age": 63.0,
+      "anaemia": 1,
+      "creatinine_phosphokinase": 61,
+      "diabetes": 1,
+      "ejection_fraction": 40,
+      "high_blood_pressure": 0,
+      "platelets": 221000.0,
+      "serum_creatinine": 1.1,
+      "serum_sodium": 140,
+      "sex": 0,
+      "smoking": 0,
+      "time": 86,
+      "DEATH_EVENT": 0
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae8065a"
+      },
+      "age": 65.0,
+      "anaemia": 1,
+      "creatinine_phosphokinase": 305,
+      "diabetes": 0,
+      "ejection_fraction": 25,
+      "high_blood_pressure": 0,
+      "platelets": 298000.0,
+      "serum_creatinine": 1.1,
+      "serum_sodium": 141,
+      "sex": 1,
+      "smoking": 0,
+      "time": 87,
+      "DEATH_EVENT": 0
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae8065b"
+      },
+      "age": 75.0,
+      "anaemia": 0,
+      "creatinine_phosphokinase": 582,
+      "diabetes": 0,
+      "ejection_fraction": 45,
+      "high_blood_pressure": 1,
+      "platelets": 263358.03,
+      "serum_creatinine": 1.18,
+      "serum_sodium": 137,
+      "sex": 1,
+      "smoking": 0,
+      "time": 87,
+      "DEATH_EVENT": 0
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae8065c"
+      },
+      "age": 80.0,
+      "anaemia": 0,
+      "creatinine_phosphokinase": 898,
+      "diabetes": 0,
+      "ejection_fraction": 25,
+      "high_blood_pressure": 0,
+      "platelets": 149000.0,
+      "serum_creatinine": 1.1,
+      "serum_sodium": 144,
+      "sex": 1,
+      "smoking": 1,
+      "time": 87,
+      "DEATH_EVENT": 0
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae8065f"
+      },
+      "age": 72.0,
+      "anaemia": 1,
+      "creatinine_phosphokinase": 328,
+      "diabetes": 0,
+      "ejection_fraction": 30,
+      "high_blood_pressure": 1,
+      "platelets": 621000.0,
+      "serum_creatinine": 1.7,
+      "serum_sodium": 138,
+      "sex": 0,
+      "smoking": 1,
+      "time": 88,
+      "DEATH_EVENT": 1
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae80662"
+      },
+      "age": 63.0,
+      "anaemia": 0,
+      "creatinine_phosphokinase": 936,
+      "diabetes": 0,
+      "ejection_fraction": 38,
+      "high_blood_pressure": 0,
+      "platelets": 304000.0,
+      "serum_creatinine": 1.1,
+      "serum_sodium": 133,
+      "sex": 1,
+      "smoking": 1,
+      "time": 88,
+      "DEATH_EVENT": 0
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae80664"
+      },
+      "age": 85.0,
+      "anaemia": 0,
+      "creatinine_phosphokinase": 129,
+      "diabetes": 0,
+      "ejection_fraction": 60,
+      "high_blood_pressure": 0,
+      "platelets": 306000.0,
+      "serum_creatinine": 1.2,
+      "serum_sodium": 132,
+      "sex": 1,
+      "smoking": 1,
+      "time": 90,
+      "DEATH_EVENT": 1
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae80667"
+      },
+      "age": 70.0,
+      "anaemia": 1,
+      "creatinine_phosphokinase": 143,
+      "diabetes": 0,
+      "ejection_fraction": 60,
+      "high_blood_pressure": 0,
+      "platelets": 351000.0,
+      "serum_creatinine": 1.3,
+      "serum_sodium": 137,
+      "sex": 0,
+      "smoking": 0,
+      "time": 90,
+      "DEATH_EVENT": 1
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae8066b"
+      },
+      "age": 85.0,
+      "anaemia": 1,
+      "creatinine_phosphokinase": 102,
+      "diabetes": 0,
+      "ejection_fraction": 60,
+      "high_blood_pressure": 0,
+      "platelets": 507000.0,
+      "serum_creatinine": 3.2,
+      "serum_sodium": 138,
+      "sex": 0,
+      "smoking": 0,
+      "time": 94,
+      "DEATH_EVENT": 0
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae8066c"
+      },
+      "age": 65.0,
+      "anaemia": 1,
+      "creatinine_phosphokinase": 113,
+      "diabetes": 1,
+      "ejection_fraction": 60,
+      "high_blood_pressure": 1,
+      "platelets": 203000.0,
+      "serum_creatinine": 0.9,
+      "serum_sodium": 140,
+      "sex": 0,
+      "smoking": 0,
+      "time": 94,
+      "DEATH_EVENT": 0
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae8066d"
+      },
+      "age": 86.0,
+      "anaemia": 0,
+      "creatinine_phosphokinase": 582,
+      "diabetes": 0,
+      "ejection_fraction": 38,
+      "high_blood_pressure": 0,
+      "platelets": 263358.03,
+      "serum_creatinine": 1.83,
+      "serum_sodium": 134,
+      "sex": 0,
+      "smoking": 0,
+      "time": 95,
+      "DEATH_EVENT": 1
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae8066f"
+      },
+      "age": 66.0,
+      "anaemia": 1,
+      "creatinine_phosphokinase": 68,
+      "diabetes": 1,
+      "ejection_fraction": 38,
+      "high_blood_pressure": 1,
+      "platelets": 162000.0,
+      "serum_creatinine": 1.0,
+      "serum_sodium": 136,
+      "sex": 0,
+      "smoking": 0,
+      "time": 95,
+      "DEATH_EVENT": 0
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae80676"
+      },
+      "age": 61.0,
+      "anaemia": 0,
+      "creatinine_phosphokinase": 248,
+      "diabetes": 0,
+      "ejection_fraction": 30,
+      "high_blood_pressure": 1,
+      "platelets": 267000.0,
+      "serum_creatinine": 0.7,
+      "serum_sodium": 136,
+      "sex": 1,
+      "smoking": 1,
+      "time": 104,
+      "DEATH_EVENT": 0
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae8067b"
+      },
+      "age": 63.0,
+      "anaemia": 0,
+      "creatinine_phosphokinase": 193,
+      "diabetes": 0,
+      "ejection_fraction": 60,
+      "high_blood_pressure": 1,
+      "platelets": 295000.0,
+      "serum_creatinine": 1.3,
+      "serum_sodium": 145,
+      "sex": 1,
+      "smoking": 1,
+      "time": 107,
+      "DEATH_EVENT": 0
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae8067c"
+      },
+      "age": 81.0,
+      "anaemia": 0,
+      "creatinine_phosphokinase": 4540,
+      "diabetes": 0,
+      "ejection_fraction": 35,
+      "high_blood_pressure": 0,
+      "platelets": 231000.0,
+      "serum_creatinine": 1.18,
+      "serum_sodium": 137,
+      "sex": 1,
+      "smoking": 1,
+      "time": 107,
+      "DEATH_EVENT": 0
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae8067d"
+      },
+      "age": 75.0,
+      "anaemia": 0,
+      "creatinine_phosphokinase": 582,
+      "diabetes": 0,
+      "ejection_fraction": 40,
+      "high_blood_pressure": 0,
+      "platelets": 263358.03,
+      "serum_creatinine": 1.18,
+      "serum_sodium": 137,
+      "sex": 1,
+      "smoking": 0,
+      "time": 107,
+      "DEATH_EVENT": 0
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae8067e"
+      },
+      "age": 65.0,
+      "anaemia": 1,
+      "creatinine_phosphokinase": 59,
+      "diabetes": 1,
+      "ejection_fraction": 60,
+      "high_blood_pressure": 0,
+      "platelets": 172000.0,
+      "serum_creatinine": 0.9,
+      "serum_sodium": 137,
+      "sex": 0,
+      "smoking": 0,
+      "time": 107,
+      "DEATH_EVENT": 0
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae8067f"
+      },
+      "age": 68.0,
+      "anaemia": 1,
+      "creatinine_phosphokinase": 646,
+      "diabetes": 0,
+      "ejection_fraction": 25,
+      "high_blood_pressure": 0,
+      "platelets": 305000.0,
+      "serum_creatinine": 2.1,
+      "serum_sodium": 130,
+      "sex": 1,
+      "smoking": 0,
+      "time": 108,
+      "DEATH_EVENT": 0
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae80680"
+      },
+      "age": 62.0,
+      "anaemia": 0,
+      "creatinine_phosphokinase": 281,
+      "diabetes": 1,
+      "ejection_fraction": 35,
+      "high_blood_pressure": 0,
+      "platelets": 221000.0,
+      "serum_creatinine": 1.0,
+      "serum_sodium": 136,
+      "sex": 0,
+      "smoking": 0,
+      "time": 108,
+      "DEATH_EVENT": 0
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae80682"
+      },
+      "age": 80.0,
+      "anaemia": 0,
+      "creatinine_phosphokinase": 805,
+      "diabetes": 0,
+      "ejection_fraction": 38,
+      "high_blood_pressure": 0,
+      "platelets": 263358.03,
+      "serum_creatinine": 1.1,
+      "serum_sodium": 134,
+      "sex": 1,
+      "smoking": 0,
+      "time": 109,
+      "DEATH_EVENT": 1
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae80685"
+      },
+      "age": 61.0,
+      "anaemia": 1,
+      "creatinine_phosphokinase": 84,
+      "diabetes": 0,
+      "ejection_fraction": 40,
+      "high_blood_pressure": 1,
+      "platelets": 229000.0,
+      "serum_creatinine": 0.9,
+      "serum_sodium": 141,
+      "sex": 0,
+      "smoking": 0,
+      "time": 110,
+      "DEATH_EVENT": 0
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae80686"
+      },
+      "age": 72.0,
+      "anaemia": 1,
+      "creatinine_phosphokinase": 943,
+      "diabetes": 0,
+      "ejection_fraction": 25,
+      "high_blood_pressure": 1,
+      "platelets": 338000.0,
+      "serum_creatinine": 1.7,
+      "serum_sodium": 139,
+      "sex": 1,
+      "smoking": 1,
+      "time": 111,
+      "DEATH_EVENT": 1
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae80689"
+      },
+      "age": 64.0,
+      "anaemia": 0,
+      "creatinine_phosphokinase": 1610,
+      "diabetes": 0,
+      "ejection_fraction": 60,
+      "high_blood_pressure": 0,
+      "platelets": 242000.0,
+      "serum_creatinine": 1.0,
+      "serum_sodium": 137,
+      "sex": 1,
+      "smoking": 0,
+      "time": 113,
+      "DEATH_EVENT": 0
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae8068a"
+      },
+      "age": 75.0,
+      "anaemia": 1,
+      "creatinine_phosphokinase": 582,
+      "diabetes": 0,
+      "ejection_fraction": 30,
+      "high_blood_pressure": 0,
+      "platelets": 225000.0,
+      "serum_creatinine": 1.83,
+      "serum_sodium": 134,
+      "sex": 1,
+      "smoking": 0,
+      "time": 113,
+      "DEATH_EVENT": 1
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae8068c"
+      },
+      "age": 72.0,
+      "anaemia": 0,
+      "creatinine_phosphokinase": 233,
+      "diabetes": 0,
+      "ejection_fraction": 45,
+      "high_blood_pressure": 1,
+      "platelets": 235000.0,
+      "serum_creatinine": 2.5,
+      "serum_sodium": 135,
+      "sex": 0,
+      "smoking": 0,
+      "time": 115,
+      "DEATH_EVENT": 1
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae8068d"
+      },
+      "age": 62.0,
+      "anaemia": 0,
+      "creatinine_phosphokinase": 30,
+      "diabetes": 1,
+      "ejection_fraction": 60,
+      "high_blood_pressure": 1,
+      "platelets": 244000.0,
+      "serum_creatinine": 0.9,
+      "serum_sodium": 139,
+      "sex": 1,
+      "smoking": 0,
+      "time": 117,
+      "DEATH_EVENT": 0
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae80690"
+      },
+      "age": 65.0,
+      "anaemia": 1,
+      "creatinine_phosphokinase": 335,
+      "diabetes": 0,
+      "ejection_fraction": 35,
+      "high_blood_pressure": 1,
+      "platelets": 235000.0,
+      "serum_creatinine": 0.8,
+      "serum_sodium": 136,
+      "sex": 0,
+      "smoking": 0,
+      "time": 120,
+      "DEATH_EVENT": 0
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae80694"
+      },
+      "age": 85.0,
+      "anaemia": 1,
+      "creatinine_phosphokinase": 910,
+      "diabetes": 0,
+      "ejection_fraction": 50,
+      "high_blood_pressure": 0,
+      "platelets": 235000.0,
+      "serum_creatinine": 1.3,
+      "serum_sodium": 134,
+      "sex": 1,
+      "smoking": 0,
+      "time": 121,
+      "DEATH_EVENT": 0
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae80696"
+      },
+      "age": 66.0,
+      "anaemia": 1,
+      "creatinine_phosphokinase": 72,
+      "diabetes": 0,
+      "ejection_fraction": 40,
+      "high_blood_pressure": 1,
+      "platelets": 242000.0,
+      "serum_creatinine": 1.2,
+      "serum_sodium": 134,
+      "sex": 1,
+      "smoking": 0,
+      "time": 121,
+      "DEATH_EVENT": 0
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae80698"
+      },
+      "age": 63.0,
+      "anaemia": 1,
+      "creatinine_phosphokinase": 582,
+      "diabetes": 0,
+      "ejection_fraction": 40,
+      "high_blood_pressure": 0,
+      "platelets": 448000.0,
+      "serum_creatinine": 0.9,
+      "serum_sodium": 137,
+      "sex": 1,
+      "smoking": 1,
+      "time": 123,
+      "DEATH_EVENT": 0
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae8069b"
+      },
+      "age": 80.0,
+      "anaemia": 0,
+      "creatinine_phosphokinase": 776,
+      "diabetes": 1,
+      "ejection_fraction": 38,
+      "high_blood_pressure": 1,
+      "platelets": 192000.0,
+      "serum_creatinine": 1.3,
+      "serum_sodium": 135,
+      "sex": 0,
+      "smoking": 0,
+      "time": 130,
+      "DEATH_EVENT": 1
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae8069e"
+      },
+      "age": 65.0,
+      "anaemia": 0,
+      "creatinine_phosphokinase": 582,
+      "diabetes": 1,
+      "ejection_fraction": 40,
+      "high_blood_pressure": 0,
+      "platelets": 270000.0,
+      "serum_creatinine": 1.0,
+      "serum_sodium": 138,
+      "sex": 0,
+      "smoking": 0,
+      "time": 140,
+      "DEATH_EVENT": 0
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae8069f"
+      },
+      "age": 70.0,
+      "anaemia": 0,
+      "creatinine_phosphokinase": 835,
+      "diabetes": 0,
+      "ejection_fraction": 35,
+      "high_blood_pressure": 1,
+      "platelets": 305000.0,
+      "serum_creatinine": 0.8,
+      "serum_sodium": 133,
+      "sex": 0,
+      "smoking": 0,
+      "time": 145,
+      "DEATH_EVENT": 0
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae806a2"
+      },
+      "age": 70.0,
+      "anaemia": 1,
+      "creatinine_phosphokinase": 171,
+      "diabetes": 0,
+      "ejection_fraction": 60,
+      "high_blood_pressure": 1,
+      "platelets": 176000.0,
+      "serum_creatinine": 1.1,
+      "serum_sodium": 145,
+      "sex": 1,
+      "smoking": 1,
+      "time": 146,
+      "DEATH_EVENT": 0
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae806a4"
+      },
+      "age": 65.0,
+      "anaemia": 0,
+      "creatinine_phosphokinase": 198,
+      "diabetes": 1,
+      "ejection_fraction": 35,
+      "high_blood_pressure": 1,
+      "platelets": 281000.0,
+      "serum_creatinine": 0.9,
+      "serum_sodium": 137,
+      "sex": 1,
+      "smoking": 1,
+      "time": 146,
+      "DEATH_EVENT": 0
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae806a6"
+      },
+      "age": 69.0,
+      "anaemia": 0,
+      "creatinine_phosphokinase": 1419,
+      "diabetes": 0,
+      "ejection_fraction": 40,
+      "high_blood_pressure": 0,
+      "platelets": 105000.0,
+      "serum_creatinine": 1.0,
+      "serum_sodium": 135,
+      "sex": 1,
+      "smoking": 1,
+      "time": 147,
+      "DEATH_EVENT": 0
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae806a8"
+      },
+      "age": 63.0,
+      "anaemia": 1,
+      "creatinine_phosphokinase": 122,
+      "diabetes": 1,
+      "ejection_fraction": 60,
+      "high_blood_pressure": 0,
+      "platelets": 267000.0,
+      "serum_creatinine": 1.2,
+      "serum_sodium": 145,
+      "sex": 1,
+      "smoking": 0,
+      "time": 147,
+      "DEATH_EVENT": 0
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae806ac"
+      },
+      "age": 65.0,
+      "anaemia": 0,
+      "creatinine_phosphokinase": 395,
+      "diabetes": 1,
+      "ejection_fraction": 25,
+      "high_blood_pressure": 0,
+      "platelets": 265000.0,
+      "serum_creatinine": 1.2,
+      "serum_sodium": 136,
+      "sex": 1,
+      "smoking": 1,
+      "time": 154,
+      "DEATH_EVENT": 1
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae806ad"
+      },
+      "age": 75.0,
+      "anaemia": 0,
+      "creatinine_phosphokinase": 99,
+      "diabetes": 0,
+      "ejection_fraction": 38,
+      "high_blood_pressure": 1,
+      "platelets": 224000.0,
+      "serum_creatinine": 2.5,
+      "serum_sodium": 134,
+      "sex": 1,
+      "smoking": 0,
+      "time": 162,
+      "DEATH_EVENT": 1
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae806af"
+      },
+      "age": 60.667,
+      "anaemia": 1,
+      "creatinine_phosphokinase": 104,
+      "diabetes": 1,
+      "ejection_fraction": 30,
+      "high_blood_pressure": 0,
+      "platelets": 389000.0,
+      "serum_creatinine": 1.5,
+      "serum_sodium": 136,
+      "sex": 1,
+      "smoking": 0,
+      "time": 171,
+      "DEATH_EVENT": 1
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae806b2"
+      },
+      "age": 60.667,
+      "anaemia": 1,
+      "creatinine_phosphokinase": 151,
+      "diabetes": 1,
+      "ejection_fraction": 40,
+      "high_blood_pressure": 1,
+      "platelets": 201000.0,
+      "serum_creatinine": 1.0,
+      "serum_sodium": 136,
+      "sex": 0,
+      "smoking": 0,
+      "time": 172,
+      "DEATH_EVENT": 0
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae806b4"
+      },
+      "age": 80.0,
+      "anaemia": 0,
+      "creatinine_phosphokinase": 582,
+      "diabetes": 1,
+      "ejection_fraction": 35,
+      "high_blood_pressure": 0,
+      "platelets": 350000.0,
+      "serum_creatinine": 2.1,
+      "serum_sodium": 134,
+      "sex": 1,
+      "smoking": 0,
+      "time": 174,
+      "DEATH_EVENT": 0
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae806b5"
+      },
+      "age": 64.0,
+      "anaemia": 1,
+      "creatinine_phosphokinase": 62,
+      "diabetes": 0,
+      "ejection_fraction": 60,
+      "high_blood_pressure": 0,
+      "platelets": 309000.0,
+      "serum_creatinine": 1.5,
+      "serum_sodium": 135,
+      "sex": 0,
+      "smoking": 0,
+      "time": 174,
+      "DEATH_EVENT": 0
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae806b7"
+      },
+      "age": 73.0,
+      "anaemia": 1,
+      "creatinine_phosphokinase": 231,
+      "diabetes": 1,
+      "ejection_fraction": 30,
+      "high_blood_pressure": 0,
+      "platelets": 160000.0,
+      "serum_creatinine": 1.18,
+      "serum_sodium": 142,
+      "sex": 1,
+      "smoking": 1,
+      "time": 180,
+      "DEATH_EVENT": 0
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae806b9"
+      },
+      "age": 77.0,
+      "anaemia": 1,
+      "creatinine_phosphokinase": 418,
+      "diabetes": 0,
+      "ejection_fraction": 45,
+      "high_blood_pressure": 0,
+      "platelets": 223000.0,
+      "serum_creatinine": 1.8,
+      "serum_sodium": 145,
+      "sex": 1,
+      "smoking": 0,
+      "time": 180,
+      "DEATH_EVENT": 1
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae806bb"
+      },
+      "age": 65.0,
+      "anaemia": 0,
+      "creatinine_phosphokinase": 167,
+      "diabetes": 0,
+      "ejection_fraction": 30,
+      "high_blood_pressure": 0,
+      "platelets": 259000.0,
+      "serum_creatinine": 0.8,
+      "serum_sodium": 138,
+      "sex": 0,
+      "smoking": 0,
+      "time": 186,
+      "DEATH_EVENT": 0
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae806be"
+      },
+      "age": 63.0,
+      "anaemia": 1,
+      "creatinine_phosphokinase": 1767,
+      "diabetes": 0,
+      "ejection_fraction": 45,
+      "high_blood_pressure": 0,
+      "platelets": 73000.0,
+      "serum_creatinine": 0.7,
+      "serum_sodium": 137,
+      "sex": 1,
+      "smoking": 0,
+      "time": 186,
+      "DEATH_EVENT": 0
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae806c0"
+      },
+      "age": 70.0,
+      "anaemia": 0,
+      "creatinine_phosphokinase": 97,
+      "diabetes": 0,
+      "ejection_fraction": 60,
+      "high_blood_pressure": 1,
+      "platelets": 220000.0,
+      "serum_creatinine": 0.9,
+      "serum_sodium": 138,
+      "sex": 1,
+      "smoking": 0,
+      "time": 186,
+      "DEATH_EVENT": 0
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae806c2"
+      },
+      "age": 78.0,
+      "anaemia": 1,
+      "creatinine_phosphokinase": 64,
+      "diabetes": 0,
+      "ejection_fraction": 40,
+      "high_blood_pressure": 0,
+      "platelets": 277000.0,
+      "serum_creatinine": 0.7,
+      "serum_sodium": 137,
+      "sex": 1,
+      "smoking": 1,
+      "time": 187,
+      "DEATH_EVENT": 0
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae806c5"
+      },
+      "age": 85.0,
+      "anaemia": 0,
+      "creatinine_phosphokinase": 212,
+      "diabetes": 0,
+      "ejection_fraction": 38,
+      "high_blood_pressure": 0,
+      "platelets": 186000.0,
+      "serum_creatinine": 0.9,
+      "serum_sodium": 136,
+      "sex": 1,
+      "smoking": 0,
+      "time": 187,
+      "DEATH_EVENT": 0
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae806c8"
+      },
+      "age": 70.0,
+      "anaemia": 0,
+      "creatinine_phosphokinase": 212,
+      "diabetes": 1,
+      "ejection_fraction": 17,
+      "high_blood_pressure": 1,
+      "platelets": 389000.0,
+      "serum_creatinine": 1.0,
+      "serum_sodium": 136,
+      "sex": 1,
+      "smoking": 1,
+      "time": 188,
+      "DEATH_EVENT": 0
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae806ca"
+      },
+      "age": 78.0,
+      "anaemia": 0,
+      "creatinine_phosphokinase": 224,
+      "diabetes": 0,
+      "ejection_fraction": 50,
+      "high_blood_pressure": 0,
+      "platelets": 481000.0,
+      "serum_creatinine": 1.4,
+      "serum_sodium": 138,
+      "sex": 1,
+      "smoking": 1,
+      "time": 192,
+      "DEATH_EVENT": 0
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae806cc"
+      },
+      "age": 65.0,
+      "anaemia": 1,
+      "creatinine_phosphokinase": 135,
+      "diabetes": 0,
+      "ejection_fraction": 35,
+      "high_blood_pressure": 1,
+      "platelets": 290000.0,
+      "serum_creatinine": 0.8,
+      "serum_sodium": 134,
+      "sex": 1,
+      "smoking": 0,
+      "time": 194,
+      "DEATH_EVENT": 0
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae806cd"
+      },
+      "age": 73.0,
+      "anaemia": 0,
+      "creatinine_phosphokinase": 582,
+      "diabetes": 0,
+      "ejection_fraction": 35,
+      "high_blood_pressure": 1,
+      "platelets": 203000.0,
+      "serum_creatinine": 1.3,
+      "serum_sodium": 134,
+      "sex": 1,
+      "smoking": 0,
+      "time": 195,
+      "DEATH_EVENT": 0
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae806ce"
+      },
+      "age": 70.0,
+      "anaemia": 0,
+      "creatinine_phosphokinase": 1202,
+      "diabetes": 0,
+      "ejection_fraction": 50,
+      "high_blood_pressure": 1,
+      "platelets": 358000.0,
+      "serum_creatinine": 0.9,
+      "serum_sodium": 141,
+      "sex": 0,
+      "smoking": 0,
+      "time": 196,
+      "DEATH_EVENT": 0
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae806d0"
+      },
+      "age": 68.0,
+      "anaemia": 1,
+      "creatinine_phosphokinase": 1021,
+      "diabetes": 1,
+      "ejection_fraction": 35,
+      "high_blood_pressure": 0,
+      "platelets": 271000.0,
+      "serum_creatinine": 1.1,
+      "serum_sodium": 134,
+      "sex": 1,
+      "smoking": 0,
+      "time": 197,
+      "DEATH_EVENT": 0
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae806d2"
+      },
+      "age": 73.0,
+      "anaemia": 0,
+      "creatinine_phosphokinase": 582,
+      "diabetes": 0,
+      "ejection_fraction": 20,
+      "high_blood_pressure": 0,
+      "platelets": 263358.03,
+      "serum_creatinine": 1.83,
+      "serum_sodium": 134,
+      "sex": 1,
+      "smoking": 0,
+      "time": 198,
+      "DEATH_EVENT": 1
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae806d3"
+      },
+      "age": 65.0,
+      "anaemia": 0,
+      "creatinine_phosphokinase": 118,
+      "diabetes": 0,
+      "ejection_fraction": 50,
+      "high_blood_pressure": 0,
+      "platelets": 194000.0,
+      "serum_creatinine": 1.1,
+      "serum_sodium": 145,
+      "sex": 1,
+      "smoking": 1,
+      "time": 200,
+      "DEATH_EVENT": 0
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae806d7"
+      },
+      "age": 75.0,
+      "anaemia": 0,
+      "creatinine_phosphokinase": 675,
+      "diabetes": 1,
+      "ejection_fraction": 60,
+      "high_blood_pressure": 0,
+      "platelets": 265000.0,
+      "serum_creatinine": 1.4,
+      "serum_sodium": 125,
+      "sex": 0,
+      "smoking": 0,
+      "time": 205,
+      "DEATH_EVENT": 0
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae806da"
+      },
+      "age": 65.0,
+      "anaemia": 0,
+      "creatinine_phosphokinase": 56,
+      "diabetes": 0,
+      "ejection_fraction": 25,
+      "high_blood_pressure": 0,
+      "platelets": 237000.0,
+      "serum_creatinine": 5.0,
+      "serum_sodium": 130,
+      "sex": 0,
+      "smoking": 0,
+      "time": 207,
+      "DEATH_EVENT": 0
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae806db"
+      },
+      "age": 72.0,
+      "anaemia": 0,
+      "creatinine_phosphokinase": 211,
+      "diabetes": 0,
+      "ejection_fraction": 25,
+      "high_blood_pressure": 0,
+      "platelets": 274000.0,
+      "serum_creatinine": 1.2,
+      "serum_sodium": 134,
+      "sex": 0,
+      "smoking": 0,
+      "time": 207,
+      "DEATH_EVENT": 0
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae806dd"
+      },
+      "age": 70.0,
+      "anaemia": 0,
+      "creatinine_phosphokinase": 93,
+      "diabetes": 0,
+      "ejection_fraction": 35,
+      "high_blood_pressure": 0,
+      "platelets": 185000.0,
+      "serum_creatinine": 1.1,
+      "serum_sodium": 134,
+      "sex": 1,
+      "smoking": 1,
+      "time": 208,
+      "DEATH_EVENT": 0
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae806e1"
+      },
+      "age": 77.0,
+      "anaemia": 1,
+      "creatinine_phosphokinase": 109,
+      "diabetes": 0,
+      "ejection_fraction": 50,
+      "high_blood_pressure": 1,
+      "platelets": 406000.0,
+      "serum_creatinine": 1.1,
+      "serum_sodium": 137,
+      "sex": 1,
+      "smoking": 0,
+      "time": 209,
+      "DEATH_EVENT": 0
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae806e2"
+      },
+      "age": 75.0,
+      "anaemia": 0,
+      "creatinine_phosphokinase": 119,
+      "diabetes": 0,
+      "ejection_fraction": 50,
+      "high_blood_pressure": 1,
+      "platelets": 248000.0,
+      "serum_creatinine": 1.1,
+      "serum_sodium": 148,
+      "sex": 1,
+      "smoking": 0,
+      "time": 209,
+      "DEATH_EVENT": 0
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae806e3"
+      },
+      "age": 70.0,
+      "anaemia": 0,
+      "creatinine_phosphokinase": 232,
+      "diabetes": 0,
+      "ejection_fraction": 30,
+      "high_blood_pressure": 0,
+      "platelets": 173000.0,
+      "serum_creatinine": 1.2,
+      "serum_sodium": 132,
+      "sex": 1,
+      "smoking": 0,
+      "time": 210,
+      "DEATH_EVENT": 0
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae806e4"
+      },
+      "age": 65.0,
+      "anaemia": 1,
+      "creatinine_phosphokinase": 720,
+      "diabetes": 1,
+      "ejection_fraction": 40,
+      "high_blood_pressure": 0,
+      "platelets": 257000.0,
+      "serum_creatinine": 1.0,
+      "serum_sodium": 136,
+      "sex": 0,
+      "smoking": 0,
+      "time": 210,
+      "DEATH_EVENT": 0
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae806e6"
+      },
+      "age": 70.0,
+      "anaemia": 0,
+      "creatinine_phosphokinase": 81,
+      "diabetes": 1,
+      "ejection_fraction": 35,
+      "high_blood_pressure": 1,
+      "platelets": 533000.0,
+      "serum_creatinine": 1.3,
+      "serum_sodium": 139,
+      "sex": 0,
+      "smoking": 0,
+      "time": 212,
+      "DEATH_EVENT": 0
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae806e7"
+      },
+      "age": 65.0,
+      "anaemia": 0,
+      "creatinine_phosphokinase": 582,
+      "diabetes": 1,
+      "ejection_fraction": 30,
+      "high_blood_pressure": 0,
+      "platelets": 249000.0,
+      "serum_creatinine": 1.3,
+      "serum_sodium": 136,
+      "sex": 1,
+      "smoking": 1,
+      "time": 212,
+      "DEATH_EVENT": 0
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae806e9"
+      },
+      "age": 73.0,
+      "anaemia": 1,
+      "creatinine_phosphokinase": 1185,
+      "diabetes": 0,
+      "ejection_fraction": 40,
+      "high_blood_pressure": 1,
+      "platelets": 220000.0,
+      "serum_creatinine": 0.9,
+      "serum_sodium": 141,
+      "sex": 0,
+      "smoking": 0,
+      "time": 213,
+      "DEATH_EVENT": 0
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae806eb"
+      },
+      "age": 61.0,
+      "anaemia": 1,
+      "creatinine_phosphokinase": 80,
+      "diabetes": 1,
+      "ejection_fraction": 38,
+      "high_blood_pressure": 0,
+      "platelets": 282000.0,
+      "serum_creatinine": 1.4,
+      "serum_sodium": 137,
+      "sex": 1,
+      "smoking": 0,
+      "time": 213,
+      "DEATH_EVENT": 0
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae806ed"
+      },
+      "age": 64.0,
+      "anaemia": 0,
+      "creatinine_phosphokinase": 143,
+      "diabetes": 0,
+      "ejection_fraction": 25,
+      "high_blood_pressure": 0,
+      "platelets": 246000.0,
+      "serum_creatinine": 2.4,
+      "serum_sodium": 135,
+      "sex": 1,
+      "smoking": 0,
+      "time": 214,
+      "DEATH_EVENT": 0
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae806f3"
+      },
+      "age": 70.0,
+      "anaemia": 0,
+      "creatinine_phosphokinase": 88,
+      "diabetes": 1,
+      "ejection_fraction": 35,
+      "high_blood_pressure": 1,
+      "platelets": 236000.0,
+      "serum_creatinine": 1.2,
+      "serum_sodium": 132,
+      "sex": 0,
+      "smoking": 0,
+      "time": 215,
+      "DEATH_EVENT": 0
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae806f6"
+      },
+      "age": 65.0,
+      "anaemia": 0,
+      "creatinine_phosphokinase": 326,
+      "diabetes": 0,
+      "ejection_fraction": 38,
+      "high_blood_pressure": 0,
+      "platelets": 294000.0,
+      "serum_creatinine": 1.7,
+      "serum_sodium": 139,
+      "sex": 0,
+      "smoking": 0,
+      "time": 220,
+      "DEATH_EVENT": 0
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae806fb"
+      },
+      "age": 62.0,
+      "anaemia": 1,
+      "creatinine_phosphokinase": 655,
+      "diabetes": 0,
+      "ejection_fraction": 40,
+      "high_blood_pressure": 0,
+      "platelets": 283000.0,
+      "serum_creatinine": 0.7,
+      "serum_sodium": 133,
+      "sex": 0,
+      "smoking": 0,
+      "time": 233,
+      "DEATH_EVENT": 0
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae806fc"
+      },
+      "age": 65.0,
+      "anaemia": 1,
+      "creatinine_phosphokinase": 258,
+      "diabetes": 1,
+      "ejection_fraction": 25,
+      "high_blood_pressure": 0,
+      "platelets": 198000.0,
+      "serum_creatinine": 1.4,
+      "serum_sodium": 129,
+      "sex": 1,
+      "smoking": 0,
+      "time": 235,
+      "DEATH_EVENT": 1
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae806fd"
+      },
+      "age": 68.0,
+      "anaemia": 1,
+      "creatinine_phosphokinase": 157,
+      "diabetes": 1,
+      "ejection_fraction": 60,
+      "high_blood_pressure": 0,
+      "platelets": 208000.0,
+      "serum_creatinine": 1.0,
+      "serum_sodium": 140,
+      "sex": 0,
+      "smoking": 0,
+      "time": 237,
+      "DEATH_EVENT": 0
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae806fe"
+      },
+      "age": 61.0,
+      "anaemia": 0,
+      "creatinine_phosphokinase": 582,
+      "diabetes": 1,
+      "ejection_fraction": 38,
+      "high_blood_pressure": 0,
+      "platelets": 147000.0,
+      "serum_creatinine": 1.2,
+      "serum_sodium": 141,
+      "sex": 1,
+      "smoking": 0,
+      "time": 237,
+      "DEATH_EVENT": 0
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae80706"
+      },
+      "age": 67.0,
+      "anaemia": 0,
+      "creatinine_phosphokinase": 213,
+      "diabetes": 0,
+      "ejection_fraction": 38,
+      "high_blood_pressure": 0,
+      "platelets": 215000.0,
+      "serum_creatinine": 1.2,
+      "serum_sodium": 133,
+      "sex": 0,
+      "smoking": 0,
+      "time": 245,
+      "DEATH_EVENT": 0
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae8070a"
+      },
+      "age": 70.0,
+      "anaemia": 0,
+      "creatinine_phosphokinase": 618,
+      "diabetes": 0,
+      "ejection_fraction": 35,
+      "high_blood_pressure": 0,
+      "platelets": 327000.0,
+      "serum_creatinine": 1.1,
+      "serum_sodium": 142,
+      "sex": 0,
+      "smoking": 0,
+      "time": 245,
+      "DEATH_EVENT": 0
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae8070b"
+      },
+      "age": 70.0,
+      "anaemia": 0,
+      "creatinine_phosphokinase": 582,
+      "diabetes": 1,
+      "ejection_fraction": 38,
+      "high_blood_pressure": 0,
+      "platelets": 25100.0,
+      "serum_creatinine": 1.1,
+      "serum_sodium": 140,
+      "sex": 1,
+      "smoking": 0,
+      "time": 246,
+      "DEATH_EVENT": 0
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae8070e"
+      },
+      "age": 70.0,
+      "anaemia": 0,
+      "creatinine_phosphokinase": 2695,
+      "diabetes": 1,
+      "ejection_fraction": 40,
+      "high_blood_pressure": 0,
+      "platelets": 241000.0,
+      "serum_creatinine": 1.0,
+      "serum_sodium": 137,
+      "sex": 1,
+      "smoking": 0,
+      "time": 247,
+      "DEATH_EVENT": 0
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae8070f"
+      },
+      "age": 70.0,
+      "anaemia": 0,
+      "creatinine_phosphokinase": 582,
+      "diabetes": 0,
+      "ejection_fraction": 40,
+      "high_blood_pressure": 0,
+      "platelets": 51000.0,
+      "serum_creatinine": 2.7,
+      "serum_sodium": 136,
+      "sex": 1,
+      "smoking": 1,
+      "time": 250,
+      "DEATH_EVENT": 0
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae80711"
+      },
+      "age": 65.0,
+      "anaemia": 0,
+      "creatinine_phosphokinase": 1688,
+      "diabetes": 0,
+      "ejection_fraction": 38,
+      "high_blood_pressure": 0,
+      "platelets": 263358.03,
+      "serum_creatinine": 1.1,
+      "serum_sodium": 138,
+      "sex": 1,
+      "smoking": 1,
+      "time": 250,
+      "DEATH_EVENT": 0
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae80716"
+      },
+      "age": 65.0,
+      "anaemia": 0,
+      "creatinine_phosphokinase": 892,
+      "diabetes": 1,
+      "ejection_fraction": 35,
+      "high_blood_pressure": 0,
+      "platelets": 263358.03,
+      "serum_creatinine": 1.1,
+      "serum_sodium": 142,
+      "sex": 0,
+      "smoking": 0,
+      "time": 256,
+      "DEATH_EVENT": 0
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae80717"
+      },
+      "age": 90.0,
+      "anaemia": 1,
+      "creatinine_phosphokinase": 337,
+      "diabetes": 0,
+      "ejection_fraction": 38,
+      "high_blood_pressure": 0,
+      "platelets": 390000.0,
+      "serum_creatinine": 0.9,
+      "serum_sodium": 144,
+      "sex": 0,
+      "smoking": 0,
+      "time": 256,
+      "DEATH_EVENT": 0
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae8071b"
+      },
+      "age": 63.0,
+      "anaemia": 1,
+      "creatinine_phosphokinase": 103,
+      "diabetes": 1,
+      "ejection_fraction": 35,
+      "high_blood_pressure": 0,
+      "platelets": 179000.0,
+      "serum_creatinine": 0.9,
+      "serum_sodium": 136,
+      "sex": 1,
+      "smoking": 1,
+      "time": 270,
+      "DEATH_EVENT": 0
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae8071c"
+      },
+      "age": 62.0,
+      "anaemia": 0,
+      "creatinine_phosphokinase": 61,
+      "diabetes": 1,
+      "ejection_fraction": 38,
+      "high_blood_pressure": 1,
+      "platelets": 155000.0,
+      "serum_creatinine": 1.1,
+      "serum_sodium": 143,
+      "sex": 1,
+      "smoking": 1,
+      "time": 270,
+      "DEATH_EVENT": 0
+    }
+  ],
+  "Query 1 Depressive": [
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae80721"
+      },
+      "Entity": "Abkhazia",
+      "Code": "OWID_ABK",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": "",
+      "GDP per capita, PPP (constant 2017 international $)": "",
+      "Continent": "Asia"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae8073b"
+      },
+      "Entity": "Afghanistan",
+      "Code": "AFG",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": 4.9447594,
+      "GDP per capita, PPP (constant 2017 international $)": 2108.714,
+      "Continent": "Asia"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae8075b"
+      },
+      "Entity": "Africa (IHME GBD)",
+      "Code": "",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": 4.4437795,
+      "GDP per capita, PPP (constant 2017 international $)": "",
+      "Continent": ""
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae80760"
+      },
+      "Entity": "Akrotiri and Dhekelia",
+      "Code": "OWID_AKD",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": "",
+      "GDP per capita, PPP (constant 2017 international $)": "",
+      "Continent": "Asia"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae80761"
+      },
+      "Entity": "Aland Islands",
+      "Code": "ALA",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": "",
+      "GDP per capita, PPP (constant 2017 international $)": "",
+      "Continent": "Europe"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae8077b"
+      },
+      "Entity": "Albania",
+      "Code": "ALB",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": 2.4422338,
+      "GDP per capita, PPP (constant 2017 international $)": 11880.598,
+      "Continent": "Europe"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae8079b"
+      },
+      "Entity": "Algeria",
+      "Code": "DZA",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": 4.076484,
+      "GDP per capita, PPP (constant 2017 international $)": 11751.634,
+      "Continent": "Africa"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae807bb"
+      },
+      "Entity": "America (IHME GBD)",
+      "Code": "",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": 3.614284,
+      "GDP per capita, PPP (constant 2017 international $)": "",
+      "Continent": ""
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae807d9"
+      },
+      "Entity": "American Samoa",
+      "Code": "ASM",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": 2.6300688,
+      "GDP per capita, PPP (constant 2017 international $)": "",
+      "Continent": "Oceania"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae807f7"
+      },
+      "Entity": "Andorra",
+      "Code": "AND",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": 3.5686946,
+      "GDP per capita, PPP (constant 2017 international $)": "",
+      "Continent": "Europe"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae80815"
+      },
+      "Entity": "Angola",
+      "Code": "AGO",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": 5.747701,
+      "GDP per capita, PPP (constant 2017 international $)": 7967.104,
+      "Continent": "Africa"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae8081c"
+      },
+      "Entity": "Anguilla",
+      "Code": "AIA",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": "",
+      "GDP per capita, PPP (constant 2017 international $)": "",
+      "Continent": "North America"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae8081d"
+      },
+      "Entity": "Antarctica",
+      "Code": "ATA",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": "",
+      "GDP per capita, PPP (constant 2017 international $)": "",
+      "Continent": "Antarctica"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae80837"
+      },
+      "Entity": "Antigua and Barbuda",
+      "Code": "ATG",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": 2.911677,
+      "GDP per capita, PPP (constant 2017 international $)": 19345.018,
+      "Continent": "North America"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae80857"
+      },
+      "Entity": "Argentina",
+      "Code": "ARG",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": 2.423345,
+      "GDP per capita, PPP (constant 2017 international $)": 23933.887,
+      "Continent": "South America"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae80877"
+      },
+      "Entity": "Armenia",
+      "Code": "ARM",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": 2.9542494,
+      "GDP per capita, PPP (constant 2017 international $)": 11506.039,
+      "Continent": "Asia"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae80897"
+      },
+      "Entity": "Aruba",
+      "Code": "ABW",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": "",
+      "GDP per capita, PPP (constant 2017 international $)": 36490.523,
+      "Continent": "North America"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae808b7"
+      },
+      "Entity": "Asia (IHME GBD)",
+      "Code": "",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": 3.1914704,
+      "GDP per capita, PPP (constant 2017 international $)": "",
+      "Continent": ""
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae808d5"
+      },
+      "Entity": "Australia",
+      "Code": "AUS",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": 4.5340767,
+      "GDP per capita, PPP (constant 2017 international $)": 47567.68,
+      "Continent": "Oceania"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae808f5"
+      },
+      "Entity": "Austria",
+      "Code": "AUT",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": 3.117166,
+      "GDP per capita, PPP (constant 2017 international $)": 52873.86,
+      "Continent": "Europe"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae808fc"
+      },
+      "Entity": "Austria-Hungary",
+      "Code": "OWID_AUH",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": "",
+      "GDP per capita, PPP (constant 2017 international $)": "",
+      "Continent": "Europe"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae80916"
+      },
+      "Entity": "Azerbaijan",
+      "Code": "AZE",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": 2.7152562,
+      "GDP per capita, PPP (constant 2017 international $)": 14852.611,
+      "Continent": "Asia"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae8091d"
+      },
+      "Entity": "Baden",
+      "Code": "OWID_BAD",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": "",
+      "GDP per capita, PPP (constant 2017 international $)": "",
+      "Continent": "Europe"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae80937"
+      },
+      "Entity": "Bahamas",
+      "Code": "BHS",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": 2.9759111,
+      "GDP per capita, PPP (constant 2017 international $)": 34170.23,
+      "Continent": "North America"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae80957"
+      },
+      "Entity": "Bahrain",
+      "Code": "BHR",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": 4.537678,
+      "GDP per capita, PPP (constant 2017 international $)": 48453.727,
+      "Continent": "Asia"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae80977"
+      },
+      "Entity": "Bangladesh",
+      "Code": "BGD",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": 4.599187,
+      "GDP per capita, PPP (constant 2017 international $)": 4337.3857,
+      "Continent": "Asia"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae80997"
+      },
+      "Entity": "Barbados",
+      "Code": "BRB",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": 3.1069825,
+      "GDP per capita, PPP (constant 2017 international $)": 15789.451,
+      "Continent": "North America"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae8099e"
+      },
+      "Entity": "Bavaria",
+      "Code": "OWID_BAV",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": "",
+      "GDP per capita, PPP (constant 2017 international $)": "",
+      "Continent": "Europe"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae809b8"
+      },
+      "Entity": "Belarus",
+      "Code": "BLR",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": 3.8928354,
+      "GDP per capita, PPP (constant 2017 international $)": 18362.746,
+      "Continent": "Europe"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae809d8"
+      },
+      "Entity": "Belgium",
+      "Code": "BEL",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": 3.5513406,
+      "GDP per capita, PPP (constant 2017 international $)": 49456.4,
+      "Continent": "Europe"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae809f8"
+      },
+      "Entity": "Belize",
+      "Code": "BLZ",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": 3.27551,
+      "GDP per capita, PPP (constant 2017 international $)": 9387.914,
+      "Continent": "North America"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae80a18"
+      },
+      "Entity": "Benin",
+      "Code": "BEN",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": 4.4371924,
+      "GDP per capita, PPP (constant 2017 international $)": 2849.8206,
+      "Continent": "Africa"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae80a38"
+      },
+      "Entity": "Bermuda",
+      "Code": "BMU",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": 3.1673129,
+      "GDP per capita, PPP (constant 2017 international $)": 77842.75,
+      "Continent": "North America"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae80a58"
+      },
+      "Entity": "Bhutan",
+      "Code": "BTN",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": 3.9704382,
+      "GDP per capita, PPP (constant 2017 international $)": 9877.247,
+      "Continent": "Asia"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae80a78"
+      },
+      "Entity": "Bolivia",
+      "Code": "BOL",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": 3.4259856,
+      "GDP per capita, PPP (constant 2017 international $)": 7825.7666,
+      "Continent": "South America"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae80a7f"
+      },
+      "Entity": "Bonaire Sint Eustatius and Saba",
+      "Code": "BES",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": "",
+      "GDP per capita, PPP (constant 2017 international $)": "",
+      "Continent": "North America"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae80a99"
+      },
+      "Entity": "Bosnia and Herzegovina",
+      "Code": "BIH",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": 2.7211125,
+      "GDP per capita, PPP (constant 2017 international $)": 12292.545,
+      "Continent": "Europe"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae80ab9"
+      },
+      "Entity": "Botswana",
+      "Code": "BWA",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": 4.2436314,
+      "GDP per capita, PPP (constant 2017 international $)": 13682.704,
+      "Continent": "Africa"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae80ac0"
+      },
+      "Entity": "Bouvet Island",
+      "Code": "BVT",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": "",
+      "GDP per capita, PPP (constant 2017 international $)": "",
+      "Continent": "Antarctica"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae80ada"
+      },
+      "Entity": "Brazil",
+      "Code": "BRA",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": 3.8358004,
+      "GDP per capita, PPP (constant 2017 international $)": 15011.577,
+      "Continent": "South America"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae80ae1"
+      },
+      "Entity": "British Indian Ocean Territory",
+      "Code": "IOT",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": "",
+      "GDP per capita, PPP (constant 2017 international $)": "",
+      "Continent": "Asia"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae80ae2"
+      },
+      "Entity": "British Virgin Islands",
+      "Code": "VGB",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": "",
+      "GDP per capita, PPP (constant 2017 international $)": "",
+      "Continent": "North America"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae80afc"
+      },
+      "Entity": "Brunei",
+      "Code": "BRN",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": 1.5546203,
+      "GDP per capita, PPP (constant 2017 international $)": 62170.086,
+      "Continent": "Asia"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae80b1c"
+      },
+      "Entity": "Bulgaria",
+      "Code": "BGR",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": 2.6727207,
+      "GDP per capita, PPP (constant 2017 international $)": 19991.818,
+      "Continent": "Europe"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae80b3c"
+      },
+      "Entity": "Burkina Faso",
+      "Code": "BFA",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": 4.5452776,
+      "GDP per capita, PPP (constant 2017 international $)": 1862.8547,
+      "Continent": "Africa"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae80b5c"
+      },
+      "Entity": "Burundi",
+      "Code": "BDI",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": 4.6951613,
+      "GDP per capita, PPP (constant 2017 international $)": 781.5793,
+      "Continent": "Africa"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae80b7c"
+      },
+      "Entity": "Cambodia",
+      "Code": "KHM",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": 2.9656339,
+      "GDP per capita, PPP (constant 2017 international $)": 3565.245,
+      "Continent": "Asia"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae80b9c"
+      },
+      "Entity": "Cameroon",
+      "Code": "CMR",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": 4.6013966,
+      "GDP per capita, PPP (constant 2017 international $)": 3614.7556,
+      "Continent": "Africa"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae80bbc"
+      },
+      "Entity": "Canada",
+      "Code": "CAN",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": 3.2546144,
+      "GDP per capita, PPP (constant 2017 international $)": 47522.14,
+      "Continent": "North America"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae80bdc"
+      },
+      "Entity": "Cape Verde",
+      "Code": "CPV",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": 4.8981385,
+      "GDP per capita, PPP (constant 2017 international $)": 5955.607,
+      "Continent": "Africa"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae80bec"
+      },
+      "Entity": "Cayman Islands",
+      "Code": "CYM",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": "",
+      "GDP per capita, PPP (constant 2017 international $)": 68135.46,
+      "Continent": "North America"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae80c0c"
+      },
+      "Entity": "Central African Republic",
+      "Code": "CAF",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": 5.933393,
+      "GDP per capita, PPP (constant 2017 international $)": 795.03705,
+      "Continent": "Africa"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae80c2c"
+      },
+      "Entity": "Chad",
+      "Code": "TCD",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": 5.1447864,
+      "GDP per capita, PPP (constant 2017 international $)": 1853.2594,
+      "Continent": "Africa"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae80c33"
+      },
+      "Entity": "Channel Islands",
+      "Code": "OWID_CIS",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": "",
+      "GDP per capita, PPP (constant 2017 international $)": "",
+      "Continent": "Europe"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae80c4d"
+      },
+      "Entity": "Chile",
+      "Code": "CHL",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": 3.6864562,
+      "GDP per capita, PPP (constant 2017 international $)": 24464.746,
+      "Continent": "South America"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae80c6d"
+      },
+      "Entity": "China",
+      "Code": "CHN",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": 2.746322,
+      "GDP per capita, PPP (constant 2017 international $)": 12612.352,
+      "Continent": "Asia"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae80c74"
+      },
+      "Entity": "Christmas Island",
+      "Code": "CXR",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": "",
+      "GDP per capita, PPP (constant 2017 international $)": "",
+      "Continent": "Asia"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae80c75"
+      },
+      "Entity": "Cocos Islands",
+      "Code": "CCK",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": "",
+      "GDP per capita, PPP (constant 2017 international $)": "",
+      "Continent": "Asia"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae80c8f"
+      },
+      "Entity": "Colombia",
+      "Code": "COL",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": 2.16934,
+      "GDP per capita, PPP (constant 2017 international $)": 14215.688,
+      "Continent": "South America"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae80caf"
+      },
+      "Entity": "Comoros",
+      "Code": "COM",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": 4.224988,
+      "GDP per capita, PPP (constant 2017 international $)": 3150.8777,
+      "Continent": "Africa"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae80ccf"
+      },
+      "Entity": "Congo",
+      "Code": "COG",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": 5.5269456,
+      "GDP per capita, PPP (constant 2017 international $)": 5009.432,
+      "Continent": "Africa"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae80cef"
+      },
+      "Entity": "Cook Islands",
+      "Code": "COK",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": 3.1572506,
+      "GDP per capita, PPP (constant 2017 international $)": "",
+      "Continent": "Oceania"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae80d0d"
+      },
+      "Entity": "Costa Rica",
+      "Code": "CRI",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": 3.2036433,
+      "GDP per capita, PPP (constant 2017 international $)": 18956.191,
+      "Continent": "North America"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae80d2d"
+      },
+      "Entity": "Cote d'Ivoire",
+      "Code": "CIV",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": 3.9139864,
+      "GDP per capita, PPP (constant 2017 international $)": 4347.778,
+      "Continent": "Africa"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae80d4d"
+      },
+      "Entity": "Croatia",
+      "Code": "HRV",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": 2.9999287,
+      "GDP per capita, PPP (constant 2017 international $)": 24931.486,
+      "Continent": "Europe"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae80d6d"
+      },
+      "Entity": "Cuba",
+      "Code": "CUB",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": 3.7720003,
+      "GDP per capita, PPP (constant 2017 international $)": "",
+      "Continent": "North America"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae80d81"
+      },
+      "Entity": "Curacao",
+      "Code": "CUW",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": "",
+      "GDP per capita, PPP (constant 2017 international $)": 25604.93,
+      "Continent": "North America"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae80da1"
+      },
+      "Entity": "Cyprus",
+      "Code": "CYP",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": 3.0200424,
+      "GDP per capita, PPP (constant 2017 international $)": 34573.973,
+      "Continent": "Europe"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae80dc1"
+      },
+      "Entity": "Czechia",
+      "Code": "CZE",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": 2.8789806,
+      "GDP per capita, PPP (constant 2017 international $)": 36168.418,
+      "Continent": "Europe"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae80dc8"
+      },
+      "Entity": "Czechoslovakia",
+      "Code": "OWID_CZS",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": "",
+      "GDP per capita, PPP (constant 2017 international $)": "",
+      "Continent": "Europe"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae80de2"
+      },
+      "Entity": "Democratic Republic of Congo",
+      "Code": "COD",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": 5.4288607,
+      "GDP per capita, PPP (constant 2017 international $)": 1032.5719,
+      "Continent": "Africa"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae80e02"
+      },
+      "Entity": "Denmark",
+      "Code": "DNK",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": 3.4930105,
+      "GDP per capita, PPP (constant 2017 international $)": 52892.645,
+      "Continent": "Europe"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae80e22"
+      },
+      "Entity": "Djibouti",
+      "Code": "DJI",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": 4.4297843,
+      "GDP per capita, PPP (constant 2017 international $)": 4073.6226,
+      "Continent": "Africa"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae80e42"
+      },
+      "Entity": "Dominica",
+      "Code": "DMA",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": 2.993516,
+      "GDP per capita, PPP (constant 2017 international $)": 12063.8955,
+      "Continent": "North America"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae80e62"
+      },
+      "Entity": "Dominican Republic",
+      "Code": "DOM",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": 3.786363,
+      "GDP per capita, PPP (constant 2017 international $)": 15145.47,
+      "Continent": "North America"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae80e82"
+      },
+      "Entity": "East Asia and Pacific (WB)",
+      "Code": "",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": "",
+      "GDP per capita, PPP (constant 2017 international $)": 14972.31,
+      "Continent": ""
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae80e89"
+      },
+      "Entity": "East Germany",
+      "Code": "OWID_GDR",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": "",
+      "GDP per capita, PPP (constant 2017 international $)": "",
+      "Continent": "Europe"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae80ea3"
+      },
+      "Entity": "East Timor",
+      "Code": "TLS",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": 2.7985954,
+      "GDP per capita, PPP (constant 2017 international $)": 3228.675,
+      "Continent": "Asia"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae80ec3"
+      },
+      "Entity": "Ecuador",
+      "Code": "ECU",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": 3.3338869,
+      "GDP per capita, PPP (constant 2017 international $)": 11908.216,
+      "Continent": "South America"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae80ee3"
+      },
+      "Entity": "Egypt",
+      "Code": "EGY",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": 3.917347,
+      "GDP per capita, PPP (constant 2017 international $)": 9999.19,
+      "Continent": "Africa"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae80f03"
+      },
+      "Entity": "El Salvador",
+      "Code": "SLV",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": 3.417986,
+      "GDP per capita, PPP (constant 2017 international $)": 8266.723,
+      "Continent": "North America"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae80f23"
+      },
+      "Entity": "Equatorial Guinea",
+      "Code": "GNQ",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": 5.740454,
+      "GDP per capita, PPP (constant 2017 international $)": 24563.5,
+      "Continent": "Africa"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae80f43"
+      },
+      "Entity": "Eritrea",
+      "Code": "ERI",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": 4.842769,
+      "GDP per capita, PPP (constant 2017 international $)": "",
+      "Continent": "Africa"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae80f61"
+      },
+      "Entity": "Estonia",
+      "Code": "EST",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": 3.6881266,
+      "GDP per capita, PPP (constant 2017 international $)": 31038.805,
+      "Continent": "Europe"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae80f81"
+      },
+      "Entity": "Eswatini",
+      "Code": "SWZ",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": 4.434091,
+      "GDP per capita, PPP (constant 2017 international $)": 8088.7344,
+      "Continent": "Africa"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae80fa1"
+      },
+      "Entity": "Ethiopia",
+      "Code": "ETH",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": 4.6068287,
+      "GDP per capita, PPP (constant 2017 international $)": 1750.6727,
+      "Continent": "Africa"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae80fa8"
+      },
+      "Entity": "Ethiopia (former)",
+      "Code": "OWID_ERE",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": "",
+      "GDP per capita, PPP (constant 2017 international $)": "",
+      "Continent": "Africa"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae80fc2"
+      },
+      "Entity": "Europe (IHME GBD)",
+      "Code": "",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": 3.546587,
+      "GDP per capita, PPP (constant 2017 international $)": "",
+      "Continent": ""
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae80fe0"
+      },
+      "Entity": "Europe and Central Asia (WB)",
+      "Code": "",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": "",
+      "GDP per capita, PPP (constant 2017 international $)": 32662.637,
+      "Continent": ""
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae81000"
+      },
+      "Entity": "European Union (27)",
+      "Code": "",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": 3.5878563,
+      "GDP per capita, PPP (constant 2017 international $)": 40741.656,
+      "Continent": ""
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae81007"
+      },
+      "Entity": "Falkland Islands",
+      "Code": "FLK",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": "",
+      "GDP per capita, PPP (constant 2017 international $)": "",
+      "Continent": "South America"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae81008"
+      },
+      "Entity": "Faroe Islands",
+      "Code": "FRO",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": "",
+      "GDP per capita, PPP (constant 2017 international $)": "",
+      "Continent": "Europe"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae81022"
+      },
+      "Entity": "Fiji",
+      "Code": "FJI",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": 2.899448,
+      "GDP per capita, PPP (constant 2017 international $)": 11903.502,
+      "Continent": "Oceania"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae81042"
+      },
+      "Entity": "Finland",
+      "Code": "FIN",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": 4.13494,
+      "GDP per capita, PPP (constant 2017 international $)": 45072.59,
+      "Continent": "Europe"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae81062"
+      },
+      "Entity": "France",
+      "Code": "FRA",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": 3.8268294,
+      "GDP per capita, PPP (constant 2017 international $)": 43345.785,
+      "Continent": "Europe"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae81069"
+      },
+      "Entity": "French Guiana",
+      "Code": "GUF",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": "",
+      "GDP per capita, PPP (constant 2017 international $)": "",
+      "Continent": "South America"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae8106a"
+      },
+      "Entity": "French Polynesia",
+      "Code": "PYF",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": "",
+      "GDP per capita, PPP (constant 2017 international $)": "",
+      "Continent": "Oceania"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae8106b"
+      },
+      "Entity": "French Southern Territories",
+      "Code": "ATF",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": "",
+      "GDP per capita, PPP (constant 2017 international $)": "",
+      "Continent": "Antarctica"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae81085"
+      },
+      "Entity": "Gabon",
+      "Code": "GAB",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": 5.550644,
+      "GDP per capita, PPP (constant 2017 international $)": 14892.036,
+      "Continent": "Africa"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae810a5"
+      },
+      "Entity": "Gambia",
+      "Code": "GMB",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": 5.4839745,
+      "GDP per capita, PPP (constant 2017 international $)": 1905.823,
+      "Continent": "Africa"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae810c5"
+      },
+      "Entity": "Georgia",
+      "Code": "GEO",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": 3.299392,
+      "GDP per capita, PPP (constant 2017 international $)": 12605.14,
+      "Continent": "Asia"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae810e5"
+      },
+      "Entity": "Germany",
+      "Code": "DEU",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": 3.501964,
+      "GDP per capita, PPP (constant 2017 international $)": 51159.297,
+      "Continent": "Europe"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae81105"
+      },
+      "Entity": "Ghana",
+      "Code": "GHA",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": 4.3536882,
+      "GDP per capita, PPP (constant 2017 international $)": 4616.6196,
+      "Continent": "Africa"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae8110c"
+      },
+      "Entity": "Gibraltar",
+      "Code": "GIB",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": "",
+      "GDP per capita, PPP (constant 2017 international $)": "",
+      "Continent": "Europe"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae81126"
+      },
+      "Entity": "Greece",
+      "Code": "GRC",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": 4.7407064,
+      "GDP per capita, PPP (constant 2017 international $)": 28260.387,
+      "Continent": "Europe"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae81146"
+      },
+      "Entity": "Greenland",
+      "Code": "GRL",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": 6.0161996,
+      "GDP per capita, PPP (constant 2017 international $)": "",
+      "Continent": "North America"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae81164"
+      },
+      "Entity": "Grenada",
+      "Code": "GRD",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": 3.2003934,
+      "GDP per capita, PPP (constant 2017 international $)": 13948.467,
+      "Continent": "North America"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae8116b"
+      },
+      "Entity": "Guadeloupe",
+      "Code": "GLP",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": "",
+      "GDP per capita, PPP (constant 2017 international $)": "",
+      "Continent": "North America"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae81185"
+      },
+      "Entity": "Guam",
+      "Code": "GUM",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": 3.198387,
+      "GDP per capita, PPP (constant 2017 international $)": "",
+      "Continent": "Oceania"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae811a3"
+      },
+      "Entity": "Guatemala",
+      "Code": "GTM",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": 3.6883667,
+      "GDP per capita, PPP (constant 2017 international $)": 8125.656,
+      "Continent": "North America"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae811aa"
+      },
+      "Entity": "Guernsey",
+      "Code": "GGY",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": "",
+      "GDP per capita, PPP (constant 2017 international $)": "",
+      "Continent": "Europe"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae811c4"
+      },
+      "Entity": "Guinea",
+      "Code": "GIN",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": 4.366143,
+      "GDP per capita, PPP (constant 2017 international $)": 2053.1116,
+      "Continent": "Africa"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae811e4"
+      },
+      "Entity": "Guinea-Bissau",
+      "Code": "GNB",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": 4.483795,
+      "GDP per capita, PPP (constant 2017 international $)": 1748.0292,
+      "Continent": "Africa"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae81204"
+      },
+      "Entity": "Guyana",
+      "Code": "GUY",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": 5.0122976,
+      "GDP per capita, PPP (constant 2017 international $)": 11446.764,
+      "Continent": "South America"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae81224"
+      },
+      "Entity": "Haiti",
+      "Code": "HTI",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": 3.614001,
+      "GDP per capita, PPP (constant 2017 international $)": 3141.0469,
+      "Continent": "North America"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae8122b"
+      },
+      "Entity": "Hanover",
+      "Code": "OWID_HAN",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": "",
+      "GDP per capita, PPP (constant 2017 international $)": "",
+      "Continent": "Europe"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae8122c"
+      },
+      "Entity": "Heard Island and McDonald Islands",
+      "Code": "HMD",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": "",
+      "GDP per capita, PPP (constant 2017 international $)": "",
+      "Continent": "Antarctica"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae8122d"
+      },
+      "Entity": "Hesse Electoral",
+      "Code": "OWID_HSE",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": "",
+      "GDP per capita, PPP (constant 2017 international $)": "",
+      "Continent": "Europe"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae8122e"
+      },
+      "Entity": "Hesse Grand Ducal",
+      "Code": "OWID_HSG",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": "",
+      "GDP per capita, PPP (constant 2017 international $)": "",
+      "Continent": "Europe"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae81248"
+      },
+      "Entity": "High-income countries",
+      "Code": "",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": 3.6158853,
+      "GDP per capita, PPP (constant 2017 international $)": 46897.363,
+      "Continent": ""
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae81268"
+      },
+      "Entity": "Honduras",
+      "Code": "HND",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": 3.1681056,
+      "GDP per capita, PPP (constant 2017 international $)": 5180.1865,
+      "Continent": "North America"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae81288"
+      },
+      "Entity": "Hong Kong",
+      "Code": "HKG",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": "",
+      "GDP per capita, PPP (constant 2017 international $)": 57214.69,
+      "Continent": "Asia"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae812a8"
+      },
+      "Entity": "Hungary",
+      "Code": "HUN",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": 2.8250878,
+      "GDP per capita, PPP (constant 2017 international $)": 27528.307,
+      "Continent": "Europe"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae812c8"
+      },
+      "Entity": "Iceland",
+      "Code": "ISL",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": 2.9143543,
+      "GDP per capita, PPP (constant 2017 international $)": 52142.934,
+      "Continent": "Europe"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae812e8"
+      },
+      "Entity": "India",
+      "Code": "IND",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": 3.7183788,
+      "GDP per capita, PPP (constant 2017 international $)": 5411.8755,
+      "Continent": "Asia"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae81308"
+      },
+      "Entity": "Indonesia",
+      "Code": "IDN",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": 2.3780065,
+      "GDP per capita, PPP (constant 2017 international $)": 10121.841,
+      "Continent": "Asia"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae81328"
+      },
+      "Entity": "Iran",
+      "Code": "IRN",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": 4.994914,
+      "GDP per capita, PPP (constant 2017 international $)": 14010.858,
+      "Continent": "Asia"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae81348"
+      },
+      "Entity": "Iraq",
+      "Code": "IRQ",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": 3.9488745,
+      "GDP per capita, PPP (constant 2017 international $)": 9371.214,
+      "Continent": "Asia"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae81368"
+      },
+      "Entity": "Ireland",
+      "Code": "IRL",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": 4.0138073,
+      "GDP per capita, PPP (constant 2017 international $)": 71490.805,
+      "Continent": "Europe"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae8136f"
+      },
+      "Entity": "Isle of Man",
+      "Code": "IMN",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": "",
+      "GDP per capita, PPP (constant 2017 international $)": "",
+      "Continent": "Europe"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae81389"
+      },
+      "Entity": "Israel",
+      "Code": "ISR",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": 4.133762,
+      "GDP per capita, PPP (constant 2017 international $)": 37321.016,
+      "Continent": "Asia"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae813a9"
+      },
+      "Entity": "Italy",
+      "Code": "ITA",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": 3.5063431,
+      "GDP per capita, PPP (constant 2017 international $)": 40247.83,
+      "Continent": "Europe"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae813c9"
+      },
+      "Entity": "Jamaica",
+      "Code": "JAM",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": 2.9564729,
+      "GDP per capita, PPP (constant 2017 international $)": 9800.507,
+      "Continent": "North America"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae813e9"
+      },
+      "Entity": "Japan",
+      "Code": "JPN",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": 2.1013238,
+      "GDP per capita, PPP (constant 2017 international $)": 40402.582,
+      "Continent": "Asia"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae813f0"
+      },
+      "Entity": "Jersey",
+      "Code": "JEY",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": "",
+      "GDP per capita, PPP (constant 2017 international $)": "",
+      "Continent": "Europe"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae8140a"
+      },
+      "Entity": "Jordan",
+      "Code": "JOR",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": 4.089964,
+      "GDP per capita, PPP (constant 2017 international $)": 9912.713,
+      "Continent": "Asia"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae8142a"
+      },
+      "Entity": "Kazakhstan",
+      "Code": "KAZ",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": 3.460202,
+      "GDP per capita, PPP (constant 2017 international $)": 24290.418,
+      "Continent": "Asia"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae8144a"
+      },
+      "Entity": "Kenya",
+      "Code": "KEN",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": 4.7195163,
+      "GDP per capita, PPP (constant 2017 international $)": 4163.925,
+      "Continent": "Africa"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae8146a"
+      },
+      "Entity": "Kiribati",
+      "Code": "KIR",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": 2.9641416,
+      "GDP per capita, PPP (constant 2017 international $)": 2038.4865,
+      "Continent": "Oceania"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae81471"
+      },
+      "Entity": "Korea (former)",
+      "Code": "OWID_KRU",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": "",
+      "GDP per capita, PPP (constant 2017 international $)": "",
+      "Continent": "Asia"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae81479"
+      },
+      "Entity": "Kosovo",
+      "Code": "OWID_KOS",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": "",
+      "GDP per capita, PPP (constant 2017 international $)": 9445.105,
+      "Continent": "Europe"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae81499"
+      },
+      "Entity": "Kuwait",
+      "Code": "KWT",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": 3.993085,
+      "GDP per capita, PPP (constant 2017 international $)": 53808.125,
+      "Continent": "Asia"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae814b8"
+      },
+      "Entity": "Kyrgyzstan",
+      "Code": "KGZ",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": 3.4073129,
+      "GDP per capita, PPP (constant 2017 international $)": 4805.141,
+      "Continent": "Asia"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae814d8"
+      },
+      "Entity": "Laos",
+      "Code": "LAO",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": 2.7558112,
+      "GDP per capita, PPP (constant 2017 international $)": 6499.0728,
+      "Continent": "Asia"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae814f8"
+      },
+      "Entity": "Latin America and Caribbean (WB)",
+      "Code": "",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": "",
+      "GDP per capita, PPP (constant 2017 international $)": 15944.908,
+      "Continent": ""
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae81518"
+      },
+      "Entity": "Latvia",
+      "Code": "LVA",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": 3.7204535,
+      "GDP per capita, PPP (constant 2017 international $)": 26628.355,
+      "Continent": "Europe"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae81538"
+      },
+      "Entity": "Lebanon",
+      "Code": "LBN",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": 5.002804,
+      "GDP per capita, PPP (constant 2017 international $)": 16611.72,
+      "Continent": "Asia"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae81558"
+      },
+      "Entity": "Lesotho",
+      "Code": "LSO",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": 5.4719477,
+      "GDP per capita, PPP (constant 2017 international $)": 2625.637,
+      "Continent": "Africa"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae81578"
+      },
+      "Entity": "Liberia",
+      "Code": "LBR",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": 4.844007,
+      "GDP per capita, PPP (constant 2017 international $)": 1581.055,
+      "Continent": "Africa"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae81598"
+      },
+      "Entity": "Libya",
+      "Code": "LBY",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": 4.376139,
+      "GDP per capita, PPP (constant 2017 international $)": 19108.943,
+      "Continent": "Africa"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae8159f"
+      },
+      "Entity": "Liechtenstein",
+      "Code": "LIE",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": "",
+      "GDP per capita, PPP (constant 2017 international $)": "",
+      "Continent": "Europe"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae815b9"
+      },
+      "Entity": "Lithuania",
+      "Code": "LTU",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": 4.012482,
+      "GDP per capita, PPP (constant 2017 international $)": 30748.197,
+      "Continent": "Europe"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae815d9"
+      },
+      "Entity": "Low-income countries",
+      "Code": "",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": 4.636626,
+      "GDP per capita, PPP (constant 2017 international $)": 1893.4667,
+      "Continent": ""
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae815f9"
+      },
+      "Entity": "Lower-middle-income countries",
+      "Code": "",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": 3.618356,
+      "GDP per capita, PPP (constant 2017 international $)": 6309.6113,
+      "Continent": ""
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae81619"
+      },
+      "Entity": "Luxembourg",
+      "Code": "LUX",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": 3.212435,
+      "GDP per capita, PPP (constant 2017 international $)": 113182.73,
+      "Continent": "Europe"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae81639"
+      },
+      "Entity": "Macao",
+      "Code": "MAC",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": "",
+      "GDP per capita, PPP (constant 2017 international $)": 116855.53,
+      "Continent": "Asia"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae81659"
+      },
+      "Entity": "Madagascar",
+      "Code": "MDG",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": 4.719717,
+      "GDP per capita, PPP (constant 2017 international $)": 1508.3744,
+      "Continent": "Africa"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae81679"
+      },
+      "Entity": "Malawi",
+      "Code": "MWI",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": 4.094196,
+      "GDP per capita, PPP (constant 2017 international $)": 1440.8423,
+      "Continent": "Africa"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae81699"
+      },
+      "Entity": "Malaysia",
+      "Code": "MYS",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": 3.6310363,
+      "GDP per capita, PPP (constant 2017 international $)": 24151.26,
+      "Continent": "Asia"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae816b9"
+      },
+      "Entity": "Maldives",
+      "Code": "MDV",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": 2.9499943,
+      "GDP per capita, PPP (constant 2017 international $)": 18051.07,
+      "Continent": "Asia"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae816d9"
+      },
+      "Entity": "Mali",
+      "Code": "MLI",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": 3.4958656,
+      "GDP per capita, PPP (constant 2017 international $)": 2060.0986,
+      "Continent": "Africa"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae816f9"
+      },
+      "Entity": "Malta",
+      "Code": "MLT",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": 3.034439,
+      "GDP per capita, PPP (constant 2017 international $)": 39903.938,
+      "Continent": "Europe"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae81719"
+      },
+      "Entity": "Marshall Islands",
+      "Code": "MHL",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": 2.8762221,
+      "GDP per capita, PPP (constant 2017 international $)": 4195.8345,
+      "Continent": "Oceania"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae81720"
+      },
+      "Entity": "Martinique",
+      "Code": "MTQ",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": "",
+      "GDP per capita, PPP (constant 2017 international $)": "",
+      "Continent": "North America"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae8173a"
+      },
+      "Entity": "Mauritania",
+      "Code": "MRT",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": 3.6299915,
+      "GDP per capita, PPP (constant 2017 international $)": 5151.9,
+      "Continent": "Africa"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae8175a"
+      },
+      "Entity": "Mauritius",
+      "Code": "MUS",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": 3.8136356,
+      "GDP per capita, PPP (constant 2017 international $)": 20549.629,
+      "Continent": "Africa"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae81761"
+      },
+      "Entity": "Mayotte",
+      "Code": "MYT",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": "",
+      "GDP per capita, PPP (constant 2017 international $)": "",
+      "Continent": "Africa"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae81762"
+      },
+      "Entity": "Mecklenburg Schwerin",
+      "Code": "OWID_MEC",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": "",
+      "GDP per capita, PPP (constant 2017 international $)": "",
+      "Continent": "Europe"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae8177c"
+      },
+      "Entity": "Mexico",
+      "Code": "MEX",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": 3.533733,
+      "GDP per capita, PPP (constant 2017 international $)": 19542.89,
+      "Continent": "North America"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae8179c"
+      },
+      "Entity": "Micronesia (country)",
+      "Code": "FSM",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": 2.901558,
+      "GDP per capita, PPP (constant 2017 international $)": 3429.7427,
+      "Continent": "Oceania"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae817bc"
+      },
+      "Entity": "Middle East and North Africa (WB)",
+      "Code": "",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": "",
+      "GDP per capita, PPP (constant 2017 international $)": 15705.3,
+      "Continent": ""
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae817dc"
+      },
+      "Entity": "Middle-income countries",
+      "Code": "",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": "",
+      "GDP per capita, PPP (constant 2017 international $)": 10089.007,
+      "Continent": ""
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae817e3"
+      },
+      "Entity": "Modena",
+      "Code": "OWID_MOD",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": "",
+      "GDP per capita, PPP (constant 2017 international $)": "",
+      "Continent": "Europe"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae817fd"
+      },
+      "Entity": "Moldova",
+      "Code": "MDA",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": 3.231198,
+      "GDP per capita, PPP (constant 2017 international $)": 10355.539,
+      "Continent": "Europe"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae8181d"
+      },
+      "Entity": "Monaco",
+      "Code": "MCO",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": 4.059995,
+      "GDP per capita, PPP (constant 2017 international $)": "",
+      "Continent": "Europe"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae8183b"
+      },
+      "Entity": "Mongolia",
+      "Code": "MNG",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": 4.0130086,
+      "GDP per capita, PPP (constant 2017 international $)": 11134.802,
+      "Continent": "Asia"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae8185b"
+      },
+      "Entity": "Montenegro",
+      "Code": "MNE",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": 2.8116167,
+      "GDP per capita, PPP (constant 2017 international $)": 18266.879,
+      "Continent": "Europe"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae81862"
+      },
+      "Entity": "Montserrat",
+      "Code": "MSR",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": "",
+      "GDP per capita, PPP (constant 2017 international $)": "",
+      "Continent": "North America"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae8187c"
+      },
+      "Entity": "Morocco",
+      "Code": "MAR",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": 5.095763,
+      "GDP per capita, PPP (constant 2017 international $)": 7687.691,
+      "Continent": "Africa"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae8189c"
+      },
+      "Entity": "Mozambique",
+      "Code": "MOZ",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": 4.962045,
+      "GDP per capita, PPP (constant 2017 international $)": 1271.9619,
+      "Continent": "Africa"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae818bc"
+      },
+      "Entity": "Myanmar",
+      "Code": "MMR",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": 2.1683154,
+      "GDP per capita, PPP (constant 2017 international $)": 3748.2942,
+      "Continent": "Asia"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae818c3"
+      },
+      "Entity": "Nagorno-Karabakh",
+      "Code": "OWID_NAG",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": "",
+      "GDP per capita, PPP (constant 2017 international $)": "",
+      "Continent": "Asia"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae818dd"
+      },
+      "Entity": "Namibia",
+      "Code": "NAM",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": 3.5992053,
+      "GDP per capita, PPP (constant 2017 international $)": 10813.227,
+      "Continent": "Africa"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae818fd"
+      },
+      "Entity": "Nauru",
+      "Code": "NRU",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": 3.1421247,
+      "GDP per capita, PPP (constant 2017 international $)": 12567.816,
+      "Continent": "Oceania"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae8191d"
+      },
+      "Entity": "Nepal",
+      "Code": "NPL",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": 4.849969,
+      "GDP per capita, PPP (constant 2017 international $)": 3260.035,
+      "Continent": "Asia"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae8193d"
+      },
+      "Entity": "Netherlands",
+      "Code": "NLD",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": 3.4438915,
+      "GDP per capita, PPP (constant 2017 international $)": 52974.117,
+      "Continent": "Europe"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae81944"
+      },
+      "Entity": "Netherlands Antilles",
+      "Code": "ANT",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": "",
+      "GDP per capita, PPP (constant 2017 international $)": "",
+      "Continent": "North America"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae81945"
+      },
+      "Entity": "New Caledonia",
+      "Code": "NCL",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": "",
+      "GDP per capita, PPP (constant 2017 international $)": "",
+      "Continent": "Oceania"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae8195f"
+      },
+      "Entity": "New Zealand",
+      "Code": "NZL",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": 3.7224247,
+      "GDP per capita, PPP (constant 2017 international $)": 41020.312,
+      "Continent": "Oceania"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae8197f"
+      },
+      "Entity": "Nicaragua",
+      "Code": "NIC",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": 3.2666008,
+      "GDP per capita, PPP (constant 2017 international $)": 5563.004,
+      "Continent": "North America"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae8199f"
+      },
+      "Entity": "Niger",
+      "Code": "NER",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": 4.193723,
+      "GDP per capita, PPP (constant 2017 international $)": 1124.41,
+      "Continent": "Africa"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae819bf"
+      },
+      "Entity": "Nigeria",
+      "Code": "NGA",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": 3.81249,
+      "GDP per capita, PPP (constant 2017 international $)": 5429.0996,
+      "Continent": "Africa"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae819df"
+      },
+      "Entity": "Niue",
+      "Code": "NIU",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": 3.1353981,
+      "GDP per capita, PPP (constant 2017 international $)": "",
+      "Continent": "Oceania"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae819e4"
+      },
+      "Entity": "Norfolk Island",
+      "Code": "NFK",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": "",
+      "GDP per capita, PPP (constant 2017 international $)": "",
+      "Continent": "Oceania"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae819fe"
+      },
+      "Entity": "North America (WB)",
+      "Code": "",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": "",
+      "GDP per capita, PPP (constant 2017 international $)": 57338.97,
+      "Continent": ""
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae81a1e"
+      },
+      "Entity": "North Korea",
+      "Code": "PRK",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": 2.6812007,
+      "GDP per capita, PPP (constant 2017 international $)": "",
+      "Continent": "Asia"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae81a3c"
+      },
+      "Entity": "North Macedonia",
+      "Code": "MKD",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": 2.5494494,
+      "GDP per capita, PPP (constant 2017 international $)": 15141.992,
+      "Continent": "Europe"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae81a43"
+      },
+      "Entity": "Northern Cyprus",
+      "Code": "OWID_CYN",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": "",
+      "GDP per capita, PPP (constant 2017 international $)": "",
+      "Continent": "Asia"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae81a5d"
+      },
+      "Entity": "Northern Mariana Islands",
+      "Code": "MNP",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": 2.7600515,
+      "GDP per capita, PPP (constant 2017 international $)": "",
+      "Continent": "Oceania"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae81a7b"
+      },
+      "Entity": "Norway",
+      "Code": "NOR",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": 3.1464283,
+      "GDP per capita, PPP (constant 2017 international $)": 62987.516,
+      "Continent": "Europe"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae81a9b"
+      },
+      "Entity": "Oman",
+      "Code": "OMN",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": 3.9072137,
+      "GDP per capita, PPP (constant 2017 international $)": 35188.023,
+      "Continent": "Asia"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae81abb"
+      },
+      "Entity": "Pakistan",
+      "Code": "PAK",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": 3.8279138,
+      "GDP per capita, PPP (constant 2017 international $)": 4552.6055,
+      "Continent": "Asia"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae81adb"
+      },
+      "Entity": "Palau",
+      "Code": "PLW",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": 3.1001368,
+      "GDP per capita, PPP (constant 2017 international $)": 18402.53,
+      "Continent": "Oceania"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae81afb"
+      },
+      "Entity": "Palestine",
+      "Code": "PSE",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": 6.5264244,
+      "GDP per capita, PPP (constant 2017 international $)": 6048.9766,
+      "Continent": "Asia"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae81b1b"
+      },
+      "Entity": "Panama",
+      "Code": "PAN",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": 2.9384346,
+      "GDP per capita, PPP (constant 2017 international $)": 28512.926,
+      "Continent": "North America"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae81b3b"
+      },
+      "Entity": "Papua New Guinea",
+      "Code": "PNG",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": 3.0808287,
+      "GDP per capita, PPP (constant 2017 international $)": 3813.1143,
+      "Continent": "Oceania"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae81b5b"
+      },
+      "Entity": "Paraguay",
+      "Code": "PRY",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": 3.7140288,
+      "GDP per capita, PPP (constant 2017 international $)": 12806.097,
+      "Continent": "South America"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae81b62"
+      },
+      "Entity": "Parma",
+      "Code": "OWID_PMA",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": "",
+      "GDP per capita, PPP (constant 2017 international $)": "",
+      "Continent": "Europe"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae81b7c"
+      },
+      "Entity": "Peru",
+      "Code": "PER",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": 2.1977386,
+      "GDP per capita, PPP (constant 2017 international $)": 12015.1875,
+      "Continent": "South America"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae81b9c"
+      },
+      "Entity": "Philippines",
+      "Code": "PHL",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": 2.7582357,
+      "GDP per capita, PPP (constant 2017 international $)": 7235.0815,
+      "Continent": "Asia"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae81ba3"
+      },
+      "Entity": "Pitcairn",
+      "Code": "PCN",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": "",
+      "GDP per capita, PPP (constant 2017 international $)": "",
+      "Continent": "Oceania"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae81bbd"
+      },
+      "Entity": "Poland",
+      "Code": "POL",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": 2.1118062,
+      "GDP per capita, PPP (constant 2017 international $)": 27667.69,
+      "Continent": "Europe"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae81bdd"
+      },
+      "Entity": "Portugal",
+      "Code": "PRT",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": 4.29289,
+      "GDP per capita, PPP (constant 2017 international $)": 31118.791,
+      "Continent": "Europe"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae81bfd"
+      },
+      "Entity": "Puerto Rico",
+      "Code": "PRI",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": 2.8211546,
+      "GDP per capita, PPP (constant 2017 international $)": 34311.04,
+      "Continent": "North America"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae81c1d"
+      },
+      "Entity": "Qatar",
+      "Code": "QAT",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": 3.9174216,
+      "GDP per capita, PPP (constant 2017 international $)": 101971.99,
+      "Continent": "Asia"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae81c24"
+      },
+      "Entity": "Republic of Vietnam",
+      "Code": "OWID_RVN",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": "",
+      "GDP per capita, PPP (constant 2017 international $)": "",
+      "Continent": "Asia"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae81c25"
+      },
+      "Entity": "Reunion",
+      "Code": "REU",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": "",
+      "GDP per capita, PPP (constant 2017 international $)": "",
+      "Continent": "Africa"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae81c3f"
+      },
+      "Entity": "Romania",
+      "Code": "ROU",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": 2.640764,
+      "GDP per capita, PPP (constant 2017 international $)": 23937.46,
+      "Continent": "Europe"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae81c5f"
+      },
+      "Entity": "Russia",
+      "Code": "RUS",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": 3.1158228,
+      "GDP per capita, PPP (constant 2017 international $)": 25488.096,
+      "Continent": "Europe"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae81c7f"
+      },
+      "Entity": "Rwanda",
+      "Code": "RWA",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": 5.054237,
+      "GDP per capita, PPP (constant 2017 international $)": 1844.7169,
+      "Continent": "Africa"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae81c86"
+      },
+      "Entity": "Saint Barthelemy",
+      "Code": "BLM",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": "",
+      "GDP per capita, PPP (constant 2017 international $)": "",
+      "Continent": "North America"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae81c87"
+      },
+      "Entity": "Saint Helena",
+      "Code": "SHN",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": "",
+      "GDP per capita, PPP (constant 2017 international $)": "",
+      "Continent": "Africa"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae81ca1"
+      },
+      "Entity": "Saint Kitts and Nevis",
+      "Code": "KNA",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": 3.9097104,
+      "GDP per capita, PPP (constant 2017 international $)": 28219.11,
+      "Continent": "North America"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae81cc1"
+      },
+      "Entity": "Saint Lucia",
+      "Code": "LCA",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": 3.2474663,
+      "GDP per capita, PPP (constant 2017 international $)": 14339.109,
+      "Continent": "North America"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae81cc8"
+      },
+      "Entity": "Saint Martin (French part)",
+      "Code": "MAF",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": "",
+      "GDP per capita, PPP (constant 2017 international $)": "",
+      "Continent": "North America"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae81cc9"
+      },
+      "Entity": "Saint Pierre and Miquelon",
+      "Code": "SPM",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": "",
+      "GDP per capita, PPP (constant 2017 international $)": "",
+      "Continent": "North America"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae81ce3"
+      },
+      "Entity": "Saint Vincent and the Grenadines",
+      "Code": "VCT",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": 3.3062103,
+      "GDP per capita, PPP (constant 2017 international $)": 12762.135,
+      "Continent": "North America"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae81d03"
+      },
+      "Entity": "Samoa",
+      "Code": "WSM",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": 2.7889104,
+      "GDP per capita, PPP (constant 2017 international $)": 5811.005,
+      "Continent": "Oceania"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae81d23"
+      },
+      "Entity": "San Marino",
+      "Code": "SMR",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": 4.084571,
+      "GDP per capita, PPP (constant 2017 international $)": 57542.984,
+      "Continent": "Europe"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae81d42"
+      },
+      "Entity": "Sao Tome and Principe",
+      "Code": "STP",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": 3.6497588,
+      "GDP per capita, PPP (constant 2017 international $)": 3762.5698,
+      "Continent": "Africa"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae81d62"
+      },
+      "Entity": "Saudi Arabia",
+      "Code": "SAU",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": 4.192158,
+      "GDP per capita, PPP (constant 2017 international $)": 47379.355,
+      "Continent": "Asia"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae81d69"
+      },
+      "Entity": "Saxony",
+      "Code": "OWID_SAX",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": "",
+      "GDP per capita, PPP (constant 2017 international $)": "",
+      "Continent": "Europe"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae81d83"
+      },
+      "Entity": "Senegal",
+      "Code": "SEN",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": 3.999768,
+      "GDP per capita, PPP (constant 2017 international $)": 3012.3833,
+      "Continent": "Africa"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae81da3"
+      },
+      "Entity": "Serbia",
+      "Code": "SRB",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": 2.8073838,
+      "GDP per capita, PPP (constant 2017 international $)": 15581.014,
+      "Continent": "Europe"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae81daa"
+      },
+      "Entity": "Serbia and Montenegro",
+      "Code": "OWID_SRM",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": "",
+      "GDP per capita, PPP (constant 2017 international $)": "",
+      "Continent": "Europe"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae81dab"
+      },
+      "Entity": "Serbia excluding Kosovo",
+      "Code": "OWID_SEK",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": "",
+      "GDP per capita, PPP (constant 2017 international $)": "",
+      "Continent": "Europe"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae81dc5"
+      },
+      "Entity": "Seychelles",
+      "Code": "SYC",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": 2.6231592,
+      "GDP per capita, PPP (constant 2017 international $)": 26198.72,
+      "Continent": "Africa"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae81de5"
+      },
+      "Entity": "Sierra Leone",
+      "Code": "SLE",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": 4.4049,
+      "GDP per capita, PPP (constant 2017 international $)": 1513.562,
+      "Continent": "Africa"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae81e05"
+      },
+      "Entity": "Singapore",
+      "Code": "SGP",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": 1.9435817,
+      "GDP per capita, PPP (constant 2017 international $)": 89160.73,
+      "Continent": "Asia"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae81e12"
+      },
+      "Entity": "Sint Maarten (Dutch part)",
+      "Code": "SXM",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": "",
+      "GDP per capita, PPP (constant 2017 international $)": 41852.406,
+      "Continent": "North America"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae81e2f"
+      },
+      "Entity": "Slovakia",
+      "Code": "SVK",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": 2.6960647,
+      "GDP per capita, PPP (constant 2017 international $)": 28728.156,
+      "Continent": "Europe"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae81e4f"
+      },
+      "Entity": "Slovenia",
+      "Code": "SVN",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": 3.1176937,
+      "GDP per capita, PPP (constant 2017 international $)": 33799.727,
+      "Continent": "Europe"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae81e6f"
+      },
+      "Entity": "Solomon Islands",
+      "Code": "SLB",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": 3.0018363,
+      "GDP per capita, PPP (constant 2017 international $)": 2534.7258,
+      "Continent": "Oceania"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae81e8f"
+      },
+      "Entity": "Somalia",
+      "Code": "SOM",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": 4.8432784,
+      "GDP per capita, PPP (constant 2017 international $)": 1029.6992,
+      "Continent": "Africa"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae81e96"
+      },
+      "Entity": "Somaliland",
+      "Code": "OWID_SML",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": "",
+      "GDP per capita, PPP (constant 2017 international $)": "",
+      "Continent": "Africa"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae81eb0"
+      },
+      "Entity": "South Africa",
+      "Code": "ZAF",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": 4.2300396,
+      "GDP per capita, PPP (constant 2017 international $)": 13887.211,
+      "Continent": "Africa"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae81ed0"
+      },
+      "Entity": "South Asia (WB)",
+      "Code": "",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": "",
+      "GDP per capita, PPP (constant 2017 international $)": 5205.7124,
+      "Continent": ""
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae81ed7"
+      },
+      "Entity": "South Georgia and the South Sandwich Islands",
+      "Code": "SGS",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": "",
+      "GDP per capita, PPP (constant 2017 international $)": "",
+      "Continent": "South America"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae81ef1"
+      },
+      "Entity": "South Korea",
+      "Code": "KOR",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": 2.136813,
+      "GDP per capita, PPP (constant 2017 international $)": 38828.742,
+      "Continent": "Asia"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae81ef8"
+      },
+      "Entity": "South Ossetia",
+      "Code": "OWID_SOS",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": "",
+      "GDP per capita, PPP (constant 2017 international $)": "",
+      "Continent": "Asia"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae81f12"
+      },
+      "Entity": "South Sudan",
+      "Code": "SSD",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": 4.693591,
+      "GDP per capita, PPP (constant 2017 international $)": "",
+      "Continent": "Africa"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae81f30"
+      },
+      "Entity": "Spain",
+      "Code": "ESP",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": 4.549931,
+      "GDP per capita, PPP (constant 2017 international $)": 37373.95,
+      "Continent": "Europe"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae81f50"
+      },
+      "Entity": "Sri Lanka",
+      "Code": "LKA",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": 2.8567615,
+      "GDP per capita, PPP (constant 2017 international $)": 12420.553,
+      "Continent": "Asia"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae81f70"
+      },
+      "Entity": "Sub-Saharan Africa (WB)",
+      "Code": "",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": "",
+      "GDP per capita, PPP (constant 2017 international $)": 3853.2708,
+      "Continent": ""
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae81f90"
+      },
+      "Entity": "Sudan",
+      "Code": "SDN",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": 4.3897004,
+      "GDP per capita, PPP (constant 2017 international $)": 4718.919,
+      "Continent": "Africa"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae81fb0"
+      },
+      "Entity": "Suriname",
+      "Code": "SUR",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": 4.722758,
+      "GDP per capita, PPP (constant 2017 international $)": 18768.795,
+      "Continent": "South America"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae81fb7"
+      },
+      "Entity": "Svalbard and Jan Mayen",
+      "Code": "SJM",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": "",
+      "GDP per capita, PPP (constant 2017 international $)": "",
+      "Continent": "Europe"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae81fd1"
+      },
+      "Entity": "Sweden",
+      "Code": "SWE",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": 4.120638,
+      "GDP per capita, PPP (constant 2017 international $)": 50928.965,
+      "Continent": "Europe"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae81ff1"
+      },
+      "Entity": "Switzerland",
+      "Code": "CHE",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": 3.6999056,
+      "GDP per capita, PPP (constant 2017 international $)": 68159.22,
+      "Continent": "Europe"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae82011"
+      },
+      "Entity": "Syria",
+      "Code": "SYR",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": 4.0190196,
+      "GDP per capita, PPP (constant 2017 international $)": "",
+      "Continent": "Asia"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae8202f"
+      },
+      "Entity": "Taiwan",
+      "Code": "TWN",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": 2.5891738,
+      "GDP per capita, PPP (constant 2017 international $)": "",
+      "Continent": "Asia"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae8204d"
+      },
+      "Entity": "Tajikistan",
+      "Code": "TJK",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": 2.7887883,
+      "GDP per capita, PPP (constant 2017 international $)": 2959.9941,
+      "Continent": "Asia"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae8206d"
+      },
+      "Entity": "Tanzania",
+      "Code": "TZA",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": 4.608593,
+      "GDP per capita, PPP (constant 2017 international $)": 2306.6382,
+      "Continent": "Africa"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae8208d"
+      },
+      "Entity": "Thailand",
+      "Code": "THA",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": 2.866937,
+      "GDP per capita, PPP (constant 2017 international $)": 15919.37,
+      "Continent": "Asia"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae820ad"
+      },
+      "Entity": "Togo",
+      "Code": "TGO",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": 4.489354,
+      "GDP per capita, PPP (constant 2017 international $)": 1881.9052,
+      "Continent": "Africa"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae820cd"
+      },
+      "Entity": "Tokelau",
+      "Code": "TKL",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": 3.1284373,
+      "GDP per capita, PPP (constant 2017 international $)": "",
+      "Continent": "Oceania"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae820eb"
+      },
+      "Entity": "Tonga",
+      "Code": "TON",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": 2.6666741,
+      "GDP per capita, PPP (constant 2017 international $)": 5644.535,
+      "Continent": "Oceania"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae820f2"
+      },
+      "Entity": "Transnistria",
+      "Code": "OWID_TRS",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": "",
+      "GDP per capita, PPP (constant 2017 international $)": "",
+      "Continent": "Europe"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae8210c"
+      },
+      "Entity": "Trinidad and Tobago",
+      "Code": "TTO",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": 3.7896087,
+      "GDP per capita, PPP (constant 2017 international $)": 29876.98,
+      "Continent": "North America"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae8212c"
+      },
+      "Entity": "Tunisia",
+      "Code": "TUN",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": 5.004467,
+      "GDP per capita, PPP (constant 2017 international $)": 10749.49,
+      "Continent": "Africa"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae8214c"
+      },
+      "Entity": "Turkey",
+      "Code": "TUR",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": 4.0584426,
+      "GDP per capita, PPP (constant 2017 international $)": 25594.66,
+      "Continent": "Asia"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae8216c"
+      },
+      "Entity": "Turkmenistan",
+      "Code": "TKM",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": 3.0603309,
+      "GDP per capita, PPP (constant 2017 international $)": 12540.284,
+      "Continent": "Asia"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae82175"
+      },
+      "Entity": "Turks and Caicos Islands",
+      "Code": "TCA",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": "",
+      "GDP per capita, PPP (constant 2017 international $)": 26284.723,
+      "Continent": "North America"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae8217c"
+      },
+      "Entity": "Tuscany",
+      "Code": "OWID_TUS",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": "",
+      "GDP per capita, PPP (constant 2017 international $)": "",
+      "Continent": "Europe"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae82196"
+      },
+      "Entity": "Tuvalu",
+      "Code": "TUV",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": 3.1300519,
+      "GDP per capita, PPP (constant 2017 international $)": 3895.9304,
+      "Continent": "Oceania"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae8219d"
+      },
+      "Entity": "Two Sicilies",
+      "Code": "OWID_SIC",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": "",
+      "GDP per capita, PPP (constant 2017 international $)": "",
+      "Continent": "Europe"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae8219e"
+      },
+      "Entity": "USSR",
+      "Code": "OWID_USS",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": "",
+      "GDP per capita, PPP (constant 2017 international $)": "",
+      "Continent": "Europe"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae821b8"
+      },
+      "Entity": "Uganda",
+      "Code": "UGA",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": 6.5792217,
+      "GDP per capita, PPP (constant 2017 international $)": 2108.8604,
+      "Continent": "Africa"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae821d8"
+      },
+      "Entity": "Ukraine",
+      "Code": "UKR",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": 3.8831425,
+      "GDP per capita, PPP (constant 2017 international $)": 11216.118,
+      "Continent": "Europe"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae821f8"
+      },
+      "Entity": "United Arab Emirates",
+      "Code": "ARE",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": 3.54274,
+      "GDP per capita, PPP (constant 2017 international $)": 68076.63,
+      "Continent": "Asia"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae82218"
+      },
+      "Entity": "United Kingdom",
+      "Code": "GBR",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": 4.1568666,
+      "GDP per capita, PPP (constant 2017 international $)": 44948.336,
+      "Continent": "Europe"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae82238"
+      },
+      "Entity": "United States",
+      "Code": "USA",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": 4.3821406,
+      "GDP per capita, PPP (constant 2017 international $)": 58427.55,
+      "Continent": "North America"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae8223f"
+      },
+      "Entity": "United States Minor Outlying Islands",
+      "Code": "UMI",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": "",
+      "GDP per capita, PPP (constant 2017 international $)": "",
+      "Continent": "Oceania"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae82259"
+      },
+      "Entity": "United States Virgin Islands",
+      "Code": "VIR",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": 3.302299,
+      "GDP per capita, PPP (constant 2017 international $)": "",
+      "Continent": "North America"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae82277"
+      },
+      "Entity": "Upper-middle-income countries",
+      "Code": "",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": 3.1331546,
+      "GDP per capita, PPP (constant 2017 international $)": 14978.602,
+      "Continent": ""
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae82297"
+      },
+      "Entity": "Uruguay",
+      "Code": "URY",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": 2.872776,
+      "GDP per capita, PPP (constant 2017 international $)": 22486.428,
+      "Continent": "South America"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae822b7"
+      },
+      "Entity": "Uzbekistan",
+      "Code": "UZB",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": 3.1789303,
+      "GDP per capita, PPP (constant 2017 international $)": 6401.115,
+      "Continent": "Asia"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae822d7"
+      },
+      "Entity": "Vanuatu",
+      "Code": "VUT",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": 2.968273,
+      "GDP per capita, PPP (constant 2017 international $)": 2859.3496,
+      "Continent": "Oceania"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae822de"
+      },
+      "Entity": "Vatican",
+      "Code": "VAT",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": "",
+      "GDP per capita, PPP (constant 2017 international $)": "",
+      "Continent": "Europe"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae822f8"
+      },
+      "Entity": "Venezuela",
+      "Code": "VEN",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": 3.1925762,
+      "GDP per capita, PPP (constant 2017 international $)": "",
+      "Continent": "South America"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae82316"
+      },
+      "Entity": "Vietnam",
+      "Code": "VNM",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": 2.4713755,
+      "GDP per capita, PPP (constant 2017 international $)": 8091.0903,
+      "Continent": "Asia"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae8231d"
+      },
+      "Entity": "Wallis and Futuna",
+      "Code": "WLF",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": "",
+      "GDP per capita, PPP (constant 2017 international $)": "",
+      "Continent": "Oceania"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae8231e"
+      },
+      "Entity": "West Germany",
+      "Code": "OWID_GFR",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": "",
+      "GDP per capita, PPP (constant 2017 international $)": "",
+      "Continent": "Europe"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae8231f"
+      },
+      "Entity": "Western Sahara",
+      "Code": "ESH",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": "",
+      "GDP per capita, PPP (constant 2017 international $)": "",
+      "Continent": "Africa"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae82339"
+      },
+      "Entity": "World",
+      "Code": "OWID_WRL",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": 3.4255397,
+      "GDP per capita, PPP (constant 2017 international $)": 15433.18,
+      "Continent": ""
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae82340"
+      },
+      "Entity": "Wuerttemburg",
+      "Code": "OWID_WRT",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": "",
+      "GDP per capita, PPP (constant 2017 international $)": "",
+      "Continent": "Europe"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae8235a"
+      },
+      "Entity": "Yemen",
+      "Code": "YEM",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": 4.892351,
+      "GDP per capita, PPP (constant 2017 international $)": "",
+      "Continent": "Asia"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae8235f"
+      },
+      "Entity": "Yemen Arab Republic",
+      "Code": "OWID_YAR",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": "",
+      "GDP per capita, PPP (constant 2017 international $)": "",
+      "Continent": "Asia"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae82360"
+      },
+      "Entity": "Yemen People's Republic",
+      "Code": "OWID_YPR",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": "",
+      "GDP per capita, PPP (constant 2017 international $)": "",
+      "Continent": "Asia"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae82361"
+      },
+      "Entity": "Yugoslavia",
+      "Code": "OWID_YGS",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": "",
+      "GDP per capita, PPP (constant 2017 international $)": "",
+      "Continent": "Europe"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae8237b"
+      },
+      "Entity": "Zambia",
+      "Code": "ZMB",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": 4.1974974,
+      "GDP per capita, PPP (constant 2017 international $)": 3365.3792,
+      "Continent": "Africa"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae82382"
+      },
+      "Entity": "Zanzibar",
+      "Code": "OWID_ZAN",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": "",
+      "GDP per capita, PPP (constant 2017 international $)": "",
+      "Continent": "Africa"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae8239c"
+      },
+      "Entity": "Zimbabwe",
+      "Code": "ZWE",
+      "Year": 2015,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": 3.407624,
+      "GDP per capita, PPP (constant 2017 international $)": 2313.8787,
+      "Continent": "Africa"
+    }
+  ],
+  "Query 2 Heart": [
+    {
+      "_id": 0,
+      "count": 203
+    },
+    {
+      "_id": 1,
+      "count": 96
+    }
+  ],
+  "Query 2 Depressive": [
+    {
+      "_id": "Oceania",
+      "count": 26
+    },
+    {
+      "_id": "Antarctica",
+      "count": 4
+    },
+    {
+      "_id": "",
+      "count": 7013
+    },
+    {
+      "_id": "Europe",
+      "count": 75
+    },
+    {
+      "_id": "South America",
+      "count": 15
+    },
+    {
+      "_id": "North America",
+      "count": 42
+    },
+    {
+      "_id": "Asia",
+      "count": 62
+    },
+    {
+      "_id": "Africa",
+      "count": 61
+    }
+  ],
+  "Query 5 Heart": [
+    {
+      "_id": 0,
+      "average_age": 60.681448275862074
+    },
+    {
+      "_id": 1,
+      "average_age": 61.15625
+    }
+  ],
+  "Query 5 Depressive": [
+    {
+      "_id": "Africa",
+      "total_entries": 61
+    },
+    {
+      "_id": "Antarctica",
+      "total_entries": 4
+    },
+    {
+      "_id": "Oceania",
+      "total_entries": 26
+    },
+    {
+      "_id": "Europe",
+      "total_entries": 75
+    },
+    {
+      "_id": "South America",
+      "total_entries": 15
+    },
+    {
+      "_id": "Asia",
+      "total_entries": 62
+    },
+    {
+      "_id": "North America",
+      "total_entries": 42
+    },
+    {
+      "_id": "",
+      "total_entries": 1347
+    }
+  ],
+  "Query 6 Heart": [
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae805fa"
+      },
+      "age": 65.0,
+      "anaemia": 1,
+      "creatinine_phosphokinase": 160,
+      "diabetes": 1,
+      "ejection_fraction": 20,
+      "high_blood_pressure": 0,
+      "platelets": 327000.0,
+      "serum_creatinine": 2.7,
+      "serum_sodium": 116,
+      "sex": 0,
+      "smoking": 0,
+      "time": 8,
+      "DEATH_EVENT": 1
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae805fe"
+      },
+      "age": 65.0,
+      "anaemia": 0,
+      "creatinine_phosphokinase": 157,
+      "diabetes": 0,
+      "ejection_fraction": 65,
+      "high_blood_pressure": 0,
+      "platelets": 263358.03,
+      "serum_creatinine": 1.5,
+      "serum_sodium": 138,
+      "sex": 0,
+      "smoking": 0,
+      "time": 10,
+      "DEATH_EVENT": 1
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae80604"
+      },
+      "age": 49.0,
+      "anaemia": 1,
+      "creatinine_phosphokinase": 80,
+      "diabetes": 0,
+      "ejection_fraction": 30,
+      "high_blood_pressure": 1,
+      "platelets": 427000.0,
+      "serum_creatinine": 1.0,
+      "serum_sodium": 138,
+      "sex": 0,
+      "smoking": 0,
+      "time": 12,
+      "DEATH_EVENT": 0
+    }
+  ],
+  "Query 6 Depressive": [
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae80721"
+      },
+      "Entity": "Abkhazia",
+      "Code": "OWID_ABK",
+      "Year": 2016,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": "",
+      "GDP per capita, PPP (constant 2017 international $)": "",
+      "Continent": "Asia"
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae8073c"
+      },
+      "Entity": "Afghanistan",
+      "Code": "AFG",
+      "Year": 2016,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": 4.9370723,
+      "GDP per capita, PPP (constant 2017 international $)": 2101.422,
+      "Continent": ""
+    },
+    {
+      "_id": {
+        "$oid": "658864c5f663434ddae8075c"
+      },
+      "Entity": "Africa (IHME GBD)",
+      "Code": "",
+      "Year": 2016,
+      "Depressive disorders (share of population) - Sex: Both - Age: Age-standardized": 4.4485073,
+      "GDP per capita, PPP (constant 2017 international $)": "",
+      "Continent": ""
+    }
+  ],
+  "Query 7 Heart": [
+    {
+      "_id": 0,
+      "count": 174
+    },
+    {
+      "_id": 1,
+      "count": 125
+    }
+  ],
+  "Query 7 Depressive": [
+    {
+      "_id": "",
+      "count": 1347
+    },
+    {
+      "_id": "Europe",
+      "count": 75
+    }
+  ],
+  "Query 10 Heart": [
+    {
+      "_id": 0,
+      "average_ejection_fraction": 43.054794520547944
+    },
+    {
+      "_id": 1,
+      "average_ejection_fraction": 39.765306122448976
+    }
+  ],
+  "Query 10 Depressive": [
+    {
+      "_id": "Africa",
+      "total_entries": 61
+    },
+    {
+      "_id": "Antarctica",
+      "total_entries": 4
+    },
+    {
+      "_id": "Oceania",
+      "total_entries": 26
+    },
+    {
+      "_id": "Europe",
+      "total_entries": 75
+    },
+    {
+      "_id": "South America",
+      "total_entries": 15
+    },
+    {
+      "_id": "Asia",
+      "total_entries": 61
+    },
+    {
+      "_id": "North America",
+      "total_entries": 42
+    },
+    {
+      "_id": "",
+      "total_entries": 247
+    }
+  ]
+}

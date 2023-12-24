@@ -1,16 +1,28 @@
 import sqlite3
 import json
 
+def write_to_file(filename, data):
+    with open(filename, "w", encoding='utf-8') as r_json:
+        r_json.write(
+            json.dumps(
+                data,
+                indent=2,
+                ensure_ascii=False,
+            )
+        )
+
 conn = sqlite3.connect('data.db')
+conn.row_factory = sqlite3.Row
 cursor = conn.cursor()
 
 create_table_query_2 = '''
-    CREATE TABLE "data_table_2" (
+    CREATE TABLE "book_sales" (
         "id" INTEGER PRIMARY KEY AUTOINCREMENT,
         "title" TEXT,
         "price" INTEGER,
         "place" TEXT,
-        "date" TEXT
+        "date" TEXT,
+        FOREIGN KEY ("title") REFERENCES "books" ("title")
     );
 '''
 cursor.execute(create_table_query_2)
@@ -18,51 +30,49 @@ cursor.execute(create_table_query_2)
 with open('task_2_var_48_subitem.json', 'r', encoding='utf-8') as file:
     data_2 = json.load(file)
 
-for row in data_2:
-    cursor.execute('''
-        INSERT INTO data_table_2 ("title", "price", "place", "date")
+data_as_tuples = [(item["title"], item["price"], item["place"], item["date"]) for item in data_2]
+
+cursor.executemany('''
+        INSERT INTO book_sales ("title", "price", "place", "date")
         VALUES (?, ?, ?, ?)
-    ''', (row['title'], row['price'], row['place'], row['date']))
+    ''', data_as_tuples)
 
 conn.commit()
 
 # Запрос 1
 cursor.execute('''
-    SELECT data_table.title, data_table.author, data_table_2.price
-    FROM data_table
-    JOIN data_table_2 ON data_table.title = data_table_2.title
-    WHERE data_table_2.place = 'offline'
+    SELECT books.title, books.author, book_sales.price
+    FROM books
+    JOIN book_sales ON books.title = book_sales.title
+    WHERE book_sales.place = 'offline'
     LIMIT 10;
 ''')
 result_1 = cursor.fetchall()
-
-with open('output_1.json', 'w', encoding='utf-8') as output_file:
-    json.dump(result_1, output_file, ensure_ascii=False, indent=2)
+result_1 = [dict(row) for row in result_1]
+write_to_file('output_1.json', result_1)
 
 # Запрос 2
 cursor.execute('''
-    SELECT data_table.title, data_table.genre, data_table_2.date
-    FROM data_table
-    JOIN data_table_2 ON data_table.title = data_table_2.title
-    WHERE data_table_2.price > 4000
+    SELECT books.title, books.genre, book_sales.date
+    FROM books
+    JOIN book_sales ON books.title = book_sales.title
+    WHERE book_sales.price > 4000
     LIMIT 10;
 ''')
 result_2 = cursor.fetchall()
-
-with open('output_2.json', 'w', encoding='utf-8') as output_file:
-    json.dump(result_2, output_file, ensure_ascii=False, indent=2)
+result_2 = [dict(row) for row in result_2]
+write_to_file('output_2.json', result_2)
 
 # Запрос 3
 cursor.execute('''
-    SELECT data_table.title, AVG(data_table_2.price)
-    FROM data_table
-    JOIN data_table_2 ON data_table.title = data_table_2.title
-    GROUP BY data_table.title
+    SELECT books.title, AVG(book_sales.price)
+    FROM books
+    JOIN book_sales ON books.title = book_sales.title
+    GROUP BY books.title
     LIMIT 10;
 ''')
 result_3 = cursor.fetchall()
-
-with open('output_3.json', 'w', encoding='utf-8') as output_file:
-    json.dump(result_3, output_file, ensure_ascii=False, indent=2)
+result_3 = [dict(row) for row in result_3]
+write_to_file('output_3.json', result_3)
 
 conn.close()

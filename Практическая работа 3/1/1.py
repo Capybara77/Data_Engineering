@@ -15,12 +15,12 @@ with ZipFile("zip_var_48.zip", "r") as zip_ref:
 
         soup = BeautifulSoup(html_content, "html.parser")
 
-        city = soup.select_one('.build-wrapper > div:nth-child(1) > span').text.strip()
+        city = soup.select_one('.build-wrapper > div:nth-child(1) > span').text.strip().replace('Город: ', '')
         structure_title = soup.select_one('.title').text.strip().replace('\n', ' ').replace('\t', ' ').replace('  ', ' ').replace('   ', ' ').replace('\r', '')
         address = soup.select_one('.address-p').text.strip().replace('\n', ' ').replace('\t', ' ').replace('  ', ' ').replace('   ', ' ').replace('\r', '')
         floors = int(soup.select_one('.floors').text.split(':')[-1].strip())
         year_built = int(soup.select_one('.year').text.split()[-1].strip())
-        parking = soup.select('div:nth-child(3) > span')[2].text.strip().split(':')[-1].strip()
+        parking = (soup.select('div:nth-child(3) > span')[2].text.strip().split(':')[-1].strip()) == "есть"
         image_url = soup.select_one('img')['src']
         rating = float(soup.select('div:nth-child(5) > span')[0].text.split(':')[-1].strip())
         views = int(soup.select('div:nth-child(5) > span')[1].text.split(':')[-1].strip())
@@ -51,7 +51,7 @@ sorted_filepath = os.path.join('results', 'sorted_results.json')
 with open(sorted_filepath, 'w', encoding='utf-8') as sorted_file:
     json.dump(sorted_data, sorted_file, ensure_ascii=False, indent=2)
 
-filtered_data = [item for item in all_data if item['parking'].lower() == 'есть']
+filtered_data = [item for item in all_data if item['parking'] == True]
 filtered_filepath = os.path.join('results', 'filtered_results.json')
 
 with open(filtered_filepath, 'w', encoding='utf-8') as filtered_file:

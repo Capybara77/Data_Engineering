@@ -1,0 +1,34 @@
+[
+  {
+    "City": "Будапешт",
+    "Average_Price": 10.41
+  },
+  {
+    "City": "Валенсия",
+    "Average_Price": 139.86700000000002
+  },
+  {
+    "City": "Луго",
+    "Average_Price": 84.25
+  },
+  {
+    "City": "Любляна",
+    "Average_Price": 87.63
+  },
+  {
+    "City": "Санкт-Петербург",
+    "Average_Price": 16.1
+  },
+  {
+    "City": "Ташкент",
+    "Average_Price": 24.7573
+  },
+  {
+    "City": "Хихон",
+    "Average_Price": 17.47
+  },
+  {
+    "City": "Эль-Пуэрто-де-Санта-Мария",
+    "Average_Price": 92.47
+  }
+]

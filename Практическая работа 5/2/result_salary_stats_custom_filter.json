@@ -1,1 +1,1 @@
-[{"_id": null, "min_salary": 188753, "avg_salary": 188753.0, "max_salary": 188753}]
+[{"_id": {"city": "Барселона", "job": "Программист"}, "min_salary": 58698, "avg_salary": 123725.5, "max_salary": 188753}, {"_id": {"city": "Барселона", "job": "Учитель"}, "min_salary": 64456, "avg_salary": 64456.0, "max_salary": 64456}]

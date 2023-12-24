@@ -2,14 +2,26 @@ import sqlite3
 import pickle
 import json
 
+def write_to_file(filename, data):
+    with open(filename, "w", encoding='utf-8') as r_json:
+        r_json.write(
+            json.dumps(
+                data,
+                indent=2,
+                ensure_ascii=False,
+            )
+        )
+
 with open('task_1_var_48_item.pkl', 'rb') as file:
     data = pickle.load(file)
 
 conn = sqlite3.connect('data.db')
+conn.row_factory = sqlite3.Row
 cursor = conn.cursor()
 
+
 create_table_query = '''
-    CREATE TABLE "data_table" (
+    CREATE TABLE "books" (
         "id" INTEGER PRIMARY KEY AUTOINCREMENT,
         "title" TEXT,
         "author" TEXT,
@@ -23,45 +35,52 @@ create_table_query = '''
 '''
 cursor.execute(create_table_query)
 
-for row in data:
-    cursor.execute('''
-        INSERT INTO data_table ("title", "author", "genre", "pages", "published_year", "isbn", "rating", "views")
-        VALUES (?, ?, ?, ?, ?, ?, ?, ?)
-    ''', (row['title'], row['author'], row['genre'], row['pages'], row['published_year'], row['isbn'], row['rating'], row['views']))
+data_as_tuples = [(item["title"], item["author"], item["genre"], item["pages"], item["published_year"], item["isbn"], item["rating"], item["views"]) for item in data]
+
+cursor.executemany('''
+    INSERT INTO books ("title", "author", "genre", "pages", "published_year", "isbn", "rating", "views")
+    VALUES (?, ?, ?, ?, ?, ?, ?, ?)
+''', data_as_tuples)
 
 conn.commit()
 
 # Запрос 1: Вывод первых (VAR+10) отсортированных по произвольному числовому полю строк из таблицы в файл формата json
 var_value = 48
-cursor.execute(f'SELECT * FROM data_table ORDER BY rating LIMIT {var_value + 10}')
+cursor.execute(f'SELECT * FROM books ORDER BY rating LIMIT ?', ((var_value + 10),))
 result_1 = cursor.fetchall()
 
-result_1_decoded = json.loads(json.dumps(result_1, ensure_ascii=False))
+result_1 = [dict(row) for row in result_1]
 
-with open('output_1.json', 'w', encoding='utf-8') as output_file:
-    json.dump(result_1_decoded, output_file, ensure_ascii=False, indent=2)
+write_to_file('output_1.json', result_1)
 
 # Запрос 2: Вывод (сумму, мин, макс, среднее) по произвольному числовому полю
-numeric_field = 'pages'
-cursor.execute(f'SELECT SUM({numeric_field}), MIN({numeric_field}), MAX({numeric_field}), AVG({numeric_field}) FROM data_table')
+query = f'SELECT SUM(pages), MIN(pages), MAX(pages), AVG(pages) FROM books'
+cursor.execute(query)
 result_2 = cursor.fetchone()
-print(f'Sum: {result_2[0]}, Min: {result_2[1]}, Max: {result_2[2]}, Average: {result_2[3]}')
+
+result_2_dict = {
+    'Sum': result_2[0],
+    'Min': result_2[1],
+    'Max': result_2[2],
+    'Average': result_2[3]
+}
+
+write_to_file('output_2.json', result_2_dict)
 
 # Запрос 3: Вывод частоты встречаемости для категориального поля
-categorical_field = 'genre'
-cursor.execute(f'SELECT {categorical_field}, COUNT(*) FROM data_table GROUP BY {categorical_field}')
+cursor.execute(f'SELECT genre, COUNT(*) as count FROM books GROUP BY genre')
 result_3 = cursor.fetchall()
-print(result_3)
+result_3 = [dict(row) for row in result_3]
+
+write_to_file('output_3.json', result_3)
 
 # Запрос 4: Вывод первых (VAR+10) отфильтрованных по произвольному предикату отсортированных по произвольному числовому полю строк из таблицы в файл формате json
 var_predicate = 2015
-predicate_field = 'published_year'
-cursor.execute(f'SELECT * FROM data_table WHERE {predicate_field} > {var_predicate} ORDER BY rating LIMIT {var_value + 10}')
+cursor.execute(f'SELECT * FROM books WHERE published_year > ? ORDER BY rating LIMIT ?', (var_predicate, var_value + 10,))
 result_4 = cursor.fetchall()
 
-result_4_decoded = json.loads(json.dumps(result_4, ensure_ascii=False))
+result_4 = [dict(row) for row in result_4]
 
-with open('output_2.json', 'w', encoding='utf-8') as output_file:
-    json.dump(result_4_decoded, output_file, ensure_ascii=False, indent=2)
+write_to_file('output_4.json', result_4)
     
 conn.close()

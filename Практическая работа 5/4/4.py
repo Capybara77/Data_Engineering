@@ -1,67 +1,102 @@
-# Предметная область - продажа бу авто
-# csv.csv - данные по авто (бренд, модель)
-# sell_history.json - данные о продажах авто (модель, цена)
-# cars_year.json - данные о годах выпуска авто (модель, год)
+# https://www.kaggle.com/datasets/bhavikjikadara/heart-failure-prediction
+# https://www.kaggle.com/datasets/matviyamchislavskiy/1990-2019-depression-and-gdp-per-capita-everywhere
 
+import pandas as pd
 from pymongo import MongoClient
-import csv
+from bson import json_util
+
+client = MongoClient()
+db = client['health_data']
+collection_heart = db['heart_data']
+collection_depressive = db['depressive_data']
+
+heart_data = pd.read_csv('heart_failure_clinical_records.csv')
+heart_data = heart_data.to_dict(orient='records')
+collection_heart.insert_many(heart_data)
+
 import json
 
-client = MongoClient('localhost', 27017)
-db = client['car_database']
+with open('depressive-disorders-prevalence-vs-gdp-per-capita.json', 'r') as file:
+    depressive_data = json.load(file)
 
-collection_cars = db['Cars']
-with open('csv.csv', 'r') as csv_file:
-    csv_reader = csv.reader(csv_file, delimiter=';')
-    next(csv_reader)
-    for row in csv_reader:
-        collection_cars.insert_one({
-            'Brand': row[0],
-            'Model': row[1]
-        })
+collection_depressive.insert_many(depressive_data)
 
-collection_sell_history = db['SellHistory']
-with open('sell_history.json', 'r') as json_file:
-    sell_history_data = json.load(json_file)
-    for record in sell_history_data:
-        collection_sell_history.insert_one({
-            'Model': record['Model'],
-            'Price': record['Price']
-        })
+# выборка данных
+query_1_heart = list(collection_heart.find({"age": {"$gt": 60}}))
+query_1_depressive = list(collection_depressive.find({"Year": 2015}))
 
-collection_car_year = db['CarYear']
-with open('cars_year.json', 'r') as json_file:
-    car_year_data = json.load(json_file)
-    for record in car_year_data:
-        collection_car_year.insert_one({
-            'Model': record['Model'],
-            'Year': record['Year']
-        })
-
-# Задание 1: Выборка
-result_select_all_models = list(collection_cars.find({}, {'Model': 1, '_id': 0}))
-with open('result_select_all_models.json', 'w', encoding='utf-8') as json_file:
-    json.dump(result_select_all_models, json_file, default=str, ensure_ascii=False)
-
-# Задание 2: Выбор с агрегацией
-result_avg_price_by_model = list(collection_sell_history.aggregate([
-    {"$group": {
-        "_id": "$Model",
-        "avg_price": {"$avg": "$Price"}
-    }}
+# выборка с агрегацией
+query_2_heart = list(collection_heart.aggregate([
+    {"$group": {"_id": "$smoking", "count": {"$sum": 1}}}
 ]))
-with open('result_avg_price_by_model.json', 'w', encoding='utf-8') as json_file:
-    json.dump(result_avg_price_by_model, json_file, default=str, ensure_ascii=False)
+query_2_depressive = list(collection_depressive.aggregate([
+    {"$group": {"_id": "$Continent", "count": {"$sum": 1}}}
+]))
 
-# Задание 3: Обновление года выпуска для определенной модели
-model_to_update = "e-tron Sportback"
-new_year = 2023
-collection_car_year.update_one({'Model': model_to_update}, {"$set": {'Year': new_year}})
-print(f"\nДанные для модели {model_to_update} обновлены. Новый год выпуска: {new_year}")
+# обновление данных
+collection_heart.update_many({"sex": 1}, {"$inc": {"ejection_fraction": 5}})
+collection_depressive.update_many({"Entity": "Abkhazia"}, {"$set": {"Year": 2016}})
 
-# Удаление данных о продажах для определенной модели
-model_to_delete = "Omega"
-collection_sell_history.delete_many({'Model': model_to_delete})
-print(f"\nДанные о продажах для модели {model_to_delete} удалены.")
+# удаление данных по условию
+collection_heart.delete_many({"age": {"$lt": 40}})
+collection_depressive.delete_many({"Year": {"$lt": 2015}})
+
+# группировка данных
+query_5_heart = list(collection_heart.aggregate([
+    {"$group": {"_id": "$smoking", "average_age": {"$avg": "$age"}}}
+]))
+query_5_depressive = list(collection_depressive.aggregate([
+    {"$group": {"_id": "$Continent", "total_entries": {"$sum": 1}}}
+]))
+
+# выборка данных
+query_6_heart = list(collection_heart.find({"sex": 0}).limit(3))
+query_6_depressive = list(collection_depressive.find({"Year": 2016}).limit(3))
+
+# выборка с агрегацией
+query_7_heart = list(collection_heart.aggregate([
+    {"$group": {"_id": "$diabetes", "count": {"$sum": 1}}},
+    {"$sort": {"count": -1}},
+    {"$limit": 2}
+]))
+query_7_depressive = list(collection_depressive.aggregate([
+    {"$group": {"_id": "$Continent", "count": {"$sum": 1}}},
+    {"$sort": {"count": -1}},
+    {"$limit": 2}
+]))
+
+# обновление данных
+collection_heart.update_many({"diabetes": 0}, {"$inc": {"creatinine_phosphokinase": 50, "serum_sodium": 3}})
+collection_depressive.update_many({"Entity": "Afghanistan"}, {"$set": {"Year": 2017}})
+
+# удаление данных по условию
+collection_heart.delete_many({"time": {"$lt": 50}})
+collection_depressive.delete_many({"Year": {"$gt": 2016}})
+
+# группировка данных
+query_10_heart = list(collection_heart.aggregate([
+    {"$group": {"_id": "$diabetes", "average_ejection_fraction": {"$avg": "$ejection_fraction"}}}
+]))
+query_10_depressive = list(collection_depressive.aggregate([
+    {"$group": {"_id": "$Continent", "total_entries": {"$sum": 1}}}
+]))
+
+results = {
+    "Query 1 Heart": json.loads(json_util.dumps(query_1_heart)),
+    "Query 1 Depressive": json.loads(json_util.dumps(query_1_depressive)),
+    "Query 2 Heart": json.loads(json_util.dumps(query_2_heart)),
+    "Query 2 Depressive": json.loads(json_util.dumps(query_2_depressive)),
+    "Query 5 Heart": json.loads(json_util.dumps(query_5_heart)),
+    "Query 5 Depressive": json.loads(json_util.dumps(query_5_depressive)),
+    "Query 6 Heart": json.loads(json_util.dumps(query_6_heart)),
+    "Query 6 Depressive": json.loads(json_util.dumps(query_6_depressive)),
+    "Query 7 Heart": json.loads(json_util.dumps(query_7_heart)),
+    "Query 7 Depressive": json.loads(json_util.dumps(query_7_depressive)),
+    "Query 10 Heart": json.loads(json_util.dumps(query_10_heart)),
+    "Query 10 Depressive": json.loads(json_util.dumps(query_10_depressive)),
+}
+
+with open('query_results.json', 'w') as json_file:
+    json.dump(results, json_file, indent=2)
 
 client.close()

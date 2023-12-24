@@ -3,6 +3,16 @@ import msgpack
 import sqlite3
 import os
 
+def write_to_file(filename, data):
+    with open(filename, "w", encoding='utf-8') as r_json:
+        r_json.write(
+            json.dumps(
+                data,
+                indent=2,
+                ensure_ascii=False,
+            )
+        )
+
 if os.path.exists('data.db'):
     os.remove('data.db')
 
@@ -16,45 +26,124 @@ def read_json_file(file_path):
         data = json.load(file)
     return data
 
+# обработка обновлений
+def quantity_sub(cursor, conn, param, product_name):
+    cursor.execute(
+        """
+        UPDATE products
+        SET quantity = quantity - ?
+        WHERE name = ?
+    """,
+        (param, product_name),
+    )
+    conn.commit()
+
+def quantity_add(cursor, conn, param, product_name):
+    cursor.execute(
+        """
+        UPDATE products
+        SET quantity = quantity + ?
+        WHERE name = ?
+    """,
+        (param, product_name),
+    )
+    conn.commit()
+
+def price_abs(cursor, conn, param, product_name):
+    cursor.execute(
+        """
+        UPDATE products
+        SET price = price + ?
+        WHERE name = ?
+    """,
+        (param, product_name),
+    )
+    conn.commit()
+
+
+def price_percent(cursor, conn, param, product_name):
+    cursor.execute(
+        """
+        UPDATE products
+        SET price = price * ?
+        WHERE name = ?
+    """,
+        (param, product_name),
+    )
+    conn.commit()
+
+
+def available(cursor, conn, param, product_name):
+    cursor.execute(
+        """
+        UPDATE products
+        SET isAvailable = ?
+        WHERE name = ?
+    """,
+        (param, product_name),
+    )
+    conn.commit()
+
+
+def remove(cursor, conn, param, product_name):
+    cursor.execute(
+        """
+        DELETE FROM products
+        WHERE name = ?
+    """,
+        (product_name,),
+    )
+    conn.commit()
+
+
 def apply_updates(conn, updates):
-    conn.row_factory = sqlite3.Row
     cursor = conn.cursor()
     
     for update in updates:
         product_name = update['name']
-
-        cursor.execute('SELECT * FROM products WHERE name = ?', (product_name,))
-        product = cursor.fetchone()
-
-        if product is not None:
-            cursor.execute('UPDATE products SET counter = counter + 1 WHERE name = ?', (product_name,))
-            
-            if update['method'] == 'quantity_sub':
-                new_quantity = max(product['quantity'] - update['param'], 0)
-                cursor.execute('UPDATE products SET quantity = ? WHERE name = ?', (new_quantity, product_name))
-            elif update['method'] == 'quantity_add':
-                new_quantity = product['quantity'] + update['param']
-                cursor.execute('UPDATE products SET quantity = ? WHERE name = ?', (new_quantity, product_name))
-            elif update['method'] == 'price_percent':
-                new_price = round(product['price'] * (1 + update['param']), 2)
-                cursor.execute('UPDATE products SET price = ? WHERE name = ?', (new_price, product_name))
-            elif update['method'] == 'available':
-                cursor.execute('UPDATE products SET isAvailable = ? WHERE name = ?', (update['param'], product_name))
-            elif update['method'] == 'remove':
-                cursor.execute('DELETE FROM products WHERE name = ?', (product_name,))
-            elif update['method'] == 'price_abs':
-                new_price = abs(update['param'])
-                cursor.execute('UPDATE products SET price = ? WHERE name = ?', (new_price, product_name))
-            else:
-                print(f"Unknown update method: {update['method']}")
+        param = update['param']
+        method = update['method']
+        
+        try:
+            if method == "quantity_sub":
+                quantity_sub(cursor, conn, param, product_name)
+            if method == "quantity_add":
+                quantity_add(cursor, conn, param, product_name)
+            if method == "price_abs":
+                price_abs(cursor, conn, param, product_name)
+            if method == "price_percent":
+                price_percent(cursor, conn, param, product_name)
+            if method == "available":
+                available(cursor, conn, param, product_name)
+            if method == "remove":
+                remove(cursor, conn, param, product_name)
                 
-            cursor.execute('SELECT * FROM products WHERE name = ?', (product_name,))
-            updated_product = cursor.fetchone()
-            if updated_product is not None:
-                if updated_product['price'] < 0:
-                    print(f"Invalid price for product {product_name}. Rolling back changes.")
-                    conn.rollback()
-                    return
+            cursor.execute('UPDATE products SET counter = counter + 1 WHERE name = ?', (product_name,))
+        except sqlite3.IntegrityError as e:
+            print(f"Error: {e}")
+
+    conn.commit()
+
+def create_insert_db(conn, product_data):
+    
+    cursor.execute('''
+        CREATE TABLE IF NOT EXISTS products (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            name TEXT NOT NULL,
+            price REAL NOT NULL CHECK("price" >= 0),
+            quantity INTEGER  NOT NULL CHECK("quantity" >= 0),
+            fromCity TEXT NOT NULL,
+            isAvailable BOOLEAN NOT NULL,
+            views INTEGER NOT NULL CHECK("views" >= 0),
+            counter INTEGER NOT NULL DEFAULT 0 CHECK("counter" >= 0)
+        )
+    ''')
+
+    for product in product_data:
+        cursor.execute('''
+            INSERT INTO products (name, price, quantity, fromCity, isAvailable, views)
+            VALUES (?, ?, ?, ?, ?, ?)
+        ''', (product['name'], product['price'], product['quantity'], product['fromCity'], product['isAvailable'], product['views']))
 
     conn.commit()
 
@@ -65,36 +154,21 @@ product_data = read_msgpack_file(product_data_file_path)
 update_data = read_json_file(update_data_file_path)
 
 conn = sqlite3.connect('data.db')
-
+conn.row_factory = sqlite3.Row
 cursor = conn.cursor()
-cursor.execute('''
-    CREATE TABLE IF NOT EXISTS products (
-        id INTEGER PRIMARY KEY AUTOINCREMENT,
-        name TEXT NOT NULL,
-        price INTEGER NOT NULL,
-        quantity INTEGER  NOT NULL,
-        fromCity TEXT NOT NULL,
-        isAvailable BOOLEAN NOT NULL,
-        views INTEGER NOT NULL,
-        counter INTEGER NOT NULL DEFAULT 0
-    )
-''')
 
-for product in product_data:
-    cursor.execute('''
-        INSERT INTO products (name, price, quantity, fromCity, isAvailable, views)
-        VALUES (?, ?, ?, ?, ?, ?)
-    ''', (product['name'], product['price'], product['quantity'], product['fromCity'], product['isAvailable'], product['views']))
-
-conn.commit()
-
+create_insert_db(conn, product_data)
 apply_updates(conn, update_data)
 
-top_updated_products = cursor.execute('SELECT name, counter FROM products ORDER BY counter DESC LIMIT 10').fetchall()
-print("Top 10 updated products:")
-for product in top_updated_products:
-    print(f"{product[0]}: {product[1]} updates")
+# вывести топ-10 самых обновляемых товаров
+top_updated_products = cursor.execute('''SELECT name, counter
+        FROM products
+        ORDER BY counter
+        DESC LIMIT 10''').fetchall()
 
+write_to_file("top_updated_products.json", [dict(row) for row in top_updated_products])
+
+# проанализировать цены товаров, найдя (сумму, мин, макс, среднее) для каждой группы, а также количество товаров в группе
 price_analysis_query = '''
     SELECT
         fromCity,
@@ -107,16 +181,22 @@ price_analysis_query = '''
     GROUP BY fromCity
 '''
 price_analysis_results = cursor.execute(price_analysis_query).fetchall()
-print("\nPrice analysis by group:")
-for result in price_analysis_results:
-    print(f"Group: {result[0]}")
-    print(f"Total Price: {result[1]}")
-    print(f"Min Price: {result[2]}")
-    print(f"Max Price: {result[3]}")
-    print(f"Avg Price: {result[4]}")
-    print(f"Product Count: {result[5]}")
-    print("\n")
 
+results_list = []
+for result in price_analysis_results:
+    group_result = {
+        "Group": result[0],
+        "Total Price": result[1],
+        "Min Price": result[2],
+        "Max Price": result[3],
+        "Avg Price": result[4],
+        "Product Count": result[5]
+    }
+    results_list.append(group_result)
+
+write_to_file("price_analysis.json", results_list)
+
+# проанализировать остатки товаров, найдя (сумму, мин, макс, среднее) для каждой группы товаров 
 quantity_analysis_query = '''
     SELECT
         fromCity,
@@ -129,16 +209,21 @@ quantity_analysis_query = '''
     GROUP BY fromCity
 '''
 quantity_analysis_results = cursor.execute(quantity_analysis_query).fetchall()
-print("Quantity analysis by group:")
+json_data = []
 for result in quantity_analysis_results:
-    print(f"Group: {result[0]}")
-    print(f"Total Quantity: {result[1]}")
-    print(f"Min Quantity: {result[2]}")
-    print(f"Max Quantity: {result[3]}")
-    print(f"Avg Quantity: {result[4]}")
-    print(f"Product Count: {result[5]}")
-    print("\n")
+    group_data = {
+        "Group": result[0],
+        "Total Quantity": result[1],
+        "Min Quantity": result[2],
+        "Max Quantity": result[3],
+        "Avg Quantity": result[4],
+        "Product Count": result[5],
+    }
+    json_data.append(group_data)
 
+write_to_file("quantity_analysis.json", json_data)
+
+# произвольный запрос
 custom_query = '''
     SELECT
         p.fromCity,
@@ -154,8 +239,7 @@ custom_query = '''
     GROUP BY p.fromCity
 '''
 custom_query_result = cursor.execute(custom_query).fetchall()
-print("Custom query result:")
-for result in custom_query_result:
-    print(f"City: {result[0]}, Average Price for products with quantity above average: {result[1]}")
+output_data = [{"City": result[0], "Average_Price": result[1]} for result in custom_query_result]
+write_to_file("custom_query.json", output_data)
 
 conn.close()
